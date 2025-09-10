@@ -28,13 +28,9 @@ English
 - Email：muxin333333@gmail.com
 ## 发起组织
 
+  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
 
-
-
-## 社群
-
-Telegram：
 
 ## 学习资料/课程安排
 
@@ -93,4 +89,5 @@ Telegram：
 ## 请假规则
 
 每周请假 2 次
+
 
