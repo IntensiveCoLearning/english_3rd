@@ -14,18 +14,18 @@ English
 
 ## 报名时间
 
-- 报名开始时间：2025-09-10
-- 报名结束时间：2025-09-16
+- 报名开始时间：2025-09-11
+- 报名结束时间：2025-09-18
 ## 共学时间
 
-- 共学开始时间：2025-09-17
-- 共学结束时间：2025-10-08
+- 共学开始时间：2025-09-19
+- 共学结束时间：2025-10-10
 ## 发起人
 
-- 姓名：Muxin
-- GitHub ID：muxin-web3
-- Telegram：muxin_eth
-- Email：muxin333333@gmail.com
+- 姓名：Blue
+- GitHub ID：B1u-e
+- Telegram：bblue626
+- Email：smurfs626@outlook.com
 ## 发起组织
 
   [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
@@ -114,7 +114,7 @@ English
 
 - [第一期](https://github.com/IntensiveCoLearning/english)，[第二期](https://github.com/IntensiveCoLearning/english_2nd?tab=readme-ov-file)：往期残酷共学资料与笔记参考。  
 - [Free4Talk](https://www.free4talk.com/)：免费的在线语言交流平台。  
-- [Test Your English](https://www.cambridgeenglish.org/hk/test-your-english/)：剑桥大学免费在线英语水平测试。  
+- [Test Your English](https://www.cambridgeenglish.org/hk/test-your-english/)：剑桥大学免费在线英语水平测试。
 
 
 
