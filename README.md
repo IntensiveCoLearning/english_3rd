@@ -15,11 +15,11 @@ English
 ## 报名时间
 
 - 报名开始时间：2025-09-11
-- 报名结束时间：2025-09-18
+- 报名结束时间：2025-09-14
 ## 共学时间
 
-- 共学开始时间：2025-09-19
-- 共学结束时间：2025-10-10
+- 共学开始时间：2025-09-15
+- 共学结束时间：2025-10-06
 ## 发起人
 
 - 姓名：Blue
@@ -30,9 +30,12 @@ English
 
   [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
 
+
+
 ## 请假规则
 
 每周请假 2 次
+
 
 ## 社群
 
