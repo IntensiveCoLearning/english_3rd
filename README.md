@@ -167,7 +167,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Soldier-Hacker](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Soldier-Hacker.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MRzzz-cyber.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [SuBCweb3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SuBCweb3.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [lokeey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lokeey.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
