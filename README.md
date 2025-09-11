@@ -164,7 +164,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Erickup18](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Erickup18.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [bcyb1122-liu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/bcyb1122-liu.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [lynn-000-cccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lynn-000-cccc.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Soldier-Hacker](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Soldier-Hacker.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
