@@ -199,7 +199,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Waiting-Chai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Waiting-Chai.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [MoonHub0503](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MoonHub0503.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [jjeejj](https://github.com/IntensiveCoLearning/english_3rd/blob/main/jjeejj.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Plato333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Plato333.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
