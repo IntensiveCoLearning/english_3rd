@@ -206,7 +206,9 @@ Telegram：https://t.me/LXDAO/6912
 | [look-new](https://github.com/IntensiveCoLearning/english_3rd/blob/main/look-new.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Youngho-Luk](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Youngho-Luk.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Readering1](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Readering1.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [OS-Lihua](https://github.com/IntensiveCoLearning/english_3rd/blob/main/OS-Lihua.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
