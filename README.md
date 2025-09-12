@@ -226,7 +226,9 @@ Telegram：https://t.me/LXDAO/6912
 | [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [0xhirugohan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhirugohan.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [yoko-pm](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yoko-pm.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Wking900](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wking900.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
