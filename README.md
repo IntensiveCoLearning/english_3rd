@@ -204,7 +204,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Viven901](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Viven901.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [camelliainforest](https://github.com/IntensiveCoLearning/english_3rd/blob/main/camelliainforest.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [look-new](https://github.com/IntensiveCoLearning/english_3rd/blob/main/look-new.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Youngho-Luk](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Youngho-Luk.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
