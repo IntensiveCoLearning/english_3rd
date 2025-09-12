@@ -223,7 +223,9 @@ Telegram：https://t.me/LXDAO/6912
 | [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
