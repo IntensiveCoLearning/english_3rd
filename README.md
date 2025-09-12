@@ -186,7 +186,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Lemonadeccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Lemonadeccc.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [chenyllove001](https://github.com/IntensiveCoLearning/english_3rd/blob/main/chenyllove001.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [evelive3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/evelive3.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [nanakodesuu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nanakodesuu.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
