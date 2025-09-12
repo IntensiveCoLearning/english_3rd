@@ -203,7 +203,9 @@ Telegram：https://t.me/LXDAO/6912
 | [LareinaLong](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LareinaLong.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Viven901](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Viven901.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [camelliainforest](https://github.com/IntensiveCoLearning/english_3rd/blob/main/camelliainforest.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [look-new](https://github.com/IntensiveCoLearning/english_3rd/blob/main/look-new.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
