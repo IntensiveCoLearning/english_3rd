@@ -183,7 +183,9 @@ Telegram：https://t.me/LXDAO/6912
 | [LukeNotes](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LukeNotes.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [flora2030](https://github.com/IntensiveCoLearning/english_3rd/blob/main/flora2030.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [lccc-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lccc-777.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Lemonadeccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Lemonadeccc.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
