@@ -195,7 +195,9 @@ Telegram：https://t.me/LXDAO/6912
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/meixingyu001-code.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [41surfer](https://github.com/IntensiveCoLearning/english_3rd/blob/main/41surfer.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [taiaiJiaZhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taiaiJiaZhi.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [zane3412](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zane3412.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
