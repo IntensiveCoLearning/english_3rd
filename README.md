@@ -174,7 +174,9 @@ Telegram：https://t.me/LXDAO/6912
 | [cole123466](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cole123466.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [william33-gif](https://github.com/IntensiveCoLearning/english_3rd/blob/main/william33-gif.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Cmingqiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Cmingqiu.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Zyuhui008](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Zyuhui008.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
