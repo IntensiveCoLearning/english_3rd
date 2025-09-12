@@ -192,7 +192,9 @@ Telegram：https://t.me/LXDAO/6912
 | [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [huaigu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/huaigu.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [meixingyu001-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/meixingyu001-code.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
