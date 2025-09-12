@@ -209,7 +209,9 @@ Telegram：https://t.me/LXDAO/6912
 | [OS-Lihua](https://github.com/IntensiveCoLearning/english_3rd/blob/main/OS-Lihua.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [hejtao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hejtao.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [lpppy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lpppy.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Thomas-YHS](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Thomas-YHS.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
