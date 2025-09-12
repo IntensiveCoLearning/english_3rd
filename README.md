@@ -231,7 +231,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Alwyn-Tan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Alwyn-Tan.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [ARZER-TW](https://github.com/IntensiveCoLearning/english_3rd/blob/main/ARZER-TW.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [e7924785-ops](https://github.com/IntensiveCoLearning/english_3rd/blob/main/e7924785-ops.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [alexsupa597](https://github.com/IntensiveCoLearning/english_3rd/blob/main/alexsupa597.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
