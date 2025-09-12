@@ -222,7 +222,9 @@ Telegram：https://t.me/LXDAO/6912
 | [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
