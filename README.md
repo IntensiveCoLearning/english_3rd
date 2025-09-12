@@ -234,7 +234,9 @@ Telegram：https://t.me/LXDAO/6912
 | [alexsupa597](https://github.com/IntensiveCoLearning/english_3rd/blob/main/alexsupa597.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [wakyde](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wakyde.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Nancy0209](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Nancy0209.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Ssssy-Sara](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Ssssy-Sara.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
