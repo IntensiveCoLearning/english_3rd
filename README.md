@@ -220,7 +220,9 @@ Telegram：https://t.me/LXDAO/6912
 | [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [hycnbbit](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hycnbbit.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
