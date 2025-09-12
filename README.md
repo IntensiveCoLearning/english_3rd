@@ -218,7 +218,9 @@ Telegram：https://t.me/LXDAO/6912
 | [3956ray](https://github.com/IntensiveCoLearning/english_3rd/blob/main/3956ray.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [xuran-xu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xuran-xu.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [hycnbbit](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hycnbbit.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
