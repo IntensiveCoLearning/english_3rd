@@ -200,7 +200,9 @@ Telegram：https://t.me/LXDAO/6912
 | [MoonHub0503](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MoonHub0503.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [jjeejj](https://github.com/IntensiveCoLearning/english_3rd/blob/main/jjeejj.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Plato333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Plato333.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [LareinaLong](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LareinaLong.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
