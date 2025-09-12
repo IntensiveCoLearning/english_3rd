@@ -196,7 +196,9 @@ Telegram：https://t.me/LXDAO/6912
 | [41surfer](https://github.com/IntensiveCoLearning/english_3rd/blob/main/41surfer.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [taiaiJiaZhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taiaiJiaZhi.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [zane3412](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zane3412.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Waiting-Chai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Waiting-Chai.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
