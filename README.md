@@ -190,7 +190,9 @@ Telegram：https://t.me/LXDAO/6912
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/pillowtalk-Qy.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [BiscuitCoder](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BiscuitCoder.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
