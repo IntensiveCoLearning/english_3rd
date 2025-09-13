@@ -241,7 +241,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Wind558](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wind558.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [liuyuhuai3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/liuyuhuai3.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [yhzhongc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yhzhongc.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [dddreame](https://github.com/IntensiveCoLearning/english_3rd/blob/main/dddreame.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
