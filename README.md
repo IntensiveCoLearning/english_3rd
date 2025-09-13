@@ -243,7 +243,9 @@ Telegram：https://t.me/LXDAO/6912
 | [yhzhongc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yhzhongc.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [dddreame](https://github.com/IntensiveCoLearning/english_3rd/blob/main/dddreame.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [Jessie-zzz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Jessie-zzz.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [kikyou1009](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kikyou1009.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
