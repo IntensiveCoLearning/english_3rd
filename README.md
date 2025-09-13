@@ -238,7 +238,9 @@ Telegram：https://t.me/LXDAO/6912
 | [zhouCode](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhouCode.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [LarixNi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LarixNi.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [Wind558](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wind558.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
