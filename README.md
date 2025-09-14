@@ -270,7 +270,9 @@ Telegram：https://t.me/LXDAO/6912
 | [RaeQiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/RaeQiu.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [yrd241](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yrd241.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [0xhha0](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhha0.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [BromdenX](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BromdenX.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
