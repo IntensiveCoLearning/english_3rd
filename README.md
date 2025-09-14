@@ -254,7 +254,9 @@ Telegram：https://t.me/LXDAO/6912
 | [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [yasmineyu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yasmineyu.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [XXXJCSAMA](https://github.com/IntensiveCoLearning/english_3rd/blob/main/XXXJCSAMA.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
