@@ -257,7 +257,9 @@ Telegram：https://t.me/LXDAO/6912
 | [XXXJCSAMA](https://github.com/IntensiveCoLearning/english_3rd/blob/main/XXXJCSAMA.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [surdress](https://github.com/IntensiveCoLearning/english_3rd/blob/main/surdress.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
