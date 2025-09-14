@@ -252,7 +252,9 @@ Telegram：https://t.me/LXDAO/6912
 | [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [crystalshu123](https://github.com/IntensiveCoLearning/english_3rd/blob/main/crystalshu123.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
