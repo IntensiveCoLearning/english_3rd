@@ -260,7 +260,9 @@ Telegram：https://t.me/LXDAO/6912
 | [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [averywexler](https://github.com/IntensiveCoLearning/english_3rd/blob/main/averywexler.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [easyshellworld](https://github.com/IntensiveCoLearning/english_3rd/blob/main/easyshellworld.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
