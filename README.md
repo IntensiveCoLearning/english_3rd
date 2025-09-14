@@ -268,7 +268,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Wjmwjm614](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wjmwjm614.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [M9nonper](https://github.com/IntensiveCoLearning/english_3rd/blob/main/M9nonper.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [RaeQiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/RaeQiu.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [yrd241](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yrd241.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
