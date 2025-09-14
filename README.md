@@ -272,7 +272,9 @@ Telegram：https://t.me/LXDAO/6912
 | [0xhha0](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhha0.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [BromdenX](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BromdenX.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [llllIIIIllllIIII](https://github.com/IntensiveCoLearning/english_3rd/blob/main/llllIIIIllllIIII.md) |   | | | | | | | | | | | | | | | | | | | | | |
+| [zlp528](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zlp528.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
