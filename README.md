@@ -251,7 +251,9 @@ Telegram：https://t.me/LXDAO/6912
 | [scottcwy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/scottcwy.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [crystalshu123](https://github.com/IntensiveCoLearning/english_3rd/blob/main/crystalshu123.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
