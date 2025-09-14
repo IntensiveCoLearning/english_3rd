@@ -263,7 +263,9 @@ Telegram：https://t.me/LXDAO/6912
 | [easyshellworld](https://github.com/IntensiveCoLearning/english_3rd/blob/main/easyshellworld.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [big-dudu-mosty](https://github.com/IntensiveCoLearning/english_3rd/blob/main/big-dudu-mosty.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [taozimao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taozimao.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [SHUPENG1989](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SHUPENG1989.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
