@@ -158,7 +158,7 @@ Telegram：https://t.me/LXDAO/6912
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SIGNUP_AUTOMATION.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [B1u-e](https://github.com/IntensiveCoLearning/english_3rd/blob/main/B1u-e.md) | | | | | | | | | | | | | | | | | | | | | | |
-| [brucexu-eth](https://github.com/IntensiveCoLearning/english_3rd/blob/main/brucexu-eth.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [brucexu-eth](https://github.com/IntensiveCoLearning/english_3rd/blob/main/brucexu-eth.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [slucifersz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/slucifersz.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [tikpen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/tikpen.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [kelvinqin7](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kelvinqin7.md) | | | | | | | | | | | | | | | | | | | | | | |
@@ -258,7 +258,9 @@ Telegram：https://t.me/LXDAO/6912
 | [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [surdress](https://github.com/IntensiveCoLearning/english_3rd/blob/main/surdress.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
