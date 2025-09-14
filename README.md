@@ -259,7 +259,9 @@ Telegram：https://t.me/LXDAO/6912
 | [surdress](https://github.com/IntensiveCoLearning/english_3rd/blob/main/surdress.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | | | | | | | | | | | | | | | | | | | | | | |
 | [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | | | | | | | | | | | | | | | | | | | | | | |
+| [averywexler](https://github.com/IntensiveCoLearning/english_3rd/blob/main/averywexler.md) | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
