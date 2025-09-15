@@ -275,7 +275,9 @@ Telegram：https://t.me/LXDAO/6912
 | [zlp528](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zlp528.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [edwardqin-creator](https://github.com/IntensiveCoLearning/english_3rd/blob/main/edwardqin-creator.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [lucas1968](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lucas1968.md) |   | | | | | | | | | | | | | | | | | | | | | |
+| [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
