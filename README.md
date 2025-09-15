@@ -191,7 +191,7 @@ Telegram：https://t.me/LXDAO/6912
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/pillowtalk-Qy.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [BiscuitCoder](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BiscuitCoder.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) |   | | | | | | | | | | | | | | | | | | | | | |
-| [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) |   | | | | | | | | | | | | | | | | | | | | | |
+| [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [huaigu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/huaigu.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/meixingyu001-code.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [41surfer](https://github.com/IntensiveCoLearning/english_3rd/blob/main/41surfer.md) |   | | | | | | | | | | | | | | | | | | | | | |
@@ -276,6 +276,7 @@ Telegram：https://t.me/LXDAO/6912
 | [edwardqin-creator](https://github.com/IntensiveCoLearning/english_3rd/blob/main/edwardqin-creator.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [lucas1968](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lucas1968.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
