@@ -29,7 +29,20 @@ A journey of one thousand miles begins with one step.JUST DO IT,FIGHTING！
 
 ## Finished：
 
-1.Today is the first day in English intensive co-learning.We take a opening ceremony of the English learning camp, some teachers share their learning skill, which is very helpful to me.It is impotant to have an environment for learning English，such as converse with myself a few minutes、such as read along with the English article……Above all,it is necessary to keep practicing and speaking out.
+1.Today is the first day in English intensive co-learning.We take a opening ceremony of the English learning camp, some teachers share their learning skill, which is very helpful to [me.It](http://me.It) is impotant to have an environment for learning English，such as converse with myself a few minutes、such as read along with the English article……Above all,it is necessary to keep practicing and speaking out.
+
+2.Words recite 1 hour (screenshot)
+
+![0e55d9ea23b8158c766a95fce942477a.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-15-1757944076462-0e55d9ea23b8158c766a95fce942477a.jpg)
+<!-- DAILY_CHECKIN_2025-09-15_END -->
+<!-- Content_END -->
+## Thoughts：
+
+A journey of one thousand miles begins with one step.JUST DO IT,FIGHTING！
+
+## Finished：
+
+1.Today is the first day in English intensive co-learning.We take a opening ceremony of the English learning camp, some teachers share their learning skill, which is very helpful to [me.It](http://me.It) is impotant to have an environment for learning English，such as converse with myself a few minutes、such as read along with the English article……Above all,it is necessary to keep practicing and speaking out.
 
 2.Words recite 1 hour (screenshot)
 
