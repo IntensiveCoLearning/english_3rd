@@ -16,6 +16,8 @@ Builder in Web3
 <!-- Content_START -->
 # 2025.09.15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
-Today's goal it build a learning plan and find some learning materials.
+Today’s goal it build a learning plan and find some learning materials.
+
+Listened some podcasts about Ethereum Foundation.
 <!-- DAILY_CHECKIN_2025-09-15_END -->
 <!-- Content_END -->
