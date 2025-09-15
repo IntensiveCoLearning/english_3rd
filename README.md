@@ -252,7 +252,7 @@ Telegram：https://t.me/LXDAO/6912
 | [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [crystalshu123](https://github.com/IntensiveCoLearning/english_3rd/blob/main/crystalshu123.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) |   | | | | | | | | | | | | | | | | | | | | | |
-| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) |   | | | | | | | | | | | | | | | | | | | | | |
+| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [yasmineyu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yasmineyu.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [XXXJCSAMA](https://github.com/IntensiveCoLearning/english_3rd/blob/main/XXXJCSAMA.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) |   | | | | | | | | | | | | | | | | | | | | | |
@@ -276,6 +276,7 @@ Telegram：https://t.me/LXDAO/6912
 | [edwardqin-creator](https://github.com/IntensiveCoLearning/english_3rd/blob/main/edwardqin-creator.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [lucas1968](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lucas1968.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
