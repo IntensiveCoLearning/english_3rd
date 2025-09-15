@@ -13,8 +13,327 @@ timezone: UTC+8
 Web3 新人、小韭菜、全沾开发者、码转运营 ing。
 
 ## Notes
-
 <!-- Content_START -->
+# 2025.09.15
+<!-- DAILY_CHECKIN_2025-09-15_START -->
+Today is the first day of our English-Intensive-Co-Learning, it has a little busy for me.I have finished all registrant and we successfully host the opening ceremony.  
+  
+Half An Hour English Listening Practice:
 
-
+1.  i'm on it
+    
+2.  what's up?
+    
+3.  i'm all in
+    
+4.  i'm all set
+    
+5.  i'm all hear --- i'm all ears
+    
+6.  i'm on my way
+    
+7.  i'm at a lost
+    
+8.  i'm impressed
+    
+9.  can you drive?
+    
+10.  how is going？
+     
+11.  I'm in a hurry
+     
+12.  i'm handle in -- i'll handle it
+     
+13.  i'm all for it
+     
+14.  keep in touch
+     
+15.  what's the rush - 着什么急
+     
+16.  that's re ---that's a relief -松了一口气
+     
+17.  i'm just curious
+     
+18.  i'm all about it - 我全力支持
+     
+19.  what's the catch
+     
+20.  i can't com -- i can't complain
+     
+21.  i'm just kidding
+     
+22.  what time is it?
+     
+23.  q --- that's a bit off - 那有点不对劲
+     
+24.  can you help me?
+     
+25.  how is fit? -- how does it fit
+     
+26.  i'll -- i'll sleep on it --我考虑一晚再说
+     
+27.  i need a doctor
+     
+28.  i'm feeling lucky
+     
+29.  have a safe trip
+     
+30.  that make sense -- that makes sense
+     
+31.  that is a good one
+     
+32.  i'll looking to it -- i'll look into it 我会调查一下
+     
+33.  long time no see
+     
+34.  how what's your day? --How was your day
+     
+35.  i'm nt convince -- i am not convinced 我不太相信
+     
+36.  that's is a big match -- that's a bit much 那有点过分
+     
+37.  let's get started
+     
+38.  i'm not flowing - following
+     
+39.  i'm not buying it -我不相信
+     
+40.  what's the matter
+     
+41.  i'm just --i'm juest browsing 我只是随便看看
+     
+42.  i'll be right back
+     
+43.  i'm not feeling it
+     
+44.  that rings ablet --that rings a bell 这听起来有点熟悉
+     
+45.  let --- let's wrap this up 让我们结束这个吧
+     
+46.  what's the hold do --what's the hold up 是什么在耽搁
+     
+47.  let's take a breath-break 让我们休息一下
+     
+48.  i''ll give it a try
+     
+49.  can i try this on?
+     
+50.  i'm not intrersted - interested
+     
+51.  that works for me - 这对我来说可以
+     
+52.  today -- let's call it a day - 今天就到这里吧
+     
+53.  what's the occasion - 是什么场合
+     
+54.  i need some advice
+     
+55.  that's a fair point 那是个合理的观点
+     
+56.  is this seat taken?
+     
+57.  what's the deadline
+     
+58.  i'll see you around
+     
+59.  i'm counting on you --我指望你了
+     
+60.  did you sellp well?
+     
+61.  i will think about it
+     
+62.  that's a good point 说得好
+     
+63.  do you need a ride? -- 你需要搭车吗
+     
+64.  i am not in the moon --mood
+     
+65.  i am heading out now 我要出发了
+     
+66.  have you eat yeap? -have you eaten yet? 你吃过了吗
+     
+67.  where are you from?
+     
+68.  i am st in -- i'm stuck in traffic 我被堵在路上了
+     
+69.  i coundn't -- i couldn't care less 我完全不在乎
+     
+70.  i rather say home -- i'd rather stay home
+     
+71.  let's give it a shot 让我们试一试
+     
+72.  i see what you mean
+     
+73.  that's not necessary
+     
+74.  i get tight on it -- i'll get right on it 我马上去做
+     
+75.  i am all set for that --我为此做好了准备
+     
+76.  what boardering you? -- what's bothering you ? 困扰
+     
+77.  i am not feeling well
+     
+78.  is nice to meet you
+     
+79.  do you speak english
+     
+80.  i couldn't agree more
+     
+81.  do you have a minute
+     
+82.  what brings you here
+     
+83.  i couldn't be happier
+     
+84.  take care of yourself
+     
+85.  how long will it take
+     
+86.  make yourself at home
+     
+87.  i'll keep that in mind
+     
+88.  do you like to travel
+     
+89.  what size do you wear
+     
+90.  what do you recommend
+     
+91.  what's the bottom line 最终结果是什么
+     
+92.  how do you fell today
+     
+93.  let's get to the point
+     
+94.  that's a good question
+     
+95.  i am runing a bit lake- late 我要迟到一会
+     
+96.  can you keep a secret
+     
+97.  how did the meeting go
+     
+98.  i am looking for a hotel
+     
+99.  let's catch up sometime 改天聚聚
+     
+100.  i am not sure about that
+      
+101.  do you have any change
+      
+102.  is that a new bank
+      
+103.  that's beside the point
+      
+104.  i am topenut
+      
+105.  that's a touch question
+      
+106.  that's not what i mean
+      
+107.  what's on the mean today
+      
+108.  i am just passing througu
+      
+109.  is wifi available here?
+      
+110.  i am not sure what to say
+      
+111.  how much this
+      
+112.  can you show me the way?
+      
+113.  how far is it from here?
+      
+114.  can you lower the price?
+      
+115.  are you sure about that?
+      
+116.  what's you take on this?
+      
+117.  what's your phone number?
+      
+118.  could you give me a hand?
+      
+119.  i am looking forward to it
+      
+120.  where can i buy a ticket
+      
+121.  that is a
+      
+122.  do you have any s
+      
+123.  what's youe favority song?
+      
+124.  do you take credit card
+      
+125.  what's your favority book
+      
+126.  what does the word mean
+      
+127.  that is a big mystery
+      
+128.  what is your sechudle
+      
+129.  what's your favority food
+      
+130.  that's a bit of a letdown
+      
+131.  i'll give you a call later
+      
+132.  what's your favority sport
+      
+133.  drink
+      
+134.  thanks for having me over
+      
+135.  could you write that down
+      
+136.  do you need anything else?
+      
+137.  i'll take your work for it
+      
+138.  movie
+      
+139.  place
+      
+140.  how about we meet hal
+      
+141.  i am sure i can do that
+      
+142.  i am looking for direction
+      
+143.  hobby
+      
+144.  would you like to join us
+      
+145.  that's big of a suppres
+      
+146.  color
+      
+147.  i am not sure i can help
+      
+148.  how do you spell your name
+      
+149.  that's a big of a challenge
+      
+150.  can you pass me the salt
+      
+151.  i couldn't help hearing
+      
+152.  season
+      
+153.  what's your opinion on this
+      
+154.  would you like some coffice
+      
+155.  can i charge my phone here
+      
+156.  could you hole this for me
+      
+157.  animal
+      
+158.  speciial accasion
+<!-- DAILY_CHECKIN_2025-09-15_END -->
 <!-- Content_END -->
