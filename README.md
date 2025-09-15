@@ -225,7 +225,7 @@ Telegram：https://t.me/LXDAO/6912
 | [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) |   | | | | | | | | | | | | | | | | | | | | | |
-| [0xhirugohan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhirugohan.md) |   | | | | | | | | | | | | | | | | | | | | | |
+| [0xhirugohan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhirugohan.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [yoko-pm](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yoko-pm.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [Wking900](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wking900.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [justinwongcn](https://github.com/IntensiveCoLearning/english_3rd/blob/main/justinwongcn.md) |   | | | | | | | | | | | | | | | | | | | | | |
@@ -274,6 +274,7 @@ Telegram：https://t.me/LXDAO/6912
 | [llllIIIIllllIIII](https://github.com/IntensiveCoLearning/english_3rd/blob/main/llllIIIIllllIIII.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [zlp528](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zlp528.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
