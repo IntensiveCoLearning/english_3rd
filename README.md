@@ -164,7 +164,7 @@ Telegram：https://t.me/LXDAO/6912
 | [kelvinqin7](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kelvinqin7.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [Erickup18](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Erickup18.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [bcyb1122-liu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/bcyb1122-liu.md) |   | | | | | | | | | | | | | | | | | | | | | |
-| [lynn-000-cccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lynn-000-cccc.md) |   | | | | | | | | | | | | | | | | | | | | | |
+| [lynn-000-cccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lynn-000-cccc.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [Soldier-Hacker](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Soldier-Hacker.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MRzzz-cyber.md) |   | | | | | | | | | | | | | | | | | | | | | |
 | [SuBCweb3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SuBCweb3.md) |   | | | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | | | | | | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) |   | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
