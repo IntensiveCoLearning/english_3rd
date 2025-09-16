@@ -20,6 +20,17 @@ Everything I want wants me more.
 
 # 2025.09.15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+Today, I practiced my English in two ways.
+
+-   **Speaking Practice**: I had a speaking session with Gemini about the topic of my hackathon project. I encountered some issues where my mispronunciations led to misunderstandings, and I had to repeatedly correct myself.
+    
+-   **Listening Practice**: I listened to a podcast about Ethereum's public goods infrastructure.
+<!-- DAILY_CHECKIN_2025-09-16_END -->
+<!-- Content_END -->
 ## Start
 
 I will try to record my daily study records in English
