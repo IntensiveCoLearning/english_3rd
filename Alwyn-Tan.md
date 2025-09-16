@@ -18,4 +18,10 @@ Learn together！
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 JP Morgan meeting from 11am to 3pm, very intensive English communication
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+meeting with 72point and HKEX, very intensive English meeting
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
