@@ -28,7 +28,7 @@ Conclusion：
     
 2.  memory depth
     
-3.  initiative recall
+3.  ative recall
     
 
 Points：
@@ -44,11 +44,11 @@ TIPS：
 
 1.  pronunciation first
     
-2.  SRS -- Spaced Repetition memory System
+2.  SRS – Spaced Repetition memory System
     
 3.  minimal comparison practice
     
-4.  give language life -- link language with your life
+4.  give language life – link language with your life
     
 
 Sound play，Word play，Sentence play
