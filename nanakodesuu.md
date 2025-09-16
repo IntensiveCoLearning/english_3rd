@@ -20,4 +20,12 @@ timezone: UTC+8
 
 ![IMG_2817.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-15-1757942278611-IMG_2817.PNG)
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+钱在哪爱在哪，今天也是相当卷的一天
+
+![IMG_2826.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-16-1758028527159-IMG_2826.PNG)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
