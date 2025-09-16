@@ -22,4 +22,10 @@ After yesterday's heavy rain,today is sunny and the sky is clear,I can see mouta
 chatGPT polished version:  
 After yesterday's heavy rain, today is sunny and the sky is clear. I can see mountains and buildings miles away. I need to print my updated resume in two hours. I have added my internship experience from this summer. In the afternoon, I will participate in the career meeting at our school. But I don’t want to get a traditional job, since it is hard and tiring. I want to seek jobs in Web3. It is fascinating. Oh, this is the first time I am writing about what I want, not because I was pushed, and not in an exam. I hate exams.
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+Today registered for English level 6 exam and pay the fee.
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
