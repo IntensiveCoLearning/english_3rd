@@ -14,6 +14,34 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+## **Thoughts：**
+
+No matter how much,keep learning every day.
+
+## **Finished：**
+
+Words recite 30 minutes (screenshot)
+
+![3c5a7d00e1f796e64dd2c0a102763d6f.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-16-1758038295021-3c5a7d00e1f796e64dd2c0a102763d6f.jpg)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
+<!-- Content_END -->
+## **Thoughts：**
+
+No matter how much,keep learning every day.
+
+## **Finished：**
+
+Words recite 30 minutes (screenshot)
+
+![3c5a7d00e1f796e64dd2c0a102763d6f.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-16-1758038295021-3c5a7d00e1f796e64dd2c0a102763d6f.jpg)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
+
 # 2025-09-15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 # Day 01
