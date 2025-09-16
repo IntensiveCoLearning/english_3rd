@@ -78,4 +78,10 @@ luna：
 
 建议每周周会纯英语沟通-特定主题：面试/餐厅/问路
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+reading for normal english massages and conversation for 30min
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
