@@ -28,4 +28,10 @@ Hi there, I'm Wayland, nice to see you.
     
 5.  强制使用英语，主动输入和输出（工作环境、社交压力）
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+try using some APP to improve my english oral
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
