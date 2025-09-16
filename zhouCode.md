@@ -33,6 +33,35 @@ English is important for a web3er.
 
 今日打卡：
 
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+### 听&读
+
+DD110
+
+Even from virally arm **very early on, when** we **were** just building this thing a sting for, for one school, there was this concept of what it those consplay could turn into. We just won weren’t sure then that we would were been be the ones who did it.
+
+### 写
+
+每天一个主题，进入主题，学习的意义。
+
+Why learning changes life? Since we were born, we began learning. When I was a baby. I learned to speak, and walk. When I was a student. I learned many subjects. Then I went to work. I learned social rules. But why we must learn in every period in our life? Most people think learning is tormenting. But in my opinion, learning is life. Of course, learning is not just read book. We find our way through learning. We discover the meaning of life by learning. We find the way out of existential crisis. I love learning.
+
+chatGPT修改后的完整版本：
+
+**Why does learning change life?** Since we were born, we have been learning. When I was a baby, I learned to speak and walk. When I was a student, I learned many subjects. Then I went to work and learned social rules. But why must we learn in every period of our life? Most people think learning is a burden, but in my opinion, learning is life. Of course, learning is not just reading books. We find our way through learning. We discover the meaning of life by learning. We find ways to overcome life’s difficulties. I love learning.
+
+| 类型 | 你的问题 | 正确做法 | 示例 |
+| --- | --- | --- | --- |
+| 疑问句语序 | “Why learning changes life?” | 疑问句要用助动词 do/does/did | ❌ Why learning changes life?✅ Why does learning change life? |
+| 时态错误 | “Since we were born, we began learning.” | “Since” 表示“从过去到现在”，要用 现在完成进行时 | ❌ we began learning✅ we have been learning |
+| 句子不完整 | “When I was a baby. I learned to speak…” | 时间状语不能单独成句，要连起来 | ❌ When I was a baby. I learned…✅ When I was a baby, I learned… |
+| 主谓一致/动词形式 | “learning is not just read book” | 动词作名词要用 -ing，且“book”要复数 | ❌ not just read book✅ not just reading books |
+| 词汇过于生硬 | “learning is tormenting” | 学术/生僻词换成更常用的表达 | ❌ tormenting✅ painful / a burden |
+| 词语自然度 | “existential crisis” (太高阶) | 改为简单自然的表达 | ❌ existential crisis✅ life’s difficulties / problems |
+<!-- DAILY_CHECKIN_2025-09-16_END -->
+<!-- Content_END -->
 ## 写：
 
 ### **Day 1 介绍你住的地方和日常生活**
