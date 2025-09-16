@@ -26,4 +26,12 @@ S + V + IO + DO：The subject performs an action that involves giving or showing
 
 S + V + O + OC：The subject acts on an object and adds a complement to describe or rename it.This pattern adds depth by describing or redefining the object, completing the action’s impact.
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+Today's learning material EnglishPod, English listening and speaking learning, the harvest is good, I look forward to persevering every day, listening to an episode every day  
+  
+[https://www.bilibili.com/video/BV1w7411g7jn/](https://www.bilibili.com/video/BV1w7411g7jn/)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
