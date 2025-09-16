@@ -13,8 +13,12 @@ timezone: UTC+8
 SuBC
 
 ## Notes
-
 <!-- Content_START -->
-
-
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+1.read pendle whitepaper  
+2.Duolingo 10mins  
+3.busuu 3mins  
+4.MaiMemo 50 words
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
