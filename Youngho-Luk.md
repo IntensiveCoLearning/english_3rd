@@ -20,4 +20,14 @@ timezone: UTC+8
 
 Daily english dictation 20min
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+百词斩单词50个
+
+B站英语听力40分钟
+
+![1000034087.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Youngho-Luk/images/2025-09-16-1758025371650-1000034087.jpg)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
