@@ -20,4 +20,10 @@ coder , web3 new learner ，lifelong learner
 
 原视频： 6.64 复制打开抖音，看看【1分钟学英语的作品】每个人都有逆风翻盘的机会和可能 # 英语口语 [https://v.douyin.com/pWD5X5SmFUE/](https://v.douyin.com/pWD5X5SmFUE/) 12/03 FUy:/ [J@V.lc](mailto:J@V.lc)
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+0.28 复制打开抖音，看看【梦想家Tom的作品】# 残酷共学 # 每日英语口语 # 散装英语 [https://v.douyin.com/CIprDUapK7k/](https://v.douyin.com/CIprDUapK7k/) trr:/ T@l.pQ 04/21
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
