@@ -32,4 +32,14 @@ By the way, the most important thing is to recalled actively. According to the p
 
 [The Link of syntax](https://hzpt-inet-club.github.io/english-note/guide/adverb.html)
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+-   listen to podcast in xiaoyuzhou, named luke's podcast. today he invite his little girl, most of the podcast I just have no impression, hahah
+    
+-   Then, after 10.pm, we have a learning of spoken English with 41 and jona
+    
+-   The same time, we chat in English from day to night
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
