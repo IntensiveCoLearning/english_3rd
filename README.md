@@ -258,7 +258,7 @@ Telegram：https://t.me/LXDAO/6912
 | [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
 | [surdress](https://github.com/IntensiveCoLearning/english_3rd/blob/main/surdress.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
-| [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
+| [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [averywexler](https://github.com/IntensiveCoLearning/english_3rd/blob/main/averywexler.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
 | [easyshellworld](https://github.com/IntensiveCoLearning/english_3rd/blob/main/easyshellworld.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [big-dudu-mosty](https://github.com/IntensiveCoLearning/english_3rd/blob/main/big-dudu-mosty.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
