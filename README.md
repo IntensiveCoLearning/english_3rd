@@ -181,7 +181,7 @@ Telegram：https://t.me/LXDAO/6912
 | [nobodyhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nobodyhi.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [kaka666111](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kaka666111.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | |
 | [zhenghaoailimiao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhenghaoailimiao.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
-| [LukeNotes](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LukeNotes.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
+| [LukeNotes](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LukeNotes.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [flora2030](https://github.com/IntensiveCoLearning/english_3rd/blob/main/flora2030.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
 | [lccc-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lccc-777.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | |
 | [Lemonadeccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Lemonadeccc.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ |   | | | | | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
