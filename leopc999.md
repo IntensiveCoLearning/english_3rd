@@ -18,4 +18,10 @@ Hi everyone! I'm Leo, a PhD candidate majored in Engineering. I wanna improve my
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 I took part in the kick-off meeting for this English intensive colearning. Just watched some English videos on Youtube and tuned in a X space which is English-speaking.
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+Joined the English Hub dicord channel today. Introduced myself and took the class stage named "Informal slang/idioms used in American English".
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
