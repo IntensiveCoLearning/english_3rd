@@ -22,4 +22,12 @@ Web3 lovers want to learn English quickly
 
 3.learning Daliy English for 1 hours
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+I upgraded to IOS 26 today,and i spent an hour reading english posts on Reddit.
+
+Start with something you are interested in and learn knowledge.
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
