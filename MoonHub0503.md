@@ -23,6 +23,12 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 已经在群里和41组成了搭子，开始学习
 
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+Talk with my 3 partners of English Co-learning group for 40 minites in terms of the Web3 interview experience.
+<!-- DAILY_CHECKIN_2025-09-16_END -->
+<!-- Content_END -->
 ## What is Blockchain?
 
 Blockchain is a decentralized distributed ledger technology used to record transactional data securely, transparently, and immutably among network nodes. Each chain consists of a series of “blocks” connected in chronological order, and each block contains multiple transactions along with metadata, ensuring data integrity and traceability.  
