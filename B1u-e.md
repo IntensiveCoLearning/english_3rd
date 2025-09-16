@@ -336,4 +336,12 @@ Half An Hour English Listening Practice:
       
 158.  speciial accasion
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+Today still listen half an hour English Listening Practice,and keep write it down what have i listen. After this i will listen it twice to correct some mistake and what i didn't hear. yeap,i really think it's just the second day, up to 40% i can't hear clearly and i don't konw what does they mean. Also,those 连读 are very difficult for me， may be is just haven't listening English for a long time.  
+just keep going,it is just the beginning.  
+And i also listened a podcast on YouTube，here is the link --[https://www.youtube.com/watch?v=NLEsrMms6mw](https://www.youtube.com/watch?v=NLEsrMms6mw). About household vocabulary used in daily life.
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
