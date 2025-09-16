@@ -20,4 +20,12 @@ esfp，在读大学生，喜欢跟人交流，喜欢吃喝玩乐，很想说出�
 
 ![111.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Ssssy-Sara/images/2025-09-15-1757951054841-111.jpg)
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+新背15个单词
+
+![222.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Ssssy-Sara/images/2025-09-16-1758038296126-222.jpg)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
