@@ -18,4 +18,11 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 翻译eth周会周报
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+影子跟读走进美国  
+背单词50分钟
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
