@@ -22,4 +22,14 @@ timezone: UTC+8
 
 3.
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+1.I listened to an episode of a podcast on Xiaoyuzhou.
+
+2.I reviewed and reinforced my understanding of grammar.
+
+3.I reviewed 50 vocabulary words using Anki and reinforced my understanding by practicing and testing with ChatGPT.
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
