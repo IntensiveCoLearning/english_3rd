@@ -13,8 +13,9 @@ timezone: UTC+8
 英语很普通 但是想找远程工作 希望可以通过共学营拿下英语和工作
 
 ## Notes
-
 <!-- Content_START -->
-
-
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+![f3d438aafa185df6a89ceb5adcae76be.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/big-dudu-mosty/images/2025-09-16-1758037884554-f3d438aafa185df6a89ceb5adcae76be.jpg)
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
