@@ -106,4 +106,35 @@ luna：
   
 真实聊天，可能更推荐 hellotalk
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.16
+<!-- DAILY_CHECKIN_2025-09-16_START -->
+### 第二部分：四大技能精进计划
+
+1\. 听 | Listening
+
+**方法论：从泛听到精听**
+
+-   **梯度听力：** 选择自己感兴趣的内容，从简单入手，逐步增加难度。不求每个词都听懂，只求沉浸在英语环境中。
+    
+-   **精听听写：**
+    
+    1.  **第一遍：** 完整听一遍，理解大意；
+        
+    2.  **第二遍：** 不看字幕，逐句听写，必要时反复听；
+        
+    3.  **第三遍：** 对照原文，逐字逐句理解，分析听错或听漏原因（生词、连读、语调等）；
+        
+    4.  **第四遍：** 模仿跟读，模仿发音、语调、连读，直至流畅。
+        
+
+**推荐资料：**
+
+-   [Daily English Dictation](https://www.bilibili.com/video/BV1U7411a7xG/)：每日英语听力。
+    
+-   [EnglishPod](https://www.bilibili.com/video/BV1w7411g7jn/)：英语听力口语练习。
+    
+-   BBC Learning English / VOA Special English / TED-Ed，也可选择自己喜欢的 Podcast、Vlog、Movie。
+<!-- DAILY_CHECKIN_2025-09-16_END -->
 <!-- Content_END -->
