@@ -24,4 +24,10 @@ I took part in the kick-off meeting for this English intensive colearning. Just 
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 Joined the English Hub dicord channel today. Introduced myself and took the class stage named "Informal slang/idioms used in American English".
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Today I attended the Casual Conversation with Tim which is one of conversation clubs in the English Club discord channel. The host Tim is a native English speaker from UK. I think the casual conversation event is helpful for our learners to practice conversational English without pressure.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
