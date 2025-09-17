@@ -252,7 +252,7 @@ Telegram：https://t.me/LXDAO/6912
 | [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [crystalshu123](https://github.com/IntensiveCoLearning/english_3rd/blob/main/crystalshu123.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [yasmineyu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yasmineyu.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [XXXJCSAMA](https://github.com/IntensiveCoLearning/english_3rd/blob/main/XXXJCSAMA.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
