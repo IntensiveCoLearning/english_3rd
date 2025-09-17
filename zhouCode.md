@@ -61,6 +61,18 @@ chatGPT修改后的完整版本：
 | 词汇过于生硬 | “learning is tormenting” | 学术/生僻词换成更常用的表达 | ❌ tormenting✅ painful / a burden |
 | 词语自然度 | “existential crisis” (太高阶) | 改为简单自然的表达 | ❌ existential crisis✅ life’s difficulties / problems |
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+今日较忙，只做了DD111
+
+Keeping future resources attacked **intact** means keeping present consumption and **in** check. And that’s why we promote green ways of living and working.
+
+intact: If something is _intact,_ it's still in one piece. If you'd like your sand castle to remain _intact_, I suggest you build it away from the water.
+
+promote: If you work for a marketing firm, your job is to _promote_ new products — to publicize them and to try to get the public to buy them.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
 ## 写：
 
