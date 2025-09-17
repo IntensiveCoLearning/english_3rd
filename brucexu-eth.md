@@ -36,4 +36,12 @@ Today's I finished my English learning plan. In short, for the Week1:
     
 -   Init my secret Language learning tools
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Today, I learned 10 phonetics, and found three pronunciation issues, like Garage.
+
+And start building the English learning tools.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
