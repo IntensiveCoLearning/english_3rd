@@ -218,7 +218,7 @@ Telegram：https://t.me/LXDAO/6912
 | [zhangqiyu288](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhangqiyu288.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [3956ray](https://github.com/IntensiveCoLearning/english_3rd/blob/main/3956ray.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [xuran-xu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xuran-xu.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [hycnbbit](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hycnbbit.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
