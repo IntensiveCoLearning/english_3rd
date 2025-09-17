@@ -14,6 +14,47 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Today my English Co-learning group talked about topic theme：
+
+Look up some hackathon examples and think about what role you would play if you were to attend one right now, what type of teammates you would need, and what type of product you would want to build.
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Today my English Co-learning group talked about topic theme：
+
+Look up some hackathon examples and think about what role you would play if you were to attend one right now, what type of teammates you would need, and what type of product you would want to build.
+
+## A complete hackathon team usually requires at least:
+
+-   Product Design (PM/ Designer)
+    
+-   Technology (front-end + back-end + data/hardware)
+    
+-   Business/Presentation (Marketing + Pitch)
+    
+
+The core objective is to create a demo that can "run, watch and speak" within a short period of time.
+
+From my opinion, I'd like to develp TaaS (Trust-as-a-service) with Blockchain Technology. Help people have mutual benefits but have no trust history to cooperate together.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
+<!-- Content_END -->
+## A complete hackathon team usually requires at least:
+
+-   Product Design (PM/ Designer)
+    
+-   Technology (front-end + back-end + data/hardware)
+    
+-   Business/Presentation (Marketing + Pitch)
+    
+
+The core objective is to create a demo that can "run, watch and speak" within a short period of time.
+
+From my opinion, I'd like to develp TaaS (Trust-as-a-service) with Blockchain Technology. Help people have mutual benefits but have no trust history to cooperate together.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
+
 # 2025-09-15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 已经在群里和41组成了搭子，开始学习
