@@ -24,4 +24,14 @@ Improve English together with everyone
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 Tonight,I had a one-hour Engligh conversationwith the group members.First , we introduced each of us , then talk about the reasons why we want to join Web3 and what position we want to take in Web3 . This is a wonderful experience.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Tonight,Our topic theme is that think about what role you would play if you were to attend one right now, what type of teammates you would need, and what type of product you would want to build.
+
+We talk about 1hours.
+
+One group member participated in three hackathons.That's cool!
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
