@@ -344,4 +344,11 @@ Today still listen half an hour English Listening Practice,and keep write it dow
 just keep going,it is just the beginning.  
 And i also listened a podcast on YouTube，here is the link --[https://www.youtube.com/watch?v=NLEsrMms6mw](https://www.youtube.com/watch?v=NLEsrMms6mw). About household vocabulary used in daily life.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+yeap,is still my English Listening Practice,and review the content from the previous two days. I think is too long for me to put my notes here,so i choose to put it in the Notion.  
+And also i will keep listening a podcast on YouTube every to kepp enough import,try my best to immerse myself in an English-speaking environment.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
