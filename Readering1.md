@@ -137,4 +137,27 @@ luna：
     
 -   BBC Learning English / VOA Special English / TED-Ed，也可选择自己喜欢的 Podcast、Vlog、Movie。
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+2\. 说 | Speaking
+
+**方法论：模仿与输出**
+
+-   **影子跟读：** 语言中的刻意练习，每日必练。选择 Native Speaker 的音视频（播客、Vlog、美剧等），逐句模仿发音、语调、节奏与连读，反复练习直至能同步复述。
+    
+-   **录音比对：** 每周至少一次录制跟读，并与原音比对，关注发音、连读、重音。建议每天坚持。
+    
+-   **自由对话：** 每周与共学伙伴或导师进行一次交流，大胆表达，主动索取反馈。
+    
+
+**推荐工具：**
+
+-   [英语发音技巧](https://www.bilibili.com/video/BV1SZ4y1K7Lr/)：你必须知道的发音训练。
+    
+-   ThePhonetics：IPA 发音训练 App。
+    
+-   ChatGPT：AI 陪练，可用于对话模拟和即时纠错。
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
