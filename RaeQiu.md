@@ -14,6 +14,177 @@ Hope to achieve a level of free speech :)
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+打卡: [BBC Learning English - 6 Minute English / What's your favourite snack?](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250821)
+
+6-minute-english的听力没有难度，但是有很多表达可以吸收进日常口语中
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+打卡: [BBC Learning English - 6 Minute English / What's your favourite snack?](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250821)
+
+6-minute-english的听力没有难度，但是有很多表达可以吸收进日常口语中
+
+## Sentence Pattern
+
+1\. **It seems \[clause\].**
+
+    ◦ Example from text: "It seems people around the world are in love with snacks!"
+
+2\. **\[Clause 1\], while for \[person/thing\], \[clause 2\].**
+
+    ◦ **Function:** To make a comparison or contrast between two different subjects or situations.
+
+    ◦ **Example from text:** "Barbara's favourite snack is a cheese bread called 'chipa', while for Annie, it's the combination of peanuts and banana that hits the spot..."
+
+3\. **Whatever you like to \[verb phrase\], \[main clause\].**
+
+    ◦ **Function:** To introduce a general statement that applies regardless of individual preference or action.
+
+    ◦ **Example from text:** "Well, whatever you like to nibble on, in this episode we'll find out why we are so in love with snack food."
+
+4\. **This is why you see \[it/something\] as so \[adjective\].**
+
+    ◦ **Function:** To explain the reason or cause behind a particular observation or widespread phenomenon.
+
+    ◦ **Example from text:** "...this is something that you can turn to, and I think that **is why you see it as so popular.**"
+
+5\. **I can't swim against the current, and if \[person\] wants to \[verb phrase\]...**
+
+    ◦ **Function:** To express an inability to resist a popular trend or influence, often followed by a conditional statement about the consequence.
+
+    ◦ **Example from text:** "...but of course **I can't swim against the current, and if my 9-year-old wants to eat the little baked snacks** that have cheddar..."
+
+6\. **\[Doing something\] while you're busy \[verb-ing\] or \[verb-ing\], rather than \[place/state\].**
+
+    ◦ **Function:** To describe an activity being performed concurrently with other tasks or in a specific manner, contrasting it with an alternative.
+
+    ◦ **Example from text:** "...doing things **while you're busy travelling or moving around, rather than at home.**"
+
+## Chunks
+
+1\. **in love with**: 表达强烈喜欢时
+
+2\. **big business**: This is a useful collocation referring to an industry or activity that is very profitable or involves a lot of money. Snacking is described as "**big business**, with an estimated $1.5 trillion a year spent globally".
+
+4\. **turn to**: This phrasal verb means to resort to, depend on, or use something for support or a particular purpose. Christine Cochran notes that if "money is tight, this is something that you can **turn to**".
+
+7\. **pay for the basics**: This chunk refers to having just enough money to cover essential living expenses. It's implied by the definition of "money is tight" where there's "only just enough money available to **pay for the basics** needed to live".
+
+8\. **target a specific function**: This collocation describes the design and marketing strategy for some modern snacks, which are created to provide particular benefits. "Many modern snacks **target a specific function**".
+
+10\. **head over to**: This phrasal verb means to go to a particular place. Learners are encouraged to "**head over to** our website" for further resources.
+
+## Vocabulary
+
+1\. **Confectionery**: This refers to **sweets, chocolates, and other sweet foods**. It's a topic-specific term for a category of snacks, often considered more formal than just "sweets".
+
+2\. **Savoury**: An adjective used to describe food that is **salty or spicy and not sweet**. It's crucial for distinguishing food tastes, as opposed to sweet items like confectionery.
+
+5\. **Nibble on**: A phrasal verb meaning to **take small bites of food**. It's topic-specific to eating and describes a particular way of consuming snacks, as mentioned by Beth: "whatever you like to nibble on".
+
+7\. **Functional ingredients**: A phrase referring to **components in food that offer specific health benefits beyond basic nutrition**. This is topic-specific to health and food science, and slightly higher difficulty due to its technical nature, as consumers look for snacks with specific functional ingredients for things like gut health or muscle development.
+
+8\. **Proper meal**: A phrase referring to **a full, substantial meal, typically eaten sitting down**. This is topic-specific to food and meal routines, indicating a shift from traditional dining habits due to snacks.
+
+9\. **Indulge in**: A verb meaning to **allow oneself to enjoy the pleasure of something, often to excess**. While high-frequency, it carries a nuance of pleasure or occasional overconsumption, as Britons "indulge in" confectionery and chocolate weekly.
+
+10\. **Modern twist**: A phrase referring to **a new or different version of something traditional**. This is a useful, general phrase that can describe adaptations, such as modern baked snacks being a "modern twist" on traditional cheese bread.
+
+## Required Expressions
+
+-   **hits the spot (idiom)**: This means something **is exactly what you want or need**. For example, Annie Gray finds that salted peanuts and a banana together "hit the spot" for her.
+    
+-   **money is tight**: This phrase describes a situation where **there is only just enough money available to pay for the basics needed to live**. Snacks which are cheap enough will sell even if money is tight.
+    
+-   **on the go (idiom)**: This means doing things **while busy travelling or moving around, rather than at home**. Consumers are often eating on the go because they cannot always sit down for three meals a day.
+    
+-   **mental clarity**: This term describes a **state in which your mind is fully focused, active and engaged, not dull or foggy**. Some modern snacks claim to improve mental clarity.
+    
+-   **swim against the current/tide (idiom)**: This means to **do or say things which are different from most other people, because you do not mind being different**. Barbara Oievari mentions she "can't swim against the current" when her son prefers packaged snacks over natural ones
+<!-- DAILY_CHECKIN_2025-09-17_END -->
+<!-- Content_END -->
+## Sentence Pattern
+
+1\. **It seems \[clause\].**
+
+    ◦ Example from text: "It seems people around the world are in love with snacks!"
+
+2\. **\[Clause 1\], while for \[person/thing\], \[clause 2\].**
+
+    ◦ **Function:** To make a comparison or contrast between two different subjects or situations.
+
+    ◦ **Example from text:** "Barbara's favourite snack is a cheese bread called 'chipa', while for Annie, it's the combination of peanuts and banana that hits the spot..."
+
+3\. **Whatever you like to \[verb phrase\], \[main clause\].**
+
+    ◦ **Function:** To introduce a general statement that applies regardless of individual preference or action.
+
+    ◦ **Example from text:** "Well, whatever you like to nibble on, in this episode we'll find out why we are so in love with snack food."
+
+4\. **This is why you see \[it/something\] as so \[adjective\].**
+
+    ◦ **Function:** To explain the reason or cause behind a particular observation or widespread phenomenon.
+
+    ◦ **Example from text:** "...this is something that you can turn to, and I think that **is why you see it as so popular.**"
+
+5\. **I can't swim against the current, and if \[person\] wants to \[verb phrase\]...**
+
+    ◦ **Function:** To express an inability to resist a popular trend or influence, often followed by a conditional statement about the consequence.
+
+    ◦ **Example from text:** "...but of course **I can't swim against the current, and if my 9-year-old wants to eat the little baked snacks** that have cheddar..."
+
+6\. **\[Doing something\] while you're busy \[verb-ing\] or \[verb-ing\], rather than \[place/state\].**
+
+    ◦ **Function:** To describe an activity being performed concurrently with other tasks or in a specific manner, contrasting it with an alternative.
+
+    ◦ **Example from text:** "...doing things **while you're busy travelling or moving around, rather than at home.**"
+
+## Chunks
+
+1\. **in love with**: 表达强烈喜欢时
+
+2\. **big business**: This is a useful collocation referring to an industry or activity that is very profitable or involves a lot of money. Snacking is described as "**big business**, with an estimated $1.5 trillion a year spent globally".
+
+4\. **turn to**: This phrasal verb means to resort to, depend on, or use something for support or a particular purpose. Christine Cochran notes that if "money is tight, this is something that you can **turn to**".
+
+7\. **pay for the basics**: This chunk refers to having just enough money to cover essential living expenses. It's implied by the definition of "money is tight" where there's "only just enough money available to **pay for the basics** needed to live".
+
+8\. **target a specific function**: This collocation describes the design and marketing strategy for some modern snacks, which are created to provide particular benefits. "Many modern snacks **target a specific function**".
+
+10\. **head over to**: This phrasal verb means to go to a particular place. Learners are encouraged to "**head over to** our website" for further resources.
+
+## Vocabulary
+
+1\. **Confectionery**: This refers to **sweets, chocolates, and other sweet foods**. It's a topic-specific term for a category of snacks, often considered more formal than just "sweets".
+
+2\. **Savoury**: An adjective used to describe food that is **salty or spicy and not sweet**. It's crucial for distinguishing food tastes, as opposed to sweet items like confectionery.
+
+5\. **Nibble on**: A phrasal verb meaning to **take small bites of food**. It's topic-specific to eating and describes a particular way of consuming snacks, as mentioned by Beth: "whatever you like to nibble on".
+
+7\. **Functional ingredients**: A phrase referring to **components in food that offer specific health benefits beyond basic nutrition**. This is topic-specific to health and food science, and slightly higher difficulty due to its technical nature, as consumers look for snacks with specific functional ingredients for things like gut health or muscle development.
+
+8\. **Proper meal**: A phrase referring to **a full, substantial meal, typically eaten sitting down**. This is topic-specific to food and meal routines, indicating a shift from traditional dining habits due to snacks.
+
+9\. **Indulge in**: A verb meaning to **allow oneself to enjoy the pleasure of something, often to excess**. While high-frequency, it carries a nuance of pleasure or occasional overconsumption, as Britons "indulge in" confectionery and chocolate weekly.
+
+10\. **Modern twist**: A phrase referring to **a new or different version of something traditional**. This is a useful, general phrase that can describe adaptations, such as modern baked snacks being a "modern twist" on traditional cheese bread.
+
+## Required Expressions
+
+-   **hits the spot (idiom)**: This means something **is exactly what you want or need**. For example, Annie Gray finds that salted peanuts and a banana together "hit the spot" for her.
+    
+-   **money is tight**: This phrase describes a situation where **there is only just enough money available to pay for the basics needed to live**. Snacks which are cheap enough will sell even if money is tight.
+    
+-   **on the go (idiom)**: This means doing things **while busy travelling or moving around, rather than at home**. Consumers are often eating on the go because they cannot always sit down for three meals a day.
+    
+-   **mental clarity**: This term describes a **state in which your mind is fully focused, active and engaged, not dull or foggy**. Some modern snacks claim to improve mental clarity.
+    
+-   **swim against the current/tide (idiom)**: This means to **do or say things which are different from most other people, because you do not mind being different**. Barbara Oievari mentions she "can't swim against the current" when her son prefers packaged snacks over natural ones
+<!-- DAILY_CHECKIN_2025-09-17_END -->
+
 # 2025-09-15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 Trying to explore the best ways for me to learn English.
