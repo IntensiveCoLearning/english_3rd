@@ -53,4 +53,17 @@ I love learning
     
 -   每周参加一次英文Community Call或找语伴，逼自己输出。
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+今天学习了一下听力  
+Mother terrsa,who recieved a nobel prize XXX for her work to help poor, die in CXXX, She was 87 years old  
+  
+结果  
+Mother Teresa,who received a Nobel Peace Prize for her work on behalf of the poor ,dies in Calcutta India. She was 87years old. 由于帮助穷人得到诺贝尔和平奖的特丽莎修女在印度加尔各答死去，享年87岁。  
+on behalf of＝for  
+Nobel Peace Prize诺贝尔和平奖  
+Calcutta：加尔各答（印度城市）
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
