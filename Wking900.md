@@ -24,4 +24,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 今日背诵单词35个，复习单词50个；根福《走遍中国》第一篇；第一次尝试ome.tv,很新奇
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+今日背诵单词35个，复习单词84个：跟读《走遍中国》第二期，复习第一期；在OmeTV上跟两位外国友人聊天
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
