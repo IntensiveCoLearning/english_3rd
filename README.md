@@ -156,128 +156,129 @@ Telegram：https://t.me/LXDAO/6912
 <!-- START_COMMIT_TABLE -->
 | Name | 9.15 | 9.16 | 9.17 | 9.18 | 9.19 | 9.20 | 9.21 | 9.22 | 9.23 | 9.24 | 9.25 | 9.26 | 9.27 | 9.28 | 9.29 | 9.30 | 10.01 | 10.02 | 10.03 | 10.04 | 10.05 | 10.06 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [B1u-e](https://github.com/IntensiveCoLearning/english_3rd/blob/main/B1u-e.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [B1u-e](https://github.com/IntensiveCoLearning/english_3rd/blob/main/B1u-e.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/english_3rd/blob/main/brucexu-eth.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
-| [slucifersz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/slucifersz.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [tikpen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/tikpen.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [kelvinqin7](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kelvinqin7.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [Erickup18](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Erickup18.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [bcyb1122-liu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/bcyb1122-liu.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [lynn-000-cccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lynn-000-cccc.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [Soldier-Hacker](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Soldier-Hacker.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [MRzzz-cyber](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MRzzz-cyber.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [SuBCweb3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SuBCweb3.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [lokeey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lokeey.md) | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [quentinawu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/quentinawu.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [abel-king](https://github.com/IntensiveCoLearning/english_3rd/blob/main/abel-king.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Tunnelai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Tunnelai.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [cole123466](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cole123466.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [william33-gif](https://github.com/IntensiveCoLearning/english_3rd/blob/main/william33-gif.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Cmingqiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Cmingqiu.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Zyuhui008](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Zyuhui008.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [15998431520](https://github.com/IntensiveCoLearning/english_3rd/blob/main/15998431520.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [caicongyang](https://github.com/IntensiveCoLearning/english_3rd/blob/main/caicongyang.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [nobodyhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nobodyhi.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [kaka666111](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kaka666111.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [zhenghaoailimiao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhenghaoailimiao.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [LukeNotes](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LukeNotes.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [flora2030](https://github.com/IntensiveCoLearning/english_3rd/blob/main/flora2030.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [lccc-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lccc-777.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [Lemonadeccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Lemonadeccc.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [chenyllove001](https://github.com/IntensiveCoLearning/english_3rd/blob/main/chenyllove001.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [evelive3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/evelive3.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [nanakodesuu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nanakodesuu.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/pillowtalk-Qy.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [BiscuitCoder](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BiscuitCoder.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [huaigu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/huaigu.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [meixingyu001-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/meixingyu001-code.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [41surfer](https://github.com/IntensiveCoLearning/english_3rd/blob/main/41surfer.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [taiaiJiaZhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taiaiJiaZhi.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [zane3412](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zane3412.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Waiting-Chai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Waiting-Chai.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [MoonHub0503](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MoonHub0503.md) | ⭕️ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [jjeejj](https://github.com/IntensiveCoLearning/english_3rd/blob/main/jjeejj.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Plato333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Plato333.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [LareinaLong](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LareinaLong.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Viven901](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Viven901.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [camelliainforest](https://github.com/IntensiveCoLearning/english_3rd/blob/main/camelliainforest.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [look-new](https://github.com/IntensiveCoLearning/english_3rd/blob/main/look-new.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Youngho-Luk](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Youngho-Luk.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Readering1](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Readering1.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [OS-Lihua](https://github.com/IntensiveCoLearning/english_3rd/blob/main/OS-Lihua.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [hejtao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hejtao.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [lpppy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lpppy.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Thomas-YHS](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Thomas-YHS.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [lilith998](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lilith998.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [skcvan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/skcvan.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [Darkells](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Darkells.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Tengfei-Ma13206](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Tengfei-Ma13206.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [zhangqiyu288](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhangqiyu288.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [3956ray](https://github.com/IntensiveCoLearning/english_3rd/blob/main/3956ray.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [xuran-xu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xuran-xu.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [hycnbbit](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hycnbbit.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
+| [slucifersz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/slucifersz.md) | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [tikpen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/tikpen.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [kelvinqin7](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kelvinqin7.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [Erickup18](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Erickup18.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [bcyb1122-liu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/bcyb1122-liu.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [lynn-000-cccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lynn-000-cccc.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [Soldier-Hacker](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Soldier-Hacker.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [MRzzz-cyber](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MRzzz-cyber.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [SuBCweb3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SuBCweb3.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [lokeey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lokeey.md) | ✅ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [quentinawu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/quentinawu.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [abel-king](https://github.com/IntensiveCoLearning/english_3rd/blob/main/abel-king.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Tunnelai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Tunnelai.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [cole123466](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cole123466.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [william33-gif](https://github.com/IntensiveCoLearning/english_3rd/blob/main/william33-gif.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Cmingqiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Cmingqiu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Zyuhui008](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Zyuhui008.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [15998431520](https://github.com/IntensiveCoLearning/english_3rd/blob/main/15998431520.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [caicongyang](https://github.com/IntensiveCoLearning/english_3rd/blob/main/caicongyang.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [nobodyhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nobodyhi.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [kaka666111](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kaka666111.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [zhenghaoailimiao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhenghaoailimiao.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [LukeNotes](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LukeNotes.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [flora2030](https://github.com/IntensiveCoLearning/english_3rd/blob/main/flora2030.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [lccc-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lccc-777.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [Lemonadeccc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Lemonadeccc.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [chenyllove001](https://github.com/IntensiveCoLearning/english_3rd/blob/main/chenyllove001.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [evelive3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/evelive3.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [nanakodesuu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nanakodesuu.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [pillowtalk-Qy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/pillowtalk-Qy.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [BiscuitCoder](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BiscuitCoder.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [huaigu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/huaigu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [meixingyu001-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/meixingyu001-code.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [41surfer](https://github.com/IntensiveCoLearning/english_3rd/blob/main/41surfer.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [taiaiJiaZhi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taiaiJiaZhi.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [zane3412](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zane3412.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Waiting-Chai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Waiting-Chai.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [MoonHub0503](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MoonHub0503.md) | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [jjeejj](https://github.com/IntensiveCoLearning/english_3rd/blob/main/jjeejj.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Plato333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Plato333.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [LareinaLong](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LareinaLong.md) | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [Viven901](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Viven901.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [camelliainforest](https://github.com/IntensiveCoLearning/english_3rd/blob/main/camelliainforest.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [look-new](https://github.com/IntensiveCoLearning/english_3rd/blob/main/look-new.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Youngho-Luk](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Youngho-Luk.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Readering1](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Readering1.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [OS-Lihua](https://github.com/IntensiveCoLearning/english_3rd/blob/main/OS-Lihua.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [hejtao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hejtao.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [lpppy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lpppy.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Thomas-YHS](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Thomas-YHS.md) | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
+| [lilith998](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lilith998.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [skcvan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/skcvan.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [Darkells](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Darkells.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Tengfei-Ma13206](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Tengfei-Ma13206.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [zhangqiyu288](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhangqiyu288.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [3956ray](https://github.com/IntensiveCoLearning/english_3rd/blob/main/3956ray.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [xuran-xu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xuran-xu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [hycnbbit](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hycnbbit.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [0xhirugohan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhirugohan.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [yoko-pm](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yoko-pm.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Wking900](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wking900.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [justinwongcn](https://github.com/IntensiveCoLearning/english_3rd/blob/main/justinwongcn.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Alwyn-Tan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Alwyn-Tan.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [ARZER-TW](https://github.com/IntensiveCoLearning/english_3rd/blob/main/ARZER-TW.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [e7924785-ops](https://github.com/IntensiveCoLearning/english_3rd/blob/main/e7924785-ops.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [alexsupa597](https://github.com/IntensiveCoLearning/english_3rd/blob/main/alexsupa597.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [wakyde](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wakyde.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Nancy0209](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Nancy0209.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Ssssy-Sara](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Ssssy-Sara.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [zhouCode](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhouCode.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [LarixNi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LarixNi.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
+| [yoko-pm](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yoko-pm.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Wking900](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wking900.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [justinwongcn](https://github.com/IntensiveCoLearning/english_3rd/blob/main/justinwongcn.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Alwyn-Tan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Alwyn-Tan.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [ARZER-TW](https://github.com/IntensiveCoLearning/english_3rd/blob/main/ARZER-TW.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [e7924785-ops](https://github.com/IntensiveCoLearning/english_3rd/blob/main/e7924785-ops.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [alexsupa597](https://github.com/IntensiveCoLearning/english_3rd/blob/main/alexsupa597.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [wakyde](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wakyde.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Nancy0209](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Nancy0209.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Ssssy-Sara](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Ssssy-Sara.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [zhouCode](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhouCode.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [LarixNi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LarixNi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [Wind558](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wind558.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [liuyuhuai3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/liuyuhuai3.md) | ⭕️ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [yhzhongc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yhzhongc.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [dddreame](https://github.com/IntensiveCoLearning/english_3rd/blob/main/dddreame.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Jessie-zzz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Jessie-zzz.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [kikyou1009](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kikyou1009.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [mataibai831-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mataibai831-code.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [leopc999](https://github.com/IntensiveCoLearning/english_3rd/blob/main/leopc999.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [EllaArgent](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EllaArgent.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [scottcwy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/scottcwy.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [crystalshu123](https://github.com/IntensiveCoLearning/english_3rd/blob/main/crystalshu123.md) | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [yasmineyu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yasmineyu.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [XXXJCSAMA](https://github.com/IntensiveCoLearning/english_3rd/blob/main/XXXJCSAMA.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [surdress](https://github.com/IntensiveCoLearning/english_3rd/blob/main/surdress.md) | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [averywexler](https://github.com/IntensiveCoLearning/english_3rd/blob/main/averywexler.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [easyshellworld](https://github.com/IntensiveCoLearning/english_3rd/blob/main/easyshellworld.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [big-dudu-mosty](https://github.com/IntensiveCoLearning/english_3rd/blob/main/big-dudu-mosty.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [taozimao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taozimao.md) | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [SHUPENG1989](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SHUPENG1989.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [SparrowHuang1994](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SparrowHuang1994.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Wjmwjm614](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wjmwjm614.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [M9nonper](https://github.com/IntensiveCoLearning/english_3rd/blob/main/M9nonper.md) | ⭕️ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [RaeQiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/RaeQiu.md) | ⭕️ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [yrd241](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yrd241.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [0xhha0](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhha0.md) | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [BromdenX](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BromdenX.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [llllIIIIllllIIII](https://github.com/IntensiveCoLearning/english_3rd/blob/main/llllIIIIllllIIII.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [zlp528](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zlp528.md) | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [edwardqin-creator](https://github.com/IntensiveCoLearning/english_3rd/blob/main/edwardqin-creator.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [lucas1968](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lucas1968.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
+| [liuyuhuai3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/liuyuhuai3.md) | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [yhzhongc](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yhzhongc.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [dddreame](https://github.com/IntensiveCoLearning/english_3rd/blob/main/dddreame.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Jessie-zzz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Jessie-zzz.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [kikyou1009](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kikyou1009.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [mataibai831-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mataibai831-code.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [leopc999](https://github.com/IntensiveCoLearning/english_3rd/blob/main/leopc999.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [EllaArgent](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EllaArgent.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [scottcwy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/scottcwy.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | ✅ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [crystalshu123](https://github.com/IntensiveCoLearning/english_3rd/blob/main/crystalshu123.md) | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [git149](https://github.com/IntensiveCoLearning/english_3rd/blob/main/git149.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xBrick-Li.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [yasmineyu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yasmineyu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [XXXJCSAMA](https://github.com/IntensiveCoLearning/english_3rd/blob/main/XXXJCSAMA.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [sangelege](https://github.com/IntensiveCoLearning/english_3rd/blob/main/sangelege.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [surdress](https://github.com/IntensiveCoLearning/english_3rd/blob/main/surdress.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [mogu-777](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mogu-777.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [janebirkey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/janebirkey.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [averywexler](https://github.com/IntensiveCoLearning/english_3rd/blob/main/averywexler.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [easyshellworld](https://github.com/IntensiveCoLearning/english_3rd/blob/main/easyshellworld.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [big-dudu-mosty](https://github.com/IntensiveCoLearning/english_3rd/blob/main/big-dudu-mosty.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [taozimao](https://github.com/IntensiveCoLearning/english_3rd/blob/main/taozimao.md) | ✅ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [SHUPENG1989](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SHUPENG1989.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [SparrowHuang1994](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SparrowHuang1994.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Wjmwjm614](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wjmwjm614.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [M9nonper](https://github.com/IntensiveCoLearning/english_3rd/blob/main/M9nonper.md) | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [RaeQiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/RaeQiu.md) | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [yrd241](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yrd241.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [0xhha0](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhha0.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [BromdenX](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BromdenX.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [llllIIIIllllIIII](https://github.com/IntensiveCoLearning/english_3rd/blob/main/llllIIIIllllIIII.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [zlp528](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zlp528.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
+| [edwardqin-creator](https://github.com/IntensiveCoLearning/english_3rd/blob/main/edwardqin-creator.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [lucas1968](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lucas1968.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
+| [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
