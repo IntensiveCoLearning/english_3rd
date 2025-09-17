@@ -36,4 +36,10 @@ Today’s reflection: Listening is a major difficulty for me, and I need to prac
 
 ![IMG_2088.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-16-1758029663776-IMG_2088.jpeg)![IMG_2089.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-16-1758029687224-IMG_2089.jpeg)![IMG_2090.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-16-1758029728817-IMG_2090.jpeg)![IMG_2091.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-16-1758029746220-IMG_2091.jpeg)
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+![IMG_2105.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-17-1758122635837-IMG_2105.jpeg)![IMG_2106.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-17-1758122662893-IMG_2106.jpeg)![IMG_2104.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-17-1758122723939-IMG_2104.jpeg)
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
