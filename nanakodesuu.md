@@ -28,4 +28,12 @@ timezone: UTC+8
 
 ![IMG_2826.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-16-1758028527159-IMG_2826.PNG)
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+挤进前三！还没看过最后一个等级长啥样，这周拿到开开眼
+
+![IMG_2851.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-17-1758116565276-IMG_2851.PNG)
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
