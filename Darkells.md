@@ -31,4 +31,10 @@ Today, I practiced my English in two ways.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
 
 
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+I am searching for information on ZK Rollups today to confirm that generalized ZK Rollups are now available. Because I read a point that said general-purpose ZK Rollups haven't been achieved yet.
+
+It is no longer true today. The technology has matured, and the vision of general-purpose ZK Rollups powered by zkEVMs is now a reality.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
