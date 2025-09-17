@@ -32,4 +32,12 @@ timezone: UTC+8
 
 3.I reviewed 50 vocabulary words using Anki and reinforced my understanding by practicing and testing with ChatGPT.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+1.Spend 20 minutes practicing the tone and style of a BBC article.
+
+2.Continue vocabulary practice with ChatGPT and Anki flashcards.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
