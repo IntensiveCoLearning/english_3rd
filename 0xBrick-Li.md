@@ -28,4 +28,10 @@ After yesterday's heavy rain, today is sunny and the sky is clear. I can see mou
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 Today registered for English level 6 exam and pay the fee.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Today I didn't ride my bike to Mc'Donald to having breakfast,instead I had instant noodles in my room and learned solidity for a whole day
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
