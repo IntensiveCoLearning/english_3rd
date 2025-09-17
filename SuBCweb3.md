@@ -21,4 +21,10 @@ SuBC
 3.busuu 3mins  
 4.MaiMemo 50 words
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-09-17-1758120756082-image.png)
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
