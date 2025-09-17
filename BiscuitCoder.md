@@ -22,4 +22,14 @@ Learning English well is an urgent need.
     
 -   [julebu.co](http://julebu.co) is a great practice tool, but it can't be flexibly combined,so i created doubao assistant
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+-   review grammar and practice with doubao Ai agent
+    
+-   how to use perpotions is still a core problem
+    
+-   but i still feel i'm making prgress
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
