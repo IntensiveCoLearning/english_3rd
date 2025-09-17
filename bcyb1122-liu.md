@@ -30,4 +30,10 @@ timezone: UTC+8
 
 ![IMG_0403.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-16-1758038239542-IMG_0403.jpeg)
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+![IMG_0408.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-17-1758117868806-IMG_0408.jpeg)![a58f7ca2de441b498c5a1f5299d51a34.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-17-1758117835741-a58f7ca2de441b498c5a1f5299d51a34.jpeg)![2c4032b3cb76528d4ef3ff5d3a9946f5.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-17-1758117704221-2c4032b3cb76528d4ef3ff5d3a9946f5.jpeg)
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
