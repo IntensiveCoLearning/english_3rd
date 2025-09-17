@@ -30,4 +30,10 @@ B站英语听力40分钟
 
 ![1000034087.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Youngho-Luk/images/2025-09-16-1758025371650-1000034087.jpg)
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+百词斩单词150个
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
