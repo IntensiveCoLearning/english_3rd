@@ -54,4 +54,20 @@ contrast 对比，差异
 
 control 控制，管理
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+affect / effect
+
+affect (v.)：影响，假装
+
+effect (n.)：结果，影响
+
+adapt / adopt
+
+adapt：适应，改编
+
+adopt：采用，收养
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
