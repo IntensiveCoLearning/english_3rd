@@ -26,4 +26,10 @@ timezone: UTC+8
 
 并制作anki卡片
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+今天阅读cryptozombie 3chapter
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
