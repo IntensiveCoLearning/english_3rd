@@ -38,4 +38,10 @@ timezone: UTC+8
 
 10、finish
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+weather、sunny、rain、widy、cloud、snow、cold、hot、warn、season
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
