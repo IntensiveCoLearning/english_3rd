@@ -30,4 +30,14 @@ timezone: UTC+8
 1、连读不是可有可无的东西。  
 2、加音，需要单词最后面一个词发音到位。
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+-   have to / of course 都读f 轻音+轻音更轻松
+    
+-   结尾+s 什么时候读s？什么时候读z？轻辅音读s、浊辅音读z。
+    
+-   s后面+p、t、k，会浊化，因为两个送气音不好发。
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
