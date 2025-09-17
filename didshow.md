@@ -42,4 +42,12 @@ By the way, the most important thing is to recalled actively. According to the p
     
 -   The same time, we chat in English from day to night
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+-   today, I have a meeting with my group about 40min, and we'll talk about a hackthon. And we will surround the topic share what's role if there is a hackthon we can play, and share some hackthon experience As my spoken English test.
+    
+-   listen to English podcast is for sure and today I'll translate a youtube vedio for test part depends on AI
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
