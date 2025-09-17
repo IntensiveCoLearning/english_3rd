@@ -18,4 +18,10 @@ I'm Eureka, a veteran operations specialist in Boethia's Asset Allocation Depart
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 口语练习20分钟
 <!-- DAILY_CHECKIN_2025-09-15_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+Twenty minutes of oral practice.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
