@@ -25,4 +25,14 @@ timezone: UTC+8
 影子跟读走进美国  
 背单词50分钟
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+影子跟读走进美国
+
+无字幕电影飘
+
+和国际友人聊天20分钟
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
