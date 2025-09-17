@@ -50,4 +50,18 @@ There are three things that they are never to discuss with this people,reledgyn 
 
 The answer: There are three things I have learned never to discuss with people ,religion ,politcs and the Great pumpkin.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+dictation：
+
+1,Whatever somebody tell you ,you can do somethings.
+
+answer:Don't ever let somebody tell you ,you can't do something
+
+2,I have come here to chew bubblegum and kick us and all at buble.
+
+answer:I have come here to chew bubblegum and kick ass and I'm all out of bublegum.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
