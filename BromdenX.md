@@ -30,4 +30,18 @@ I upgraded to IOS 26 today,and i spent an hour reading english posts on Reddit.
 
 Start with something you are interested in and learn knowledge.
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+I Contunue to learn English about IOS 26
+
+Just finished upgraded about 30 minutes age,So far i'm seeing some lag and phone is getting a little bit warm.
+
+But i assume it's indexing,i know every major IOS update is like this,once it's down indexing it should be fine.
+
+what does indexing mean in this sense?
+
+It means the litearal defintion of the word,The phone is creating a searchable datebase for you various apps and it's all happing in the backgroud whick is why the phone is warm.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
