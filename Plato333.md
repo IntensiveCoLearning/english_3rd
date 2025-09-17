@@ -24,4 +24,10 @@ Today I listened to the opening ceremony and gained a lot of new ways to learn E
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 今天记了些单词
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.17
+<!-- DAILY_CHECKIN_2025-09-17_START -->
+I translated an article today，This is today's earnings.
+<!-- DAILY_CHECKIN_2025-09-17_END -->
 <!-- Content_END -->
