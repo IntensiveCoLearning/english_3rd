@@ -28,4 +28,12 @@ Today marks the official start of my English learning journey. I first tried doi
 
 ![bd079e569aaad4148c6ee7f7a50f4f9.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-17-1758123874898-bd079e569aaad4148c6ee7f7a50f4f9.jpg)![3ecfc895f894afdaa86d5e496fc9455.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-17-1758123889945-3ecfc895f894afdaa86d5e496fc9455.jpg)
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+背单词
+
+![725f706c74b6ce78fd7018844233cd8.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-18-1758208257187-725f706c74b6ce78fd7018844233cd8.jpg)![f97afb941fc5187a3c123c3c698a1df.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-18-1758208272429-f97afb941fc5187a3c123c3c698a1df.jpg)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
