@@ -24,4 +24,14 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 [https://www.notion.so/CH-1-2613180e0b74802781b1d2f68e817620?source=copy\_link](https://www.notion.so/CH-1-2613180e0b74802781b1d2f68e817620?source=copy_link)
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+複習了英文文法終極解析的CH1內容，CH2時態看完一半。
+
+時態 依時間分為 : 現在式、過去式、未來式
+
+依動作狀態分為 : 簡單式、進行式、完成式、進行完成式
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
