@@ -32,4 +32,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 今天阅读cryptozombie 3chapter
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+今天逛了reddit geography forum
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
