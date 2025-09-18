@@ -216,7 +216,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Darkells](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Darkells.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | [Tengfei-Ma13206](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Tengfei-Ma13206.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [zhangqiyu288](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhangqiyu288.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
-| [3956ray](https://github.com/IntensiveCoLearning/english_3rd/blob/main/3956ray.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
+| [3956ray](https://github.com/IntensiveCoLearning/english_3rd/blob/main/3956ray.md) | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | | |
 | [xuran-xu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xuran-xu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [cprt32](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cprt32.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | [hycnbbit](https://github.com/IntensiveCoLearning/english_3rd/blob/main/hycnbbit.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
