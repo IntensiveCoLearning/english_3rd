@@ -44,4 +44,10 @@ what does indexing mean in this sense?
 
 It means the litearal defintion of the word,The phone is creating a searchable datebase for you various apps and it's all happing in the backgroud whick is why the phone is warm.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+learning english from reddit too
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
