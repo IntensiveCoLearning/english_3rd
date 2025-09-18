@@ -104,4 +104,12 @@ AI产品经理，开发者，商科大三在读。
 
 \- 听完后尝试口头复述内容，检查理解程度。
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+1.听力精读1h，影子跟读0.5h
+
+2.学习Youtube英语技术视频1h，使用英文与Claude编程3h
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
