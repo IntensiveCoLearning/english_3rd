@@ -208,4 +208,10 @@ Key terms are bolded to emphasize importance.
 
 This structure balances theoretical knowledge with practical exercises, aligning with strategies for effective language acquisition
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+today no
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
