@@ -66,4 +66,14 @@ on behalf of＝for
 Nobel Peace Prize诺贝尔和平奖  
 Calcutta：加尔各答（印度城市）
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+今天看了一遍纯英文字幕电影，F1，狂飙飞车，大部分结合情节还是能懂，但是脑子里还是会不自觉的去想中文意思，需要改掉这个毛病
+
+Jerry, what time do u have?
+
+I have 5 o’clock
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
