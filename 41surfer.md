@@ -50,4 +50,14 @@ I’m convinced (that)…（“我确信”，比 think 笃定）
 
 4、Lena has shared some information about BD incriutment
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+today’s topic is about The web3 knowledge you most want to know . we shared the knowledge and tried to explain the keywords include RWA Tokenization、AI Token、DePIN、Tokenization of digital assets、Stablecoins， We can exchange our understanding of them and we can discuss What are their characteristics, how are they developing, and what is their current situation.
+
+content about ：Timeline of the dispute over the issuance rights of USDH stablecoins//definition of RWA//talk about The suspect in the Coinbase data breach case had information of over ten thousand customers on his mobile phone
+
+new words ： stablecoins/**redistributed/Digital Asset Treasuries/**
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
