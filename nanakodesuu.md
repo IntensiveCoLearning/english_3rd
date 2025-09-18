@@ -36,4 +36,12 @@ timezone: UTC+8
 
 ![IMG_2851.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-17-1758116565276-IMG_2851.PNG)
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+也太卷了
+
+![IMG_2859.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-18-1758201819216-IMG_2859.PNG)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
