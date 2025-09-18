@@ -34,4 +34,12 @@ We talk about 1hours.
 
 One group member participated in three hackathons.That's cool!
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+Today's topic is about The web3 knowledge you most want to know . You can share the knowledge and try to explain the keywords include RWA Tokenization、AI Token、DePIN、Tokenization of digital assets、Stablecoins， We can exchange our understanding of them and we can discuss What are their characteristics, how are they developing, and what is their current situation.
+
+But I think these concepts are a bit too many. I made a suggestion that the subsequent topics could be reduced a bit because I believe each concept requires a certain amount of time to understand.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
