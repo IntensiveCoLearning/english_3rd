@@ -27,4 +27,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-09-17-1758120756082-image.png)
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-09-18-1758201477143-image.png)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
