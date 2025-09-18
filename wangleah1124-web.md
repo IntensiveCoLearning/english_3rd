@@ -64,4 +64,33 @@ answer:Don't ever let somebody tell you ,you can't do something
 
 answer:I have come here to chew bubblegum and kick ass and I'm all out of bublegum.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+New words :
+
+incense sticks :They are burning some incense sticks  
+grass strimer:The man is trimming grass.  
+monk:A monk is walking past
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-18-1758192013154-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-18-1758192141712-image.png)
+
+pagoda. longan fruit scales bush
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-18-1758192404806-image.png)
+
+cruise on the perfume river  
+a legend says people once boiled hundreds of flowers an poured  
+deck of the boat  
+cruise ship
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-18-1758192744596-image.png)
+
+chilling out =relax
+
+Dictation6:  
+The secret of life,it's just like a very amount.  
+answer :The secret of live is just to live every moment .
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
