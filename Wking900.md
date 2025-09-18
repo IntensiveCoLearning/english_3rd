@@ -30,4 +30,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 今日背诵单词35个，复习单词84个：跟读《走遍中国》第二期，复习第一期；在OmeTV上跟两位外国友人聊天
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+今日新背单词35个，复习单词76个；复习《走遍美国》第一、二期
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
