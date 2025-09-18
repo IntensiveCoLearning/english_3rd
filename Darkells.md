@@ -37,4 +37,12 @@ I am searching for information on ZK Rollups today to confirm that generalized Z
 
 It is no longer true today. The technology has matured, and the vision of general-purpose ZK Rollups powered by zkEVMs is now a reality.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+-   **Listening:** Listened to Fed Chair Powell’s speech at midnight. His familiar “Good afternoon” caused minor market fluctuations. Powell’s neutral tone avoided dovish or hawkish signals, emphasizing balanced monetary policy.
+    
+-   **Reading:** Studied IPFS and Arweave documentation for a hackathon project. Learned key terms like “content addressing” (IPFS) and “permaweb” (Arweave) for decentralized storage integration.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
