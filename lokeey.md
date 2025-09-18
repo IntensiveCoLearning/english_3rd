@@ -44,4 +44,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 weather、sunny、rain、widy、cloud、snow、cold、hot、warn、season
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+teacher、doctor、student、worker、driver、cook、nurse、farmer、manager、engineer
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
