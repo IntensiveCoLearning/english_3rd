@@ -26,4 +26,10 @@ coder , web3 new learner ，lifelong learner
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 0.28 复制打开抖音，看看【梦想家Tom的作品】# 残酷共学 # 每日英语口语 # 散装英语 [https://v.douyin.com/CIprDUapK7k/](https://v.douyin.com/CIprDUapK7k/) trr:/ T@l.pQ 04/21
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+2.33 复制打开抖音，看看【梦想家Tom的作品】# 残酷共学 # 每日英文 [https://v.douyin.com/5NDSuZfXCbU/](https://v.douyin.com/5NDSuZfXCbU/) S@Y.Zz 08/07 ZZz:/
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
