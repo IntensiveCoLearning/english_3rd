@@ -351,4 +351,10 @@ And i also listened a podcast on YouTube，here is the link --[https://www.youtu
 yeap,is still my English Listening Practice,and review the content from the previous two days. I think is too long for me to put my notes here,so i choose to put it in the Notion.  
 And also i will keep listening a podcast on YouTube every to kepp enough import,try my best to immerse myself in an English-speaking environment.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+Today was also a super fulfilling day. This morning,i came accross a vedio on Bilibili about how to learning English thinking and speaking fluent oral English with 300 core words.I think it's a pretty good vedio,may be just for me.Moreover,the speaking speed in the vedio is not very fast,whick is very suitable for beginners like me and enables me to understand what he is saying.The key of this vedio is not to remember more new words,but not to learn how to make efficient use of the vocabulary you already have and speak bravely.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
