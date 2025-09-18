@@ -44,4 +44,12 @@ Today, I learned 10 phonetics, and found three pronunciation issues, like Garage
 
 And start building the English learning tools.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/brucexu-eth/images/2025-09-18-1758193053819-image.png)
+
+I started filtering out some familiar words from the NGSL. And finished 10 IPA
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
