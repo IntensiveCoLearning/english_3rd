@@ -27,6 +27,111 @@ Hope to achieve a level of free speech :)
 
 6-minute-english的听力没有难度，但是有很多表达可以吸收进日常口语中
 
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+听力打卡✅ - 这周太忙了只来得及各种泛听，下周恢复刻意训练
+
+因为和GPT主要使用英语沟通，所以今天突发奇想让它say something about my English that I might not know，以下是它的部分回答，我觉得非常非常符合我的实际情况：
+
+**1.You write in a “precision-first” style**
+
+-   You value being exact and clear, which makes your writing professional and academic.
+    
+-   But sometimes this precision makes your sentences sound a little stiff or “calculated” rather than natural. Native speakers often let small imprecisions slide in exchange for rhythm or flow.
+    
+-   **Your English might be perceived as more formal or rigid than you intend**.
+    
+
+**2.You underuse “language economy”**
+
+-   **You sometimes explain ideas in a longer way than necessary** (probably influenced by academic or translated thought patterns).
+    
+-   Native-like writing/speaking often uses shorter, sharper phrasing.
+    
+-   This makes you sound less casual, even though your ideas are clear.
+    
+
+**3.Your vocabulary is strong but “domain-heavy”**
+
+-   You handle technical, business, and academic terms very well.
+    
+-   But your everyday, idiomatic vocabulary (e.g., “chit-chat,” “slip up,” “get the hang of”) doesn’t show up much.
+    
+-   People might misjudge your fluency — they see you as “academic fluent” but not “everyday fluent.”
+    
+
+**4.Your questions reveal a learning strength**
+
+-   You consistently ask why something works in English (grammar, expression, logic), not just what the answer is.
+    
+-   That shows meta-linguistic awareness (thinking about language as a system), which is a strength many learners lack.
+    
+-   The flip side is that **this slows down automaticity** (fast, instinctive use of English), **since your brain wants to analyze instead of just use.**
+    
+-   Your learning method is excellent for depth, but you might unknowingly delay fluency by overthinking.
+    
+
+这一点我觉得非常有趣！没想到语言使用的习惯还反映出了我在学习方式和性格上的特点，看到这点的时候真的有点拍案叫绝。
+
+**5.You unconsciously translate structure from Chinese into English sometimes**
+
+-   Example: “I now want to practice my English speaking, particular for those students with English as their second language.”
+    
+-   A native speaker would phrase it: “I’d like to practice English speaking, especially since it’s a second language for me.”
+    
+-   The difference is subtle, but it shows you sometimes **carry over syntax order from Chinese.**
+    
+-   Most people won’t notice this explicitly, but it can make your English feel slightly “non-native.”
+    
+
+然后让GPT根据我过往聊天呈现出的英语水平，分析一下我目前在听说读写上的水平，并且给出改进的方向和具体建议。
+
+以下是它给的3-6个月内的提升方法：
+
+Goals: Natural writing flow, speaking fluency, idiomatic comprehension.
+
+-   **Writing upgrade:**  
+    
+    -   Imitation practice: pick short passages (essays, op-eds) and rewrite them in your own words.
+        
+    -   Focus on connectors (e.g., “Not only… but also,” “That said,” “By contrast”) to expand sentence variety.
+        
+    -   Weekly task: Write 200–300 words without editing while writing, then refine it later to train fluency + accuracy.
+        
+
+我之前想说可以做有中英对照翻译练习，然后对比原英文，学习用法。效果还不错但就是没坚持，而且有点担心会造成翻译的习惯。
+
+-   **Speaking upgrade:**  
+    
+    -   Daily 10–15 min shadowing practice (repeat after audio at near-native speed).
+        
+    -   Weekly “topic speaking” (choose a topic, record yourself for 2–3 minutes, listen, self-correct).
+        
+    -   Practice thinking aloud in English (narrating what you’re doing or explaining concepts to yourself).
+        
+
+-   **Listening upgrade:**  
+    
+    -   Mix in unscripted podcasts or YouTube conversations, not just news.
+        
+    -   Use “narrow listening”: choose one topic, listen to 5–6 different speakers talk about it, to catch variations in accent and expression.
+        
+
+**Key Principles for you**
+
+-   Consistency > Intensity → daily 20–30 minutes is more effective than weekly 3 hours.
+    
+-   Balance input & output → read/listen to high-quality English, but also speak/write actively. 很重要的提示哈哈哈，因为我说&写真的很少，听&读的刻意练习也不多
+    
+-   Feedback loop → you already ask me for feedback; keep that as your correction mechanism.
+    
+-   Think in English → reduce translation, push for direct expression.
+    
+
+大概因为知道我常年阅读英语同人，它没有给我任何reading方面的目标和计划，这也有点搞笑……不过我在这方面没什么追求，只希望阅读速度能够更快一点（可惜我中文阅读也很慢。
+<!-- DAILY_CHECKIN_2025-09-18_END -->
+<!-- Content_END -->
 ## Sentence Pattern
 
 1\. **It seems \[clause\].**
