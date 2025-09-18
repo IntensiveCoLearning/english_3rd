@@ -40,4 +40,12 @@ timezone: UTC+8
     
 -   s后面+p、t、k，会浊化，因为两个送气音不好发。
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+省音：h经常被省略
+
+![da643fc1-4927-4a6c-b7c3-740210d5e7c2.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/meixingyu001-code/images/2025-09-18-1758209355549-da643fc1-4927-4a6c-b7c3-740210d5e7c2.png)![7373f8a2-84c0-43a6-92bb-2508abd064d5.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/meixingyu001-code/images/2025-09-18-1758209424468-7373f8a2-84c0-43a6-92bb-2508abd064d5.png)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
