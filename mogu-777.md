@@ -70,4 +70,20 @@ adapt：适应，改编
 
 adopt：采用，收养
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+faith vs. fail
+
+faith (n.)：信仰
+
+fail (v.)：失败
+
+factor vs. factory
+
+factor (n.)：因素
+
+factory (n.)：工厂
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
