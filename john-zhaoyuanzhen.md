@@ -54,4 +54,10 @@ Today I finished my study for Rustlings and just took some notes for a crypto-re
 
 12\. Within ten years, the crypto market will become a multi-trillion-dollar market, yet 99.999% of tokens will not survive until then. Only a tiny handful of tokens are suitable for long-term investment; the vast majority should only be traded short-term, requiring entirely different strategies than those used for long-term investing.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+Well I haven't actually done anything with English today...probably will watch something later. About to try something that Bruce came up today as well.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
