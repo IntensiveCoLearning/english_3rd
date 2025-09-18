@@ -32,4 +32,10 @@ Learning English well is an urgent need.
     
 -   but i still feel i'm making prgress
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+Third Person Subject-Verb Agreement Principle Grammar Review
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
