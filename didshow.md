@@ -50,4 +50,12 @@ By the way, the most important thing is to recalled actively. According to the p
     
 -   listen to English podcast is for sure and today I'll translate a youtube vedio for test part depends on AI
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+today's topic is about The web3 knowledge you most want to know . You can share the knowledge and try to explain the keywords include RWA Tokenization、AI Token、DePIN、Tokenization of digital assets、Stablecoins， We can exchange our understanding of them and we can discuss What are their characteristics, how are they developing, and what is their current situation.
+
+This is the spoken English test today.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
