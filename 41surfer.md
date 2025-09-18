@@ -58,6 +58,6 @@ today’s topic is about The web3 knowledge you most want to know . we shared th
 
 content about ：Timeline of the dispute over the issuance rights of USDH stablecoins//definition of RWA//talk about The suspect in the Coinbase data breach case had information of over ten thousand customers on his mobile phone
 
-new words ： stablecoins/**redistributed/Digital Asset Treasuries/**
+new words ： stablecoins/**redistributed/Digital Asset Treasuries/Net asset value/**liquidity engine/retail investors
 <!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
