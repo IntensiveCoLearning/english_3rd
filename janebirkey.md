@@ -26,4 +26,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 ![cbceee523e911b8cb042cd1c04b5f5b0.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/janebirkey/images/2025-09-17-1758118309280-cbceee523e911b8cb042cd1c04b5f5b0.jpg)
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+![3b77cadd795bee25abd77af8b393d765.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/janebirkey/images/2025-09-18-1758155870192-3b77cadd795bee25abd77af8b393d765.jpg)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
