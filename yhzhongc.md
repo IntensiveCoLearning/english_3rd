@@ -55,4 +55,14 @@ Sound play，Word play，Sentence play
 
 Tools: Anki, Forvo
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+1.  start to learn 20 words a day by using anki
+    
+2.  dictation practice [https://www.bilibili.com/video/BV1U7411a7xG/?vd\_source=53e80e4678042759c52c78e0f0a425cb](https://www.bilibili.com/video/BV1U7411a7xG/?vd_source=53e80e4678042759c52c78e0f0a425cb)
+    
+3.  pronunciation practice [https://www.bilibili.com/video/BV1SZ4y1K7Lr/?vd\_source=53e80e4678042759c52c78e0f0a425cb](https://www.bilibili.com/video/BV1SZ4y1K7Lr/?vd_source=53e80e4678042759c52c78e0f0a425cb)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
