@@ -50,4 +50,18 @@ calling in sick
   
 sick day
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+day 3: English pod ---Daily Life - Hotel Upgrade  
+  
+reservation  
+  
+confirmation  
+  
+complimentary  
+  
+mix-up
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
