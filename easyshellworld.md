@@ -32,4 +32,16 @@ Today was a busy day—I was out running around almost the whole time. At noon, 
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 Today I didn’t do my vocabulary check-in yet, but I’ll make it up later. I spent most of the day in meetings and even had a short conversation in English. Still, I haven’t made a proper study plan. Procrastination strikes again…
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+Today I focused on learning two short phrases: **“Good afternoon”** and **“Hello everyone.”**
+
+Imagine this: Jerome Powell, the Chair of the Federal Reserve, walks onto the stage and says, **“Good afternoon.”**  
+In this version, that formal opening is taken as a **bearish signal** — markets interpret it as the start of a careful, technical, or hawkish message. Traders tighten up, volatility can rise, bond yields may move higher and risky assets can slip, because a formal press-conference tone often precedes precise (and sometimes less-accommodative) policy language.
+
+Now imagine Powell smiles and says, **“Hello everyone.”**  
+Here the friendlier opening is treated as a **bullish / reassuring signal** — the tone feels more accessible and calming, which can soothe short-term market nerves and help lift sentiment. Investors may take a conversational, upbeat start as a hint that the remarks will be less technical and more focused on stability or support, which can translate into positive immediate market moves.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
