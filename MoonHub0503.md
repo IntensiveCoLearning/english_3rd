@@ -27,6 +27,16 @@ Today my English Co-learning group talked about topic theme：
 
 Look up some hackathon examples and think about what role you would play if you were to attend one right now, what type of teammates you would need, and what type of product you would want to build.
 
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+Today's topic is about The web3 knowledge you most want to know . You can share the knowledge and try to explain the keywords include RWA Tokenization、AI Token、DePIN、Tokenization of digital assets、Stablecoins， We can exchange our understanding of them and we can discuss What are their characteristics, how are they developing, and what is their current situation.
+
+It refers to the transformation of assets with economic value in the real world (such as real estate, bonds, artworks, equipment, etc.) into tradable digital tokens on the chain through blockchain technology.
+
+Objective: To enhance the liquidity, divisibility and global accessibility of traditional assets, enabling ordinary investors to participate in high-threshold markets as well.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
+<!-- Content_END -->
 ## A complete hackathon team usually requires at least:
 
 -   Product Design (PM/ Designer)
