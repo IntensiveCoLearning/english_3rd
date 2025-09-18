@@ -34,4 +34,10 @@ Today registered for English level 6 exam and pay the fee.
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 Today I didn't ride my bike to Mc'Donald to having breakfast,instead I had instant noodles in my room and learned solidity for a whole day
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+today haven't learned English,I study for solidity.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
