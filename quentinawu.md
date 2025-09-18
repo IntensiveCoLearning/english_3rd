@@ -148,8 +148,13 @@ Tomorrow’s schedule:
 -   Practice (specify: e.g., English listening/speaking) （建议补充具体内容，如“(English listening and speaking practice)”，使计划更清晰）
     
 -   **Prepare for the interview** （补充“the”，**“准备面试”是“prepare for the interview”**，特指某场面试时需加定冠词“the”）
-    
 
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+[https://www.notion.so/practicing-English-27055cd97df580969cb7d312cef0601b?source=copy\_link](https://www.notion.so/practicing-English-27055cd97df580969cb7d312cef0601b?source=copy_link)
+<!-- DAILY_CHECKIN_2025-09-18_END -->
+<!-- Content_END -->
 ## 二、雅思写作核心提升建议（针对日记场景）
 
 1.  **词汇精准性**：
