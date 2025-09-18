@@ -40,4 +40,12 @@ timezone: UTC+8
 
 2.Continue vocabulary practice with ChatGPT and Anki flashcards.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.18
+<!-- DAILY_CHECKIN_2025-09-18_START -->
+1.Tune in to the Crypto Altruists Podcast.
+
+2.Practice a simulated English conversation with ChatGPT.
+<!-- DAILY_CHECKIN_2025-09-18_END -->
 <!-- Content_END -->
