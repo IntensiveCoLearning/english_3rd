@@ -48,4 +48,12 @@ timezone: UTC+8
 
 2.Practice a simulated English conversation with ChatGPT.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+1.As I read the Crypto Altruists Blog, I'll turn to ChatGPT to help me make sense of anything I find hard to understand.
+
+2.Describe your day in English like you're writing a diary, then let ChatGPT help rewrite it.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
