@@ -33,4 +33,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-09-18-1758201477143-image.png)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+今天在墨墨那边背了100个单词
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
