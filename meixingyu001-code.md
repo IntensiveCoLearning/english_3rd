@@ -48,4 +48,11 @@ timezone: UTC+8
 
 ![da643fc1-4927-4a6c-b7c3-740210d5e7c2.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/meixingyu001-code/images/2025-09-18-1758209355549-da643fc1-4927-4a6c-b7c3-740210d5e7c2.png)![7373f8a2-84c0-43a6-92bb-2508abd064d5.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/meixingyu001-code/images/2025-09-18-1758209424468-7373f8a2-84c0-43a6-92bb-2508abd064d5.png)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+美音中有很多缩读，知道是啥就行，正式场合别用。  
+中文的每个词时长基本一致，但是英文中重读音节时长都基本一致。词语所花的时间由重读音节的数量决定的。识别重音。虚词弱读·。
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
