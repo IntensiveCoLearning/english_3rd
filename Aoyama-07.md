@@ -214,4 +214,70 @@ This structure balances theoretical knowledge with practical exercises, aligning
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 today no
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+English Learning Notes – 2025-09-19
+
+1.
+
+Shadowing
+
+Pick a 30-second clip (TED-Ed, VOA, BBC 6-Minute). Play → repeat aloud in real time → record on phone. Listen back, mark stress slips. Target: 0.3 s lag, 95 % pronunciation overlap.
+
+2.
+
+Lexical Expansion
+
+Daily quota: 10 high-frequency “core” words + 5 collocations.
+
+Input → Anki card template:
+
+Front: sentence with blank + IPA + audio
+
+Back: word + collocation + personal example
+
+Spaced-repetition interval: 1 d – 3 d – 7 d – 15 d – 30 d.
+
+Recycle any card failed twice into a “micro-story” homework: write 50-word paragraph using all failed items.
+
+3.
+
+Micro-writing Drill
+
+Prompt cycle (Mon–Fri):
+
+Describe a photo → defend an opinion → narrate past event → instruct a process → speculate about future.
+
+Rules: 100 words max, no repetition of nouns/verbs, one idiom, one concession clause.
+
+Post to LangCorrect; incorporate peer edits within 24 h.
+
+4.
+
+Listening “double exposure”
+
+Morning: raw audio (no subtitles).
+
+Evening: same clip with subtitles on; mine 3 useful chunks.
+
+Log unknown tokens in CSV: timestamp / phrase / inferred meaning / dictionary check / mnemonic.
+
+5.
+
+Speaking KPI
+
+Weekly 15-minute mock IELTS with timer.
+
+Track: filler-count (um, like), speed wpm, lexical diversity (Type-Token Ratio). Goal: < 4 fillers, 130–150 wpm, TTR ≥ 0.55.
+
+6.
+
+Feedback Loop
+
+Every Sunday night: export Anki stats, writing corrections, and speaking sheet into one Notion page. Tag biggest bottleneck (pron, vocab, grammar, fluency). Set one micro-goal for next week; delete the rest to avoid noise.
+
+Stick to the system; trust compound interest.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
