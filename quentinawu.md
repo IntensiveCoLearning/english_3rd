@@ -154,6 +154,16 @@ Tomorrow’s schedule:
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 [https://www.notion.so/practicing-English-27055cd97df580969cb7d312cef0601b?source=copy\_link](https://www.notion.so/practicing-English-27055cd97df580969cb7d312cef0601b?source=copy_link)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+[https://www.notion.so/practicing-English-27055cd97df580969cb7d312cef0601b?source=copy\_link](https://www.notion.so/practicing-English-27055cd97df580969cb7d312cef0601b?source=copy_link)
+
+coming~ wrote in the notion
+
+so i can check and review conveniently~
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
 ## 二、雅思写作核心提升建议（针对日记场景）
 
