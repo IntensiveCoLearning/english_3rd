@@ -86,4 +86,14 @@ factor (n.)：因素
 
 factory (n.)：工厂
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+fade 褪色
+
+curse 咒骂
+
+partner 伴侣
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
