@@ -73,6 +73,26 @@ intact: If something is _intact,_ it's still in one piece. If you'd like your sa
 
 promote: If you work for a marketing firm, your job is to _promote_ new products — to publicize them and to try to get the public to buy them.
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+DD112
+
+It is maddening—texting while walking. One town is saying it’s time to level fines find to get the against people who walk into the streets heads down—everybody else trying to dodge them.
+
+maddening
+
+_Maddening_ things are extremely irritating: they make you mad. Some drivers have the _maddening_ habit of following other cars too closely on the highway.
+
+level fines against people
+
+give fines people to
+
+dodge
+
+To _dodge_ something is to avoid it. In _dodge_ ball, players _dodge_ the balls being thrown at them.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
 ## 写：
 
