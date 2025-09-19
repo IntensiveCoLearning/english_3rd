@@ -112,4 +112,12 @@ AI产品经理，开发者，商科大三在读。
 
 2.学习Youtube英语技术视频1h，使用英文与Claude编程3h
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+看完了Vince9120的雅思托福长难句1h
+
+练习了2篇影子跟读 30分钟高级难度美音听力
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
