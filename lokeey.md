@@ -50,4 +50,10 @@ weather、sunny、rain、widy、cloud、snow、cold、hot、warn、season
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 teacher、doctor、student、worker、driver、cook、nurse、farmer、manager、engineer
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+bus、car、bicycle、train、subway、taxi、plane、walk、station、airport
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
