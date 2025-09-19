@@ -65,4 +65,14 @@ Tools: Anki, Forvo
     
 3.  pronunciation practice [https://www.bilibili.com/video/BV1SZ4y1K7Lr/?vd\_source=53e80e4678042759c52c78e0f0a425cb](https://www.bilibili.com/video/BV1SZ4y1K7Lr/?vd_source=53e80e4678042759c52c78e0f0a425cb)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+1.  start to learn 20 words a day by using anki
+    
+2.  dictation practice
+    
+3.  pronunciation practice
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
