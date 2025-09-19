@@ -93,4 +93,57 @@ Dictation6:
 The secret of life,it's just like a very amount.  
 answer :The secret of live is just to live every moment .
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+New words :
+
+walks down the alley.  
+strong gusts wind rustle the plants .  
+rain pitter patters against the plastic sheet .  
+a chef cooks over the hot flame.  
+a boat gently bobs on the river./lanterns glow softly ./the flag moves in the breeze.  
+a man in a blue shirts ride pedicabs through the street.  
+walk into thet distance .  
+the car reverses down a long drive.  
+a family dines in the restaurant  
+lanterns hang from the ceiling .  
+rain forms puddles on the ground .  
+a figure sits alone in the rice frield.  
+a boy casts his fishing rod .  
+the lands curves like a snake's tail  
+the wind chimes tinkle  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-19-1758285200944-image.png)
+
+shadows of leaves flickers on the wall.
+
+pine needles bounce in the wind .  
+a man does pull ups.  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-19-1758285338231-image.png)
+
+a mother plays with her baby in the shallow water.  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-19-1758285551786-image.png)
+
+a parasail takes off into the sky .  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-19-1758285606856-image.png)
+
+a cople takes in the view.  
+skyscraper
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-19-1758285822017-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-19-1758285894992-image.png)
+
+dictation 7:
+
+another rode traders has cost a bet billions .  
+answer : Another rogue trader has cost a bank billions .
+
+Smoking can cost you your life.
+
+German Roff who calls he is the man has the most piercings he has got 453.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
