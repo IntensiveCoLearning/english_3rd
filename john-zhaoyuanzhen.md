@@ -60,4 +60,10 @@ Today I finished my study for Rustlings and just took some notes for a crypto-re
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 Well I haven't actually done anything with English today...probably will watch something later. About to try something that Bruce came up today as well.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+Haven't done anything with English today...received the OneKey wallet and recorded an unboxing video in the morning.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
