@@ -52,4 +52,10 @@ And start building the English learning tools.
 
 I started filtering out some familiar words from the NGSL. And finished 10 IPA
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+Today I filtered out ~150 NGSL words. Keep working on it.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
