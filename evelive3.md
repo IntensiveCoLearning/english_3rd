@@ -34,4 +34,10 @@ Hi there, I'm Wayland, nice to see you.
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 try using some APP to improve my english oral
 <!-- DAILY_CHECKIN_2025-09-16_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+On a new day, I tried the way to use AI-assisted English learning
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
