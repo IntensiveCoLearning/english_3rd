@@ -36,4 +36,10 @@ Today marks the official start of my English learning journey. I first tried doi
 
 ![725f706c74b6ce78fd7018844233cd8.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-18-1758208257187-725f706c74b6ce78fd7018844233cd8.jpg)![f97afb941fc5187a3c123c3c698a1df.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-18-1758208272429-f97afb941fc5187a3c123c3c698a1df.jpg)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+![ce3cd4e7ca477649b9827c70c459a6a.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-19-1758294131822-ce3cd4e7ca477649b9827c70c459a6a.jpg)![3743d456333fe61310ede9c4cf121b2.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-19-1758294145542-3743d456333fe61310ede9c4cf121b2.jpg)
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
