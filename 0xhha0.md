@@ -38,4 +38,10 @@ my mouth so tired,but keep studing
 
 \[!\[IMG-20250918-231039.jpg\]([https://i.postimg.cc/3wjyQ44k/IMG-20250918-231039.jpg)\](https://postimg.cc/7C6PgLN4)](https://i.postimg.cc/3wjyQ44k/IMG-20250918-231039.jpg\)]\(https://postimg.cc/7C6PgLN4\))
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+Today ,I try to readed more middle levels books.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
