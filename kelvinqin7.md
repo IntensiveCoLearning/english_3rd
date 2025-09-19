@@ -17,11 +17,11 @@ timezone: UTC+8
 
 # 2025.09.15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
-## Thoughts：
+**Thoughts**：
 
 A journey of one thousand miles begins with one step.JUST DO IT,FIGHTING！
 
-## Finished：
+**Finished**：
 
 1.Today is the first day in English intensive co-learning.We take a opening ceremony of the English learning camp, some teachers share their learning skill, which is very helpful to [me.It](http://me.It) is impotant to have an environment for learning English，such as converse with myself a few minutes、such as read along with the English article……Above all,it is necessary to keep practicing and speaking out.
 
@@ -32,11 +32,11 @@ A journey of one thousand miles begins with one step.JUST DO IT,FIGHTING！
 
 # 2025.09.16
 <!-- DAILY_CHECKIN_2025-09-16_START -->
-## **Thoughts：**
+**Thoughts：**
 
 No matter how much,keep learning every day.
 
-## **Finished：**
+**Finished：**
 
 Words recite 30 minutes (screenshot)
 
@@ -45,7 +45,7 @@ Words recite 30 minutes (screenshot)
 
 # 2025.09.19
 <!-- DAILY_CHECKIN_2025-09-19_START -->
-## **Finished：**
+**Finished：**
 
 Words recite 30 minutes (screenshot)
 
