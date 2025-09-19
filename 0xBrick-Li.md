@@ -40,4 +40,10 @@ Today I didn't ride my bike to Mc'Donald to having breakfast,instead I had insta
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 today haven't learned English,I study for solidity.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+today increased vocabulary.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
