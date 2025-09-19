@@ -36,4 +36,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 今日新背单词35个，复习单词76个；复习《走遍美国》第一、二期
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+今日新背单词35个，复习单词113个；跟读《走遍美国》第三篇；
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
