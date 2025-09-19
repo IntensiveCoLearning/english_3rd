@@ -179,4 +179,27 @@ luna：
 
 -   [Dictionary](https://www.vocabulary.com/dictionary/)：坚持使用英文词典查阅生词。
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+4\. 写 | Writing
+
+**方法论：坚持每日输出与复盘**
+
+-   **写作挑战：** 每天写 100–200 字短文，逐步增加长度与复杂度。主题不限，关键是养成习惯。
+    
+-   **即时反馈：** 将文章交给 AI 修改，或发布到 LangCorrect / HelloTalk 等平台，获取反馈并复盘，积累地道表达。
+    
+
+**推荐工具：**
+
+-   [Grammarly](https://www.grammarly.com/)：在线语法纠错工具。
+    
+-   ChatGPT：使用特定 Prompt 获得针对性修正。可参考 Bruce 老师分享：
+    
+    -   [Prompt ipv](https://t.me/buxiangshuo123/518)：纠正语法错误 (Improve, Polish, Verify)。
+        
+    -   [Prompt eps](https://t.me/buxiangshuo123/519)：提炼内容核心 (Edit, Polish, Shorten)。
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
