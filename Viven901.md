@@ -48,4 +48,10 @@ Today’s reflection: Listening is a major difficulty for me, and I need to prac
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 ![IMG_2118.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-18-1758208851174-IMG_2118.jpeg)![IMG_2117.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-18-1758208874542-IMG_2117.jpeg)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+![IMG_2126.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-19-1758295971835-IMG_2126.jpeg)![IMG_2127.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-19-1758295995137-IMG_2127.jpeg)
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
