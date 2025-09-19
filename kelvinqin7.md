@@ -14,6 +14,26 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+## **Finished：**
+
+Words recite 30 minutes (screenshot)
+
+![76f4a92b5b89bc7b5f2fa3563a2a7ab9.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-19-1758297361003-76f4a92b5b89bc7b5f2fa3563a2a7ab9.jpg)
+<!-- DAILY_CHECKIN_2025-09-19_END -->
+<!-- Content_END -->
+## **Finished：**
+
+Words recite 30 minutes (screenshot)
+
+![76f4a92b5b89bc7b5f2fa3563a2a7ab9.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-19-1758297361003-76f4a92b5b89bc7b5f2fa3563a2a7ab9.jpg)
+<!-- DAILY_CHECKIN_2025-09-19_END -->
+
 # 2025-09-16
 <!-- DAILY_CHECKIN_2025-09-16_START -->
 
