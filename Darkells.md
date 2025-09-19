@@ -45,4 +45,14 @@ It is no longer true today. The technology has matured, and the vision of genera
     
 -   **Reading:** Studied IPFS and Arweave documentation for a hackathon project. Learned key terms like “content addressing” (IPFS) and “permaweb” (Arweave) for decentralized storage integration.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+I was just looking at Naval's Twitter today and realized I had missed a great tweet.
+
+![G0jSLRsaQAAPVop.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Darkells/images/2025-09-19-1758290503594-G0jSLRsaQAAPVop.jpg)
+
+I plan to read some books I've missed before bed.
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
