@@ -38,4 +38,10 @@ Learning English well is an urgent need.
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 Third Person Subject-Verb Agreement Principle Grammar Review
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+check in today
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
