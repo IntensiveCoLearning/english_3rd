@@ -38,4 +38,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 今天逛了reddit geography forum
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+My younger brother has always been a little different from me. He's shorter and seems to do everything at a much slower pace. While some people might see this as a negative trait, I actually find it admirable. He takes his time and doesn't rush, which often leads to him doing a better job than I do.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
