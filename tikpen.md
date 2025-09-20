@@ -42,4 +42,10 @@ Today's topic is about The web3 knowledge you most want to know . You can share 
 
 But I think these concepts are a bit too many. I made a suggestion that the subsequent topics could be reduced a bit because I believe each concept requires a certain amount of time to understand.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Today I'm listening to Daily English Dictation Practice Listening on bilibili. I listened to three classes, but it was hard to understand. However, I believe that if I keep going, I will surely gain something.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
