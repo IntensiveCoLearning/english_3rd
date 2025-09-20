@@ -36,4 +36,12 @@ B站英语听力40分钟
 <!-- DAILY_CHECKIN_2025-09-17_START -->
 百词斩单词150个
 <!-- DAILY_CHECKIN_2025-09-17_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+背单词120个
+
+B站英语听力30min
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
