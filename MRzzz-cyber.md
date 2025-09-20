@@ -76,4 +76,19 @@ Jerry, what time do u have?
 
 I have 5 o’clock
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+今天看了纯英版电锯惊魂，大部分语句还是不懂  
+  
+  
+今天听第三部分  
+There is 3 things i never to discuss to people: regions,policts,and great pumpkin  
+  
+  
+正确拼写  
+There are 3 things i have learned never to discuss with people; religion, politics and the great pumpkin  
+[https://www.bilibili.com/video/BV1U7411a7xG?spm\_id\_from=333.788.player.switch&vd\_source=d4d4ea7a32ae0f497b39941d8a87f1c6&p=4](https://www.bilibili.com/video/BV1U7411a7xG?spm_id_from=333.788.player.switch&vd_source=d4d4ea7a32ae0f497b39941d8a87f1c6&p=4)
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
