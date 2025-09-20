@@ -36,4 +36,10 @@ Twenty minutes of oral practice.
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 Twenty minutes of oral practice.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Twenty Minutes of Oral Practice.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
