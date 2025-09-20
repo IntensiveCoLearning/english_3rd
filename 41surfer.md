@@ -60,4 +60,26 @@ content about ：Timeline of the dispute over the issuance rights of USDH stable
 
 new words ： stablecoins/**redistributed/Digital Asset Treasuries/Net asset value/**liquidity engine/retail investors
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+The topic is about Starbucks get into the RAW:
+
+  
+
+Compare with before
+
+1、Traditional integration model
+
+2、Many of the stars in my previous account have disappeared. Starbucks has control over our accounts.
+
+But now The points will be stored as an NFT in our account.
+
+3、By automating the process through smart contracts, the costs of trust and settlement are significantly reduced.
+
+A small economic ecosystem has been created.
+
+From a coffee shop to the issuer of a small economic ecosystem
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
