@@ -39,4 +39,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 今天在墨墨那边背了100个单词
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+**翻译：Aptos x LayerZero Integration Guide Pt 2: OFT & OFT Adapter**
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
