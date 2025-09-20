@@ -140,6 +140,147 @@ At the same time, connect with regulatory sandboxes (such as the Web3 policies o
 
 同时对接监管沙盒（如香港、迪拜的 Web3 政策），解决 “合规性” 与 “创新性” 的平衡问题。
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+### **DeFi 简介 / Introduction to DeFi**
+
+**DeFi (Decentralized Finance)**  
+**去中心化金融**  
+A financial system built on public blockchains (primarily Ethereum) that is open, permissionless, and transparent. It aims to recreate traditional financial systems (lending, borrowing, trading) without intermediaries like banks or brokers.  
+建立在公有区块链（主要是以太坊）上的金融系统，它是开放、无需许可和透明的。其旨在没有银行或经纪商等中介的情况下，重建传统金融系统（借贷、交易）。
+
+**Traditional Finance (TradFi)**  
+**传统金融**  
+The conventional financial system involving banks, brokerages, and other centralized institutions that act as intermediaries.  
+涉及银行、经纪公司和其他充当中介的中央集权机构的传统金融系统。
+
+**Centralized Finance (CeFi)**  
+**中心化金融**  
+Companies like Coinbase or Binance that offer crypto-related services but are controlled by a central entity. Users do not hold their private keys.  
+像 Coinbase 或 Binance 这样的公司，提供加密相关服务，但由中央实体控制。用户不持有其私钥。
+
+**Key Characteristics of DeFi:**  
+**DeFi 的关键特性：**
+
+-   **Permissionless** / **无需许可**: Anyone with an internet connection and a crypto wallet can access DeFi services without needing approval.  
+    任何有互联网连接和加密钱包的人都可以无需批准即可访问 DeFi 服务。
+    
+-   **Trustless** / **无需信任**: The system operates on smart contracts and code, reducing the need to trust a central party. You only need to trust the code is secure.  
+    系统在智能合约和代码上运行，减少了对中央方的信任需求。你只需要相信代码是安全的。
+    
+-   **Transparent** / **透明**: All transactions and code are visible on the blockchain for anyone to audit.  
+    所有交易和代码都在区块链上可见，可供任何人审计。
+    
+-   **Programmable** / **可编程**: Financial products and services are built with flexible smart contracts, enabling high innovation.  
+    金融产品和服务由灵活的智能合约构建，实现了高度创新。
+    
+
+* * *
+
+### **核心概念与组件 / Core Concepts & Components**
+
+**Blockchain** / **区块链**  
+A decentralized, distributed digital ledger that records transactions across a network of computers.  
+一个去中心化的分布式数字账本，记录计算机网络中的交易。
+
+**Ethereum (ETH)** / **以太坊**  
+The leading blockchain platform for DeFi applications, known for its smart contract functionality.  
+DeFi 应用程序的主要区块链平台，以其智能合约功能而闻名。
+
+**Smart Contract** / **智能合约**  
+Self-executing contracts with the terms of the agreement directly written into code. They automatically execute when predetermined conditions are met.  
+将协议条款直接写入代码的自执行合约。当满足预定条件时，它们会自动执行。
+
+**Cryptocurrency Wallet** / **加密货币钱包**  
+A digital wallet (e.g., MetaMask, Trust Wallet) that stores your private keys and allows you to interact with blockchain applications.  
+存储你的私钥并允许你与区块链应用程序交互的数字钱包（例如，MetaMask, Trust Wallet）。
+
+**Private Key** / **私钥**  
+A secret string of letters and numbers that proves ownership of your crypto assets. It must be kept secure and private.  
+一串秘密的字母和数字，证明你拥有加密资产。它必须被安全私密地保存。
+
+**Public Key / Address** / **公钥 / 地址**  
+A publicly shareable identifier derived from your private key, used to receive funds.  
+从你的私钥衍生出的可公开共享的标识符，用于接收资金。
+
+**Gas Fee** / **Gas 费**  
+The transaction fee paid to miners/validators on a blockchain network (like Ethereum) to process and validate transactions.  
+支付给区块链网络（如以太坊）上的矿工/验证者以处理和验证交易的费用。
+
+* * *
+
+### **DeFi 的核心领域 / Core Areas of DeFi**
+
+**Decentralized Exchanges (DEXs)** / **去中心化交易所**  
+Platforms that allow users to trade cryptocurrencies directly with each other without a central intermediary. Examples: Uniswap, SushiSwap.  
+允许用户在没有中央中介的情况下直接相互交易加密货币的平台。例如：Uniswap, SushiSwap。
+
+-   **Automated Market Maker (AMM)** / **自动化做市商**: A protocol that uses mathematical formulas and liquidity pools to price assets and facilitate trades, replacing traditional order books.  
+    一种使用数学公式和流动性池来为资产定价和促进交易的协议，取代了传统的订单簿。
+    
+-   **Liquidity Pool (LP)** / **流动性池**: A crowdsourced pool of cryptocurrencies locked in a smart contract that provides liquidity for trading on DEXs.  
+    一个众包的加密货币池，锁定在智能合约中，为 DEX 上的交易提供流动性。
+    
+-   **Liquidity Provider (LP)** / **流动性提供者**: A user who deposits their crypto assets into a liquidity pool to earn fees from trades that happen in that pool.  
+    将其加密资产存入流动性池以从该池中发生的交易赚取费用的用户。
+    
+-   **Impermanent Loss** / **无常损失**: A temporary loss of funds experienced by liquidity providers due to volatility in the prices of assets in a pool. It occurs when the price of your deposited assets changes compared to when you deposited them.  
+    流动性提供者因池中资产价格波动而经历的资金暂时损失。当你存入资产的价格与你存入时相比发生变化，就会发生这种情况。
+    
+
+**Lending & Borrowing Protocols** / **借贷协议**  
+Platforms that allow users to lend their crypto to earn interest or borrow against their crypto collateral. Examples: Aave, Compound.  
+允许用户借出他们的加密货币以赚取利息，或以其加密货币作为抵押进行借贷的平台。例如：Aave, Compound。
+
+-   **Over-Collateralization** / **超额抵押**: To borrow assets, users must deposit collateral worth more than the loan amount to mitigate the risk of price volatility.  
+    为了借入资产，用户必须存入价值高于贷款金额的抵押品，以减轻价格波动的风险。
+    
+-   **Interest Rates (Supply APY, Borrow APR)** / **利率 (存款年收益, 借款年利率)**: The yield earned by lenders (APY) and the cost paid by borrowers (APR), typically determined algorithmically by supply and demand.  
+    贷方赚取的收益 (APY) 和借方支付的成本 (APR)，通常由供需通过算法确定。
+    
+
+**Stablecoins** / **稳定币**  
+Cryptocurrencies designed to maintain a stable value, typically pegged to a fiat currency like the US Dollar. Types: **algorithmic** vs. **collateralized** (e.g., USDC, DAI).  
+旨在保持稳定价值的加密货币，通常与美元等法定货币挂钩。类型：**算法稳定币** vs. **抵押稳定币**（例如，USDC, DAI）。
+
+**Yield Farming (Liquidity Mining)** / **收益耕种（流动性挖矿）**  
+The practice of locking up or staking crypto assets in DeFi protocols to earn high returns or rewards, often in the form of additional tokens.  
+将加密资产锁定或质押在 DeFi 协议中以赚取高回报或奖励的做法，通常以获得额外代币的形式进行。
+
+**Staking** / **质押**  
+The process of locking up crypto holdings to help secure a proof-of-stake (PoS) blockchain network and earning rewards for doing so.  
+锁定加密资产以帮助保护权益证明 (PoS) 区块链网络并从中获得奖励的过程。
+
+**Governance Tokens** / **治理代币**  
+Tokens that give holders the right to vote on proposals for the future development and changes of a DeFi protocol (e.g., UNI for Uniswap, AAVE for Aave).  
+赋予持有者对 DeFi 协议未来发展和变更的提案进行投票权的代币（例如，Uniswap 的 UNI，Aave 的 AAVE）。
+
+* * *
+
+### **风险与挑战 / Risks & Challenges**
+
+**Smart Contract Risk** / **智能合约风险**  
+The risk that a bug or vulnerability in a smart contract's code could be exploited by hackers, leading to loss of funds.  
+智能合约代码中的错误或漏洞可能被黑客利用，导致资金损失的风险。
+
+**Regulatory Risk** / **监管风险**  
+The uncertainty surrounding how governments will regulate DeFi activities in the future.  
+政府未来将如何监管 DeFi 活动的不确定性。
+
+**Scams and Rug Pulls** / **骗局和拉地毯**  
+Malicious developers create a project, attract investment, and then suddenly withdraw all the funds and disappear.  
+恶意开发者创建一个项目，吸引投资，然后突然撤走所有资金并消失。
+
+**Market Risk / Volatility** / **市场风险 / 波动性**  
+The value of crypto assets can be extremely volatile, leading to potential significant losses.  
+加密资产的价值可能极度波动，导致潜在的巨大损失。
+
+**User Error** / **用户错误**  
+Transactions on the blockchain are irreversible. Sending funds to the wrong address or making a mistake can result in permanent loss.  
+区块链上的交易是不可逆的。将资金发送到错误的地址或犯错误可能导致永久性损失。
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
 ## A complete hackathon team usually requires at least:
 
