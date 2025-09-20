@@ -237,7 +237,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Nancy0209](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Nancy0209.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [Ssssy-Sara](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Ssssy-Sara.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [zhouCode](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhouCode.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | |
-| [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
+| [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | |
 | [LarixNi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LarixNi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [Wind558](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wind558.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [liuyuhuai3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/liuyuhuai3.md) | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
