@@ -14,6 +14,25 @@ Everything I want wants me more.
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Today, I completed a casual chat with Gemini. We talked about what makes a game great. In my opinion, it all comes down to the player. If a game can truly resonate with them, it's an excellent piece of work. If it doesn't quite get there, it's still a decent game.
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Today, I completed a casual chat with Gemini. We talked about what makes a game great. In my opinion, it all comes down to the player. If a game can truly resonate with them, it's an excellent piece of work. If it doesn't quite get there, it's still a decent game.
+
+## **Daily sentence**
+
+**If the tide goes out, it's only to return with the new day.**
+<!-- DAILY_CHECKIN_2025-09-20_END -->
+<!-- Content_END -->
+## **Daily sentence**
+
+**If the tide goes out, it's only to return with the new day.**
+<!-- DAILY_CHECKIN_2025-09-20_END -->
+
 # 2025-09-15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 I will try to record my daily study records in English
