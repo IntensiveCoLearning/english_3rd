@@ -146,4 +146,79 @@ Smoking can cost you your life.
 
 German Roff who calls he is the man has the most piercings he has got 453.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+new words :
+
+archway bonsai tree ,it's in the Hexagon-shaped plant pot .  
+A hexagon is a six-sides shape.  
+moss in the plant pot .  
+pinecone which protects the seeds inside.  
+twig which is a a small sticks.  
+I can snap the twig.
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758359617109-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758359785674-image.png)
+
+paddle board  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758360072908-image.png)
+
+nostaldia-means a warm ,happy feeling you get when you remember good times from the past.
+
+**rhubarb stalk plural**  
+I am **hulling** the strawberry.  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758360506410-image.png)
+
+raspberry  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758360557694-image.png)
+
+taking off the lid  
+**slice** the strawberries.  
+taking a dollop of Greek yogurt .  
+I **fancy** something= I want something  
+the raspberry is plum (fat and juicy)  
+tangy /sour nearly the same ,but **tangy** is positive ,sour is negative.  
+I am walking down the **decline** (little hill )  
+alpaca  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758361769920-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758361469555-image.png)
+
+Chalkboard  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758361777115-image.png)
+
+filling up the watering can  
+bamboo canes
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758362092330-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758362111809-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758362151916-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758362221918-image.png)
+
+vertical pasts /wooden beams  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363215041-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363271960-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363301724-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363340366-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363428962-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363521909-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758363670895-image.png)
+
+**butts crisps wheelbarrow brolly trowel compost**  
+**drizzle :light rain**  
+It's drizzling or it's spitting.  
+dirty laundry fabric conditioner  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-20-1758364458697-image.png)
+
+**vacuum hoover plug**  
+I am going to plug it into the socket  
+photo frame :the photos inside the photo frame  
+**coaste**r :mug off tea/coffee goes on the coaster  
+**kindling**: small logs that you use to start a fire  
+**fireplace/wood stove/charcoal**  
+**mantle piece**  
+**I am sparking the lighte /blowing out /light the wick**
+
+**Dictation 9**  
+**completely bald**  
+German Rolf Buchholz is the man with the most piercings ,he's got 453.  
+A satellite is carrying disbase a sort of discoveries 20 years ago ,It's about far but nobody knows where it belive again
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
