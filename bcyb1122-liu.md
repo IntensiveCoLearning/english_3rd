@@ -50,4 +50,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 ![IMG_0413.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-19-1758297043254-IMG_0413.jpeg)
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+![IMG_0414.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-20-1758382404737-IMG_0414.jpeg)
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
