@@ -56,4 +56,12 @@ timezone: UTC+8
 
 2.Describe your day in English like you're writing a diary, then let ChatGPT help rewrite it.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+1.Listen to a Crypto Altruists blog post.
+
+2.Read _Crypto Altruists Starter Pack – Ethereum Public Goods Infrastructure_, summarize the content based on your own understanding, and then submit your summary to ChatGPT to check whether it aligns with the main ideas of the article.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
