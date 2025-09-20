@@ -24,4 +24,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 ![73f2f618d3194e028a6442a8129f4e15.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/big-dudu-mosty/images/2025-09-18-1758210197398-73f2f618d3194e028a6442a8129f4e15.jpg)
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+![b5a2be1c7b1039d7a31c8c9bd4b612a6.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/big-dudu-mosty/images/2025-09-20-1758383807320-b5a2be1c7b1039d7a31c8c9bd4b612a6.jpg)
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
