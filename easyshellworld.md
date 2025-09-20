@@ -44,4 +44,10 @@ In this version, that formal opening is taken as a **bearish signal** — market
 Now imagine Powell smiles and says, **“Hello everyone.”**  
 Here the friendlier opening is treated as a **bullish / reassuring signal** — the tone feels more accessible and calming, which can soothe short-term market nerves and help lift sentiment. Investors may take a conversational, upbeat start as a hint that the remarks will be less technical and more focused on stability or support, which can translate into positive immediate market moves.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Today was another day without studying English. Later, I had a short talk with a foreigner because of some trivial matter. It turned out that he didn’t understand English very well either. My English is poor, so in the end I had no choice but to use a translator to communicate with him. The problem was that the text also included some French, and I couldn’t understand a single word of it. I had to double-check many parts again and again, afraid of any misunderstanding. In the end, it felt like another day of ineffective communication. Have a good dream.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
