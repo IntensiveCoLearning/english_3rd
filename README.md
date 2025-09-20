@@ -158,7 +158,7 @@ Telegram：https://t.me/LXDAO/6912
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [B1u-e](https://github.com/IntensiveCoLearning/english_3rd/blob/main/B1u-e.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
-| [brucexu-eth](https://github.com/IntensiveCoLearning/english_3rd/blob/main/brucexu-eth.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | |
+| [brucexu-eth](https://github.com/IntensiveCoLearning/english_3rd/blob/main/brucexu-eth.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | |
 | [slucifersz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/slucifersz.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [tikpen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/tikpen.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | |
 | [kelvinqin7](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kelvinqin7.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | |
@@ -168,7 +168,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Soldier-Hacker](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Soldier-Hacker.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [MRzzz-cyber](https://github.com/IntensiveCoLearning/english_3rd/blob/main/MRzzz-cyber.md) | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | |
 | [SuBCweb3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/SuBCweb3.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
-| [lokeey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lokeey.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
+| [lokeey](https://github.com/IntensiveCoLearning/english_3rd/blob/main/lokeey.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | |
 | [quentinawu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/quentinawu.md) | ⭕️ | ✅ | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
 | [abel-king](https://github.com/IntensiveCoLearning/english_3rd/blob/main/abel-king.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | |
 | [Tunnelai](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Tunnelai.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
@@ -278,6 +278,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
