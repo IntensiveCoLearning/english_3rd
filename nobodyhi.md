@@ -999,4 +999,41 @@ tip dip、tea deep、test desk、tap dab、bat bad、bet bed
 
 / d/是浊辅音，声带振动。主要的音位变体：无声除阻、闪音、鼻音除阻、边音除阻。在美音中，/d /和/t/一样会有**闪音**的读法: metal≈medal
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+-   New York swept the Tampa Bay Rays by identical 4-2scores in a day-night doubleheader Wendesday.
+    
+
+在星期三，纽约队通过连续两次4-2分赢得了与坦帕湾球队的连赛。
+
+Tampa Bay坦帕湾
+
+double header两场连赛
+
+identical相同的
+
+-   1936,Jim Henson,creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi. 1
+    
+
+936年，青蛙克米特和芝麻街中提线木偶的创始人Jim Henson在格林威尔密西西比州出生。 背景音乐是卡朋特乐队的
+
+The rainbow connection(Someday will find it ,the rainbow connection,the lovers,the dreamers and me.)
+
+muppet 提线木偶
+
+Kermit the frog青蛙克米特(很流行的角色)
+
+Sesame Street芝麻街（美国儿童节目）
+
+Greenville格林威尔 Mississippi密西西比州
+
+-   Asian tiger mosquitoes are natived to the tropics of the southeast Asia but in the past few years they've spread all across the southeastern United States.
+    
+
+亚洲虎纹曾在热带东南亚特有，但是在过去的几年里，它们也在美洲的整个东南部分布。
+
+mosquito/skeeter蚊子 native to…特有/原产于 tropics热带
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
