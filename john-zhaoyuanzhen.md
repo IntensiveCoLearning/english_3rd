@@ -66,4 +66,10 @@ Well I haven't actually done anything with English today...probably will watch s
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 Haven't done anything with English today...received the OneKey wallet and recorded an unboxing video in the morning.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Sadly I was so busy today...utterly exhausting :( will do better tmr
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
