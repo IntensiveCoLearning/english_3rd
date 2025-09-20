@@ -58,4 +58,14 @@ today's topic is about The web3 knowledge you most want to know . You can share 
 
 This is the spoken English test today.
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+have a meeting with my group friends and we chat in our group everyday in English, this days I learn about many sentence from their expression.
+
+Especially the English mind.
+
+also I listen to a English vedio.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
