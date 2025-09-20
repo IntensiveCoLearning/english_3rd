@@ -42,4 +42,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 今日新背单词35个，复习单词113个；跟读《走遍美国》第三篇；
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+背诵单词35个，复习单词57个
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
