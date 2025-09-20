@@ -202,4 +202,18 @@ luna：
         
     -   [Prompt eps](https://t.me/buxiangshuo123/519)：提炼内容核心 (Edit, Polish, Shorten)。
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+### 扩展资料
+
+-   [第一期](https://github.com/IntensiveCoLearning/english)，[第二期](https://github.com/IntensiveCoLearning/english_2nd?tab=readme-ov-file)：往期残酷共学资料与笔记参考。
+    
+-   [用油管足不出户自学流利英文](https://www.notion.so/26c9c1f0e581800184dbe1fe851b1d82?v=26c9c1f0e58181d68328000c36fb04b0)：用油管足不出户自学流利英文·频道通关推荐。
+    
+-   [Test Your English](https://www.cambridgeenglish.org/hk/test-your-english/)：剑桥大学免费在线英语水平测试。
+    
+-   [Free4Talk](https://www.free4talk.com/)：免费的在线语言交流平台。
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
