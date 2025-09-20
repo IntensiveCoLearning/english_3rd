@@ -96,4 +96,12 @@ curse 咒骂
 
 partner 伴侣
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+raw 生的
+
+auto 机动车
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
