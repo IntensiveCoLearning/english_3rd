@@ -64,4 +64,18 @@ complimentary
   
 mix-up
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.19
+<!-- DAILY_CHECKIN_2025-09-19_START -->
+day 4 English pod :The Office - I need an assistant!  
+  
+resources  
+  
+understaffed  
+  
+give me hand  
+  
+reasonable
+<!-- DAILY_CHECKIN_2025-09-19_END -->
 <!-- Content_END -->
