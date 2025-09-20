@@ -280,4 +280,10 @@ Every Sunday night: export Anki stats, writing corrections, and speaking sheet i
 
 Stick to the system; trust compound interest.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+no test
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
