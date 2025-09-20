@@ -14,7 +14,6 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
-
 # 2025.09.15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 **Thoughts**：
@@ -51,4 +50,14 @@ Words recite 30 minutes (screenshot)
 
 ![76f4a92b5b89bc7b5f2fa3563a2a7ab9.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-19-1758297361003-76f4a92b5b89bc7b5f2fa3563a2a7ab9.jpg)
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+**Finished**：
+
+Words recite 1 hours (screenshot)
+
+![aa0b21b10eeace513463a1e6a0772a4a.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-20-1758383681269-aa0b21b10eeace513463a1e6a0772a4a.jpg)
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
