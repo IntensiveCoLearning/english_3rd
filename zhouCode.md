@@ -93,6 +93,16 @@ dodge
 
 To _dodge_ something is to avoid it. In _dodge_ ball, players _dodge_ the balls being thrown at them.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+DD113
+
+今日听力比较简单
+
+Post-It Super Sticky Notes hold on stronger and longer, but of course, remove cleanly.
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
 ## 写：
 
