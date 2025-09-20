@@ -34,4 +34,12 @@ timezone: UTC+8
 
 依動作狀態分為 : 簡單式、進行式、完成式、進行完成式
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+![螢幕擷取畫面 2025-09-20 235659.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/ARZER-TW/images/2025-09-20-1758383843760-_______2025-09-20_235659.png)
+
+完成部分CH2時態練習題，到31頁
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
