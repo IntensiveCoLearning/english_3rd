@@ -56,4 +56,12 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 ![IMG_0414.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-20-1758382404737-IMG_0414.jpeg)
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+今天得赶路先打个卡
+
+![image.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-20-1758393746183-image.jpeg)
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
