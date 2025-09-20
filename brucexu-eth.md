@@ -58,4 +58,10 @@ I started filtering out some familiar words from the NGSL. And finished 10 IPA
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 Today I filtered out ~150 NGSL words. Keep working on it.
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+Practiced 10 phonetics and ANKI review
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
