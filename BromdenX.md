@@ -50,4 +50,10 @@ It means the litearal defintion of the word,The phone is creating a searchable d
 <!-- DAILY_CHECKIN_2025-09-18_START -->
 learning english from reddit too
 <!-- DAILY_CHECKIN_2025-09-18_END -->
+
+
+# 2025.09.20
+<!-- DAILY_CHECKIN_2025-09-20_START -->
+learning english for youtube，and keep reading from reddit
+<!-- DAILY_CHECKIN_2025-09-20_END -->
 <!-- Content_END -->
