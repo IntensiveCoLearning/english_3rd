@@ -82,4 +82,50 @@ A small economic ecosystem has been created.
 
 From a coffee shop to the issuer of a small economic ecosystem
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+# **new words：**
+
+**Remote monitoring**
+
+**Equity**
+
+**Assets that fail to realize their due value and generate expected returns.**
+
+**Virtual assets**
+
+**Liquidation**
+
+**Tracing back**
+
+**Joint venture**
+
+**Compliance**
+
+**Reach an agreement**
+
+**Financing channels**
+
+**State-owned enterprise**
+
+**Gimmick**
+
+**Macao Exchange**
+
+**"Value**
+
+**Large assets**
+
+**Finance**
+
+**Project**
+
+**Handling fee**
+
+**Publicity**
+
+**It's a bit like preaching.**
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
