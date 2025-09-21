@@ -36,4 +36,12 @@ Today I attended the Casual Conversation with Tim which is one of conversation c
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 Today I joined the Jame's conversation class in the English Hub Discord channel. I learned about the possible replies of the others asking "how are you?". Besides, I knew that the importance of active listening when people have a conversation.
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Attended the weekly meeting to share my experience of practicing English last week.
+
+Joined the Special Event Mock Construction Project Proposal "Acing The Interview: Skills to Land the Job You Want".
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
