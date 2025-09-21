@@ -281,6 +281,25 @@ The value of crypto assets can be extremely volatile, leading to potential signi
 Transactions on the blockchain are irreversible. Sending funds to the wrong address or making a mistake can result in permanent loss.  
 区块链上的交易是不可逆的。将资金发送到错误的地址或犯错误可能导致永久性损失。
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+1.  BNB 总市值突破 1,498 亿美元，首次超越埃森哲（Accenture），跻身全球主流资产市值排行榜第 143 位。
+    
+2.  市场分析师把今天称为“比特币底部日（Bitcoin Bottom Day）”。历史数据显示，9 月 21 日后比特币有 70% 的概率在当年收高，中位数涨幅逾 50%；今年上涨概率更被看高至约 90%。
+    
+3.  比特币现报约 115,700 美元，24 小时微涨 0.05%，市值 2.30 万亿美元，静待方向性突破。
+    
+
+English:
+
+1.  BNB’s market cap hit $149.88 billion, surpassing Accenture’s $149.29 billion and ranking 143rd among the world’s largest mainstream assets.
+    
+2.  Analysts call Sept. 21 “Bitcoin Bottom Day”: BTC has historically ended the year higher 70% of the time after this date, with a median gain above 50%; this year’s up-side probability is estimated at ~90%.
+    
+3.  Bitcoin trades near $115,700, up 0.05% on the day, with a market cap of $2.30 trillion as traders await an imminent breakout.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
 ## A complete hackathon team usually requires at least:
 
