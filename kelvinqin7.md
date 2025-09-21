@@ -60,4 +60,14 @@ Words recite 1 hours (screenshot)
 
 ![aa0b21b10eeace513463a1e6a0772a4a.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-20-1758383681269-aa0b21b10eeace513463a1e6a0772a4a.jpg)
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+**Finished**：
+
+Words recite 30 minutes (screenshot)
+
+![fd01e3e3407cb6c589280580c7b72c6f.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-21-1758469864248-fd01e3e3407cb6c589280580c7b72c6f.jpg)
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
