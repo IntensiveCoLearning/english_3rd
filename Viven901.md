@@ -60,4 +60,18 @@ Today’s reflection: Listening is a major difficulty for me, and I need to prac
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 ![IMG_2129.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-20-1758374419298-IMG_2129.jpeg)![IMG_2130.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Viven901/images/2025-09-20-1758374444472-IMG_2130.jpeg)
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+During today's weekly meeting, I was driving, having just left my previous company, on my way home.
+
+My emotions were quite complex. Even though it's been over a year since I left that company, every time I hear some news from there, my heart still feels stirred.
+
+I dislike this part of myself. Since I’ve already moved on, the people and matters there should have nothing to do with me anymore. Why do they still affect me deep down?
+
+Perhaps it’s because I invested so much there—it’s like the story of the Little Prince and his rose...
+
+But now, I’ve found new goals for myself. It’s time to move forward, with absolute determination. I will only get better from here on out!
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
