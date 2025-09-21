@@ -64,4 +64,10 @@ Today I filtered out ~150 NGSL words. Keep working on it.
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 Practiced 10 phonetics and ANKI review
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Test my English for benchmarking on [https://www.cambridgeenglish.org/test-your-english/general-english/](https://www.cambridgeenglish.org/test-your-english/general-english/)
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
