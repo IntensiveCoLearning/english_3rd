@@ -44,4 +44,10 @@ Third Person Subject-Verb Agreement Principle Grammar Review
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 check in today
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Scene practice, preposition practice
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
