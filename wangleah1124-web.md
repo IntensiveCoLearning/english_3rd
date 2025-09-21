@@ -221,4 +221,21 @@ photo frame :the photos inside the photo frame
 German Rolf Buchholz is the man with the most piercings ,he's got 453.  
 A satellite is carrying disbase a sort of discoveries 20 years ago ,It's about far but nobody knows where it belive again
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+New words :
+
+**pitterpatter**:Rain pitterpattes against the plastic sheet .  
+Her **canvas** rests on an **easel** .  
+Shadows of leaves **flicker on the wall .**  
+The bridge stretches **into the distance**.  
+**sponge/scour ,sauce pan ,drying rack.**  
+**compost them in the garden.**  
+**pantry**
+
+10:  
+It's a lofty . probably impossible goal
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
