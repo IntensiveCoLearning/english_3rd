@@ -216,4 +216,20 @@ luna：
     
 -   [Free4Talk](https://www.free4talk.com/)：免费的在线语言交流平台。
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+在线口语
+
+[https://entts.com/](https://entts.com/)
+
+走进美国
+
+[https://www.bilibili.com/video/bv14t421m7jt/?spm\_id\_from=333.337.search-card.all.click&vd\_source=5e7331f28afe4ab47831db6b1fe009e8](https://www.bilibili.com/video/bv14t421m7jt/?spm_id_from=333.337.search-card.all.click&vd_source=5e7331f28afe4ab47831db6b1fe009e8)
+
+Easy English
+
+[https://www.bilibili.com/video/bv1qbruykecj?spm\_id\_from=333.788.videopod.sections&vd\_source=5e7331f28afe4ab47831db6b1fe009e8](https://www.bilibili.com/video/bv1qbruykecj?spm_id_from=333.788.videopod.sections&vd_source=5e7331f28afe4ab47831db6b1fe009e8)
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
