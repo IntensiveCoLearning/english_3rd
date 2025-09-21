@@ -48,4 +48,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 背诵单词35个，复习单词57个
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+今日新背单词35个，复习单词42个；复习《走遍美国》前三期
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
