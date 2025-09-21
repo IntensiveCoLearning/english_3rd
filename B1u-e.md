@@ -373,4 +373,10 @@ Dictation check in：
 Success in life  
 Success means different things for different people. Some may equate it with fame, some with wealth and still some with accomplishments. For me, it means fulfilling one’s dreams. Whatever your dreams are, you have a goal there and then focus all your attention on it. Dreams bring you hope and happiness. In the process of struggling for it, you cry, sweat, complain or even curse, but the joy of harvesting makes you forget all the pains and troubles you have gone through. So an old proverb says that the sweetest fruit is one that has undergone the bitterest ordeal. There are several keys to success. First, your goal must be practical and practicable. If you set your goal too high, chances are that you will never attain it. Next, you have to make a plan of doing it. You can take some steps to realize it. Since the process is quite tough, you need to be diligent, patient and persevering. Even if you meet with some difficulties or frustrations, just take them.
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+The co-learning of the first week has ended, and an executive meeting was held tonight as well. Basically, it's just a summary, regarding the learning this week. First, I'd like to share a video about how to develop an English mindset for guys. I think it's quite useful. And I also made some changes to my study methods. Instead of memorizing more new words, I focus on accumulating knowledge through practice. Now, every day I listen to a podcast and will listen to it two or three times until I can understand its content. Then I will also set some topics for myself, such as orally presenting answers like in an IELTS exam, and I can also correct my pronunciation by recording.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
