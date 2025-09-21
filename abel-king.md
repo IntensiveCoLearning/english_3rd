@@ -94,4 +94,20 @@ cut in line
   
 there's no way
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+day 5 English pod Daily Life - Cut In Line
+
+unbelievable
+
+calm down
+
+be a mile long
+
+cut in line
+
+there’s no way
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
