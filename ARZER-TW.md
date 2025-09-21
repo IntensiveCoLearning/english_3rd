@@ -42,4 +42,10 @@ timezone: UTC+8
 
 完成部分CH2時態練習題，到31頁
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+完成"史上最強7000單字"的前兩個level複習。
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
