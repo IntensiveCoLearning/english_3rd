@@ -56,4 +56,14 @@ learning english from reddit too
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 learning english for youtube，and keep reading from reddit
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+continue reading reddit about ios
+
+how to downgrade back to ios 18 for iphone 15
+
+downgrade is jiangji
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
