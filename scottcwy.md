@@ -126,4 +126,12 @@ AI产品经理，开发者，商科大三在读。
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 十一点进行了半个小时雅思影子跟读练习，包括精听环节
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Vince 雅思课程 两节 70min
+
+影子跟读30min
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
