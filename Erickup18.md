@@ -62,4 +62,14 @@ Web3 新人，英语爱好者
     
 -   复习之前积累的英语单词
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+### 今日完成✅
+
+-   Englishpod听力1篇
+    
+-   英语外刊阅读1篇
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
