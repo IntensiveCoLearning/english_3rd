@@ -68,4 +68,12 @@ Especially the English mind.
 
 also I listen to a English vedio.
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+-   as usual, I listen a podcast in the morning.
+    
+-   Then, I have a meeting with my group freinds, we'll talk about the real world asset in deep. like why the starbucks could realize a token to earn
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
