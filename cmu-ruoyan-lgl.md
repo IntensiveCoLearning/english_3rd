@@ -41,4 +41,11 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 跟读走进美国，看哈佛幸福课
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+影子跟读50minutes  
+学习英语听力2hours
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
