@@ -48,4 +48,12 @@ But I think these concepts are a bit too many. I made a suggestion that the subs
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 Today I'm listening to Daily English Dictation Practice Listening on bilibili. I listened to three classes, but it was hard to understand. However, I believe that if I keep going, I will surely gain something.
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Tonight, we focused on discussing an article about Starbucks using blockchain technology to discover 12 billion RWA tokens.
+
+But unfortunately,I was working overtime.I listened to the members' discussion throughout and didn't participate.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
