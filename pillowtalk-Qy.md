@@ -64,4 +64,10 @@ timezone: UTC+8
 
 2.Read _Crypto Altruists Starter Pack – Ethereum Public Goods Infrastructure_, summarize the content based on your own understanding, and then submit your summary to ChatGPT to check whether it aligns with the main ideas of the article.
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+1.I only listened to the blog today.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
