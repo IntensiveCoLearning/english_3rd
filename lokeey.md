@@ -62,4 +62,10 @@ bus、car、bicycle、train、subway、taxi、plane、walk、station、airport
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 shop、buy、sell、price、money、dollar、cheap、expensive、want、need
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+head、hand、arm、leg、eye、ear、mouth、back、heart、tooth
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
