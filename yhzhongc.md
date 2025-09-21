@@ -75,4 +75,18 @@ Tools: Anki, Forvo
     
 3.  pronunciation practice
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+1.  learn 20 words a day by using anki
+    
+2.  finish two dictation practice
+    
+    1.  Jerry, what time do you have? I have five o'clock.
+        
+    2.  There are 3 things i have learned never to discuss with people: religion, politics and the Great Pumpkin.
+        
+3.  pronunciation practice -- assimilation & dissimilation
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
