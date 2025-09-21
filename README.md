@@ -285,6 +285,7 @@ Telegram：https://t.me/LXDAO/6912
 <!-- END_COMMIT_TABLE -->
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
@@ -294,7 +295,6 @@ Telegram：https://t.me/LXDAO/6912
 - 全勤用户: 
 - 淘汰人数: 0
 - 淘汰率: 0.00%
-- Fork人数: 0
 <!-- STATISTICALDATA_END -->
 
 ## 请假规则
