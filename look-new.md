@@ -36,4 +36,10 @@ Today, I copied and memorized an English composition, but I didn't have a langua
 <!-- DAILY_CHECKIN_2025-09-19_START -->
 I memorized words and examples for forty minutes today
 <!-- DAILY_CHECKIN_2025-09-19_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Today, when playing Tomb Raider, set the game language and dialogue to English. The disadvantage is that the speed of speech is sometimes too fast
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
