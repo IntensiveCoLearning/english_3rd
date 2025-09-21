@@ -72,4 +72,10 @@ Haven't done anything with English today...received the OneKey wallet and record
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 Sadly I was so busy today...utterly exhausting :( will do better tmr
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+I attended the weekly meeting today and pushed myself to do some English speaking, although I'm more like not sure what to say...and attended another meeting about building my own IP on social media, which is a very useful advice and I will try to implement that.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
