@@ -286,4 +286,18 @@ Stick to the system; trust compound interest.
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 no test
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Hello everyone, my name is Shen Qingshan.
+
+I'd like to share the tasks I completed this week.
+
+1\. The military training was successfully completed, and during my free time, I chatted with a friend about English learning techniques, specifically the Shadow Learning Method. This involves listening to English audio recordings and then paraphrasing them to practice one's ability to summarize and comprehend English texts.
+
+2\. I used HelloTalk and had a conversation with a friend from the Philippines about the topic of climate change. He corrected some details about my English usage. This issue is very important, and there is a crucial difference between the two. The process was quite humorous and enjoyable.
+
+3\. Decided with friends to prepare for the IELTS exam over the course of a year, and it went smoothly from start to finish.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
