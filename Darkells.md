@@ -23,6 +23,14 @@ Today, I completed a casual chat with Gemini. We talked about what makes a game 
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 Today, I completed a casual chat with Gemini. We talked about what makes a game great. In my opinion, it all comes down to the player. If a game can truly resonate with them, it's an excellent piece of work. If it doesn't quite get there, it's still a decent game.
 
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+Today I tried another way to chat with Gemini, and so far the experience has been good.
+
+Checking in to rewatch _Shameless._ Carl is god.
+<!-- DAILY_CHECKIN_2025-09-21_END -->
+<!-- Content_END -->
 ## **Daily sentence**
 
 **If the tide goes out, it's only to return with the new day.**
