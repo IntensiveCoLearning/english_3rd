@@ -44,4 +44,12 @@ B站英语听力40分钟
 
 B站英语听力30min
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.21
+<!-- DAILY_CHECKIN_2025-09-21_START -->
+1.50个单词
+
+2.b站英语听力30min
+<!-- DAILY_CHECKIN_2025-09-21_END -->
 <!-- Content_END -->
