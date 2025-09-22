@@ -103,6 +103,22 @@ DD113
 
 Post-It Super Sticky Notes hold on stronger and longer, but of course, remove cleanly.
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+DD114
+
+When it comes to figuring out feet feats of strain strength, it is all in the fingers here!
+
+When it comes to...
+
+当谈到……；就……而言
+
+It's all in the...
+
+关键全在于……；秘诀就是……
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
 ## 写：
 
