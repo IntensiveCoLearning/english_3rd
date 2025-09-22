@@ -379,4 +379,12 @@ Success means different things for different people. Some may equate it with fam
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 The co-learning of the first week has ended, and an executive meeting was held tonight as well. Basically, it's just a summary, regarding the learning this week. First, I'd like to share a video about how to develop an English mindset for guys. I think it's quite useful. And I also made some changes to my study methods. Instead of memorizing more new words, I focus on accumulating knowledge through practice. Now, every day I listen to a podcast and will listen to it two or three times until I can understand its content. Then I will also set some topics for myself, such as orally presenting answers like in an IELTS exam, and I can also correct my pronunciation by recording.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+wow,there are something interesting below.  
+Water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water.  
+Hahahahah,you know what i mean.
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
