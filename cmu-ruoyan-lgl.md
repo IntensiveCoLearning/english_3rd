@@ -48,4 +48,10 @@ timezone: UTC+8
 影子跟读50minutes  
 学习英语听力2hours
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+跟读Easy English
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
