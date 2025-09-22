@@ -20,6 +20,21 @@ I love learning
 
 # 2025.09.21
 <!-- DAILY_CHECKIN_2025-09-21_START -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+今天按照播客的方法对第一遍进行了反复听写  
+  
+Mother terrsa, who recieved nobel piece prize for her work for be havour of poor, she dies in Ca，She was 87-years-old  
+  
+  
+正确的发音  
+Mother terasa, who recieved a nobel piece prize for her work on behalf of poor, dies in calutta,india,she was 87-years old  
+  
+on behalf of = for
+<!-- DAILY_CHECKIN_2025-09-22_END -->
+<!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
   
