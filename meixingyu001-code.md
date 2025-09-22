@@ -67,4 +67,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 雅思听力练习到11.3.调整方法到，听真题（精听）+背单词。每天30~50个单词，配合anki单词。每周末就搞写作和口语素材轮替。
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+周一~周五 听力+单词  
+周六~周日 口语+写作日  
+  
+section 1 自然地理的单词背诵。
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
