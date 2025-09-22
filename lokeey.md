@@ -68,4 +68,10 @@ shop、buy、sell、price、money、dollar、cheap、expensive、want、need
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 head、hand、arm、leg、eye、ear、mouth、back、heart、tooth
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+read、music、movie、game、cook、sport、dance、sing、travel、photo
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
