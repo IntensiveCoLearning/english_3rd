@@ -300,4 +300,10 @@ I'd like to share the tasks I completed this week.
 
 3\. Decided with friends to prepare for the IELTS exam over the course of a year, and it went smoothly from start to finish.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+no one
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
