@@ -66,4 +66,14 @@ how to downgrade back to ios 18 for iphone 15
 
 downgrade is jiangji
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+contiune to learn about IOS upgrades through reddit
+
+my friend updated his 13min to ios26,after almost 3hours,this happened.
+
+help! what can i do?it is sharp [now. it happened on the first day.](http://now.it)
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
