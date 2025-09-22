@@ -42,4 +42,10 @@ I memorized words and examples for forty minutes today
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 Today, when playing Tomb Raider, set the game language and dialogue to English. The disadvantage is that the speed of speech is sometimes too fast
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+Player tomb Raider for two hours and learned some new words and sentences
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
