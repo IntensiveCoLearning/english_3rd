@@ -76,4 +76,12 @@ also I listen to a English vedio.
     
 -   Then, I have a meeting with my group freinds, we'll talk about the real world asset in deep. like why the starbucks could realize a token to earn
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+-   listen to a podcast
+    
+-   have a meeting with my group mates, today's topic is DATs, how it's benefit and is it is a bubble or opptunity
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
