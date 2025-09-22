@@ -30,6 +30,12 @@ Today I tried another way to chat with Gemini, and so far the experience has bee
 
 Checking in to rewatch _Shameless._ Carl is god.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+I found a great YouTube channel, "Young Suck Cooking"! Their newest video shows you how to make incredibly crispy fries using an air fryer.For my recent weight loss diet, potatoes have been my main food.
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
 ## **Daily sentence**
 
