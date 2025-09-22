@@ -44,4 +44,10 @@ Attended the weekly meeting to share my experience of practicing English last we
 
 Joined the Special Event Mock Construction Project Proposal "Acing The Interview: Skills to Land the Job You Want".
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+Joined the Sci-Tech Lounge in the Discord channel.
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
