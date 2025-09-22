@@ -52,4 +52,12 @@ timezone: UTC+8
 
 ![IMG_2897.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-21-1758463523713-IMG_2897.PNG)
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+今天学了
+
+![IMG_2909.PNG](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/nanakodesuu/images/2025-09-22-1758550336141-IMG_2909.PNG)
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
