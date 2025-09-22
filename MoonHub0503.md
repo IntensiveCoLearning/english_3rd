@@ -300,6 +300,106 @@ English:
     
 3.  Bitcoin trades near $115,700, up 0.05% on the day, with a market cap of $2.30 trillion as traders await an imminent breakout.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+### **DAT 核心概念 / Core Concept**
+
+-   **DAT / 数字资产财库**
+    
+    -   **英文全称：** Digital Asset Treasury
+        
+    -   **中文释义：** 一种由上市公司主导的创新金融策略，核心是将数字资产（如比特币、以太坊等）作为核心储备资产纳入资产负债表。
+        
+    -   **Definition:** An innovative financial strategy led by publicly listed companies, the core of which is to incorporate digital assets (such as Bitcoin, Ethereum, etc.) as core reserve assets into the balance sheet.
+        
+
+### **DAT 运作模式 / Operational Models**
+
+-   **被动单一资产持有 / Passive Single-Asset Holding**
+    
+    -   **核心特点：** 长期持有单一资产（如比特币），策略简单，聚焦于价值储存。
+        
+    -   **Key Feature:** Long-term holding of a single asset (e.g., Bitcoin). The strategy is simple and focuses on value storage.
+        
+-   **主动单一资产交易 / Active Single-Asset Trading**
+    
+    -   **核心特点：** 通过主动交易择时，追求更高收益，对管理团队能力要求高。
+        
+    -   **Key Feature:** Pursuing higher returns through active trading and market timing, requiring strong management team capabilities.
+        
+-   **多资产组合管理 / Multi-Asset Portfolio Management**
+    
+    -   **核心特点：** 持有多种数字资产，动态调整组合，分散风险。
+        
+    -   **Key Feature:** Holding a variety of digital assets and dynamically adjusting the portfolio to diversify risks.
+        
+-   **生态投资建设 / Ecosystem Investment and Development**
+    
+    -   **核心特点：** 不仅持有资产，还积极参与相关区块链生态的建设与投资。
+        
+    -   **Key Feature:** Not only holding assets but also actively participating in the construction and investment of related blockchain ecosystems.
+        
+
+### **DAT 与 ETF 的区别 / DAT vs. ETF**
+
+-   **DAT（数字资产财库公司） / DAT (Digital Asset Treasury Company)**
+    
+    -   **本质：** 你投资的是一家**上市公司**的股票。
+        
+    -   **Nature:** You are investing in the stock of a **publicly listed company**.
+        
+    -   **策略：** **主动管理**。公司可以择时交易、通过质押赚取收益。
+        
+    -   **Strategy:** **Active management**. The company can time trades, earn income through staking, etc.
+        
+-   **加密货币现货ETF / Cryptocurrency Spot ETF**
+    
+    -   **本质：** 你持有的是**跟踪资产价格**的基金份额。
+        
+    -   **Nature:** You hold fund shares that **track the asset's price**.
+        
+    -   **策略：** **被动跟踪**。紧密跟随标的资产的价格波动。
+        
+    -   **Strategy:** **Passive tracking**. It closely follows the price fluctuations of the underlying asset.
+        
+
+### **DAT 相关风险 / DAT-Related Risks**
+
+-   **监管压力 / Regulatory Pressure**
+    
+    -   **中文释义：** 全球监管机构正密切关注此类模式。
+        
+    -   **Definition:** Global regulators are closely monitoring such models.
+        
+-   **反身性风险 / Reflexivity Risk**
+    
+    -   **中文释义：** 当市场下跌时，可能形成“下跌-抛售-再下跌”的恶性循环。
+        
+    -   **Definition:** When the market declines, it may form a vicious cycle of "decline - sell-off - further decline".
+        
+-   **底层资产风险 / Underlying Asset Risk**
+    
+    -   **中文释义：** 持有的数字资产本身价格波动性极高。
+        
+    -   **Definition:** The high price volatility of the held digital assets themselves.
+        
+
+### **DAT 未来展望 / Future Outlook of DAT**
+
+-   **生产性财库 / Productive Treasury**
+    
+    -   **中文释义：** 未来DAT可能超越简单的“买入并持有”，通过质押、参与DeFi等方式主动赚取收益。
+        
+    -   **Definition:** In the future, DAT may evolve beyond simple "buy and hold" to actively generate returns through methods like staking and participating in DeFi.
+        
+-   **现实世界资产 / Real World Assets (RWA)**
+    
+    -   **中文释义：** DAT模式可能与现实世界资产代币化相结合。
+        
+    -   **Definition:** The DAT model may integrate with the tokenization of real-world assets.
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
 ## A complete hackathon team usually requires at least:
 
