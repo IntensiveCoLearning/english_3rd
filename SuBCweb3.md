@@ -45,4 +45,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 **翻译：Aptos x LayerZero Integration Guide Pt 2: OFT & OFT Adapter**
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+在墨墨背了250个单词
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
