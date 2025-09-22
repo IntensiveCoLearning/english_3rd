@@ -70,4 +70,14 @@ Practiced 10 phonetics and ANKI review
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 Test my English for benchmarking on [https://www.cambridgeenglish.org/test-your-english/general-english/](https://www.cambridgeenglish.org/test-your-english/general-english/)
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+[https://www.youtube.com/watch?v=DlJ8yUKLk\_k](https://www.youtube.com/watch?v=DlJ8yUKLk_k)
+
+I highly recommend this video. To think in English rather than to translate is the key to getting a good level of English.
+
+other vidoes looks good too, like [https://www.youtube.com/watch?v=KNJzhjaOVdg](https://www.youtube.com/watch?v=KNJzhjaOVdg)
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
