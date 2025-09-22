@@ -238,4 +238,21 @@ The bridge stretches **into the distance**.
 10:  
 It's a lofty . probably impossible goal
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+answer10:  
+it is a lofty ,probably impossible goal.
+
+  
+Dictation11  
+in ours work terb base world by identical for to school in a day night double header Wednesday .
+
+answer:  
+New York swept the Tamp Bay Rays by identical 4-2 scores in a day-night doubleheader Wednesday.
+
+Dictation12  
+1936 Sunny will find it rainbow on the sky and me .Jam Handson created muppets from the of sersimy street frade is a warning sersiby
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
