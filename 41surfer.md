@@ -128,4 +128,22 @@ From a coffee shop to the issuer of a small economic ecosystem
 
 **It's a bit like preaching.**
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+psychology
+
+bullish
+
+trader
+
+come out be published
+
+hedging
+
+we are talking about th edifinition of DAT and disscuss the relationship betweent the dat price and the company stock price
+
+and we are solved a question together that theDATs trading model is the same as individual
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
