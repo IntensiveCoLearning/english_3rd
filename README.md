@@ -251,7 +251,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Jessie-zzz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Jessie-zzz.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [kikyou1009](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kikyou1009.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [mataibai831-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/mataibai831-code.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
-| [leopc999](https://github.com/IntensiveCoLearning/english_3rd/blob/main/leopc999.md) | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | |
+| [leopc999](https://github.com/IntensiveCoLearning/english_3rd/blob/main/leopc999.md) | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | |
 | [EllaArgent](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EllaArgent.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | |
 | [scottcwy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/scottcwy.md) | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | |
 | [JP3000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/JP3000.md) | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
