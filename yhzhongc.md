@@ -89,4 +89,14 @@ Tools: Anki, Forvo
         
 3.  pronunciation practice -- assimilation & dissimilation
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+1.  learn 20 words a day by using anki
+    
+2.  finish two dictation practice
+    
+3.  pronunciation practice
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
