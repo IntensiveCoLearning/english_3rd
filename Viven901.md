@@ -74,4 +74,26 @@ Perhaps it’s because I invested so much there—it’s like the story of the L
 
 But now, I’ve found new goals for myself. It’s time to move forward, with absolute determination. I will only get better from here on out!
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+When I was little, there was a pomegranate tree in our yard. Every year, just before the Mid-Autumn Festival, it would be laden with fruit.
+
+But in my memory, it seems I wasn't very interested in pomegranates from a young age. They were troublesome to peel, you had to spit out the seeds, and sometimes the juice would accidentally stain your clothes, leaving marks that were hard to wash out...
+
+As I grew up, I almost never ate pomegranates again. Work kept getting busier, and I certainly wasn't going to eat such a "troublesome" food.
+
+Yesterday, a friend came to visit. While I was at the supermarket buying ginger, I suddenly saw pomegranates. I remembered that my friend liked them, so I bought three.
+
+This afternoon, feeling a bit bored and craving a snack, I thought of the pomegranates I bought yesterday. They really are a kind of food that "helps pass the time"...
+
+Wow, it was such a pleasant surprise! The skin was thin, the arils were plump and juicy, and the seeds were small and soft...
+
+So today, I spent an hour eating a whole pomegranate...
+
+While peeling and eating it, I felt the passage of time, I reconnected with this food I had "abandoned" for so long, and I felt the beauty of life...
+
+I'm delighted by my current sensitivity to my own emotions and to the subtle details of life. I'm no longer the numb person I used to be. Now I feel vibrant and full of love for life. It feels so good.
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
