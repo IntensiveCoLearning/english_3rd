@@ -56,4 +56,18 @@ Tonight, we focused on discussing an article about Starbucks using blockchain te
 
 But unfortunately,I was working overtime.I listened to the members' discussion throughout and didn't participate.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.22
+<!-- DAILY_CHECKIN_2025-09-22_START -->
+Tonight, we are talk about DAT.
+
+1.What is DAT?
+
+2\. You think this is an opportunity or a bubble?
+
+3.Can a company generate long-term profits through DAT?
+
+We extended the topic to trading😂
+<!-- DAILY_CHECKIN_2025-09-22_END -->
 <!-- Content_END -->
