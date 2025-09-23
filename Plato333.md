@@ -42,4 +42,10 @@ I translated an article today，This is today's earnings.
 <!-- DAILY_CHECKIN_2025-09-20_START -->
 Still translating an English article
 <!-- DAILY_CHECKIN_2025-09-20_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+Today I followed a tutorial video on YouTube
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
