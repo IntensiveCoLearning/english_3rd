@@ -40,7 +40,15 @@ on behalf of = for
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 今天复习第二天学习的  
 Jerry, what time do u have  
-i have 5 o'clock
+i have 5 o’clock  
+  
+  
+复习第三天学习的  
+There are 3 things i have learned to never discuss to people; region,policts,and pumking  
+  
+第三天正确的
+
+There are 3 things i have learned to never to discuss with people, religion, politics, and great pumpkin!
 <!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
