@@ -70,4 +70,10 @@ Tonight, we are talk about DAT.
 
 We extended the topic to trading😂
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+Tonight I'm listening to Daily English Dictation Practice Listening on bilibili.I feel that I can hear more clearly than when I talk about something with my members.
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
