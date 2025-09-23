@@ -80,4 +80,10 @@ I highly recommend this video. To think in English rather than to translate is t
 
 other vidoes looks good too, like [https://www.youtube.com/watch?v=KNJzhjaOVdg](https://www.youtube.com/watch?v=KNJzhjaOVdg)
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+Practice IPA, and correct 3 pronunciations! Especially for l and r. But still cannot distinguish shall and shell. The ash sound.
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
