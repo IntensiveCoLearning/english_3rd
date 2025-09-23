@@ -82,6 +82,8 @@ I attended the weekly meeting today and pushed myself to do some English speakin
 
 # 2025.09.23
 <!-- DAILY_CHECKIN_2025-09-23_START -->
-**Placeholding something in case I forgot to check today ...**
+**Placeholding something in case I forgot to check today …**
+
+I have read an article in English today. [Link](https://medium.com/design-bootcamp/game-theory-is-the-cheat-code-to-life-285c2f00deb2)
 <!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
