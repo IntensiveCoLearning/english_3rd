@@ -50,4 +50,10 @@ My younger brother has always been a little different from me. He's shorter and 
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 review the vocabularies of the whole week
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+学习solidity全英教程
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
