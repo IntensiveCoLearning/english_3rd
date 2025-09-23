@@ -64,4 +64,10 @@ timezone: UTC+8
 
 ![image.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/bcyb1122-liu/images/2025-09-20-1758393746183-image.jpeg)
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+刚到家，背完20个单词先赶紧打个卡
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
