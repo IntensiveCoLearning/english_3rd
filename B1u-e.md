@@ -387,4 +387,10 @@ wow,there are something interesting below.
 Water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water,water.  
 Hahahahah,you know what i mean.
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+Carry on English Listening Practice,and listening a long Podcast about saying fluent English by using simple words in our daily life.
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
