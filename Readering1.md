@@ -232,4 +232,12 @@ Easy English
 
 [https://www.bilibili.com/video/bv1qbruykecj?spm\_id\_from=333.788.videopod.sections&vd\_source=5e7331f28afe4ab47831db6b1fe009e8](https://www.bilibili.com/video/bv1qbruykecj?spm_id_from=333.788.videopod.sections&vd_source=5e7331f28afe4ab47831db6b1fe009e8)
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+这里不看基础，不问起点，更没有门槛，只有一起突破的伙伴。只要你有学习英语的心，有提升听说能力的动力，敢于挑战自我，就欢迎加入。
+
+氛围确实没起来，个人也确实懒惰了，打卡其实也可以同步发送到群里一起讨论，虽说全英文更好，但是部分中文也有必要，去认识，还有要利用好微信本身的翻译功能辅助学习，嗯...我们还是聊的少了
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
