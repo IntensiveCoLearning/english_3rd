@@ -48,4 +48,10 @@ Today, when playing Tomb Raider, set the game language and dialogue to English. 
 <!-- DAILY_CHECKIN_2025-09-22_START -->
 Player tomb Raider for two hours and learned some new words and sentences
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+memorie words for 40 minutes
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
