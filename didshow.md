@@ -84,4 +84,10 @@ also I listen to a English vedio.
     
 -   have a meeting with my group mates, today's topic is DATs, how it's benefit and is it is a bubble or opptunity
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+-   watch a vedio and listen a podcast in xiaoyuzhou
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
