@@ -34,6 +34,14 @@ Mother terasa, who recieved a nobel piece prize for her work on behalf of poor, 
   
 on behalf of = for
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+今天复习第二天学习的  
+Jerry, what time do u have  
+i have 5 o'clock
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
