@@ -56,4 +56,10 @@ Today was another day without studying English. Later, I had a short talk with a
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 Today was another day I didn't study. Instead, I went with someone to the movies and we watched a classic English film, _Forrest Gump_. The story follows Forrest, a kind but simple man from Alabama, as he moves through several decades of American life. Despite his low IQ, Forrest's honesty and loyalty lead him to surprising places—playing college football, serving in Vietnam, starting a successful shrimp business, and meeting many famous people along the way. The film is both funny and touching, and it shows how small, steady actions can change a life. I may not have opened a book today, but watching the movie still felt like a kind of lesson about kindness, persistence, and accepting whatever life brings.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+Today I learned some new words about restaurants in American culture. **Diners** are casual restaurants that serve food all day, often with a focus on "home-style cooking." **Cafeterias** use a self-service model where customers choose their food from a line. **Drive-ins** are part of car culture, allowing people to eat in their vehicles while being served. Finally, **Automats** are restaurants where meals are delivered through machines, offering a unique and automated dining experience.
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
