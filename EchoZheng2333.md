@@ -60,4 +60,10 @@ ETHPanda builder
 <!-- DAILY_CHECKIN_2025-09-22_START -->
 ![WechatIMG1541.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EchoZheng2333/images/2025-09-22-1758554948530-WechatIMG1541.jpg)
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+![WechatIMG1550.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EchoZheng2333/images/2025-09-23-1758641583407-WechatIMG1550.jpg)
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
