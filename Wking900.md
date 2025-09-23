@@ -60,4 +60,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-22_START -->
 背诵单词35个，复习单词76个；跟读《走遍美国》第四期；跟两位外国有人聊天
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+今日新背单词35个，复习单词82个；《走遍美国》第五期跟读，复习第三、四期
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
