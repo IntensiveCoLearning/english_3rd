@@ -78,4 +78,10 @@ Sadly I was so busy today...utterly exhausting :( will do better tmr
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 I attended the weekly meeting today and pushed myself to do some English speaking, although I'm more like not sure what to say...and attended another meeting about building my own IP on social media, which is a very useful advice and I will try to implement that.
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+**Placeholding something in case I forgot to check today ...**
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
