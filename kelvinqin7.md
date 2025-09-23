@@ -70,4 +70,14 @@ Words recite 30 minutes (screenshot)
 
 ![fd01e3e3407cb6c589280580c7b72c6f.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-21-1758469864248-fd01e3e3407cb6c589280580c7b72c6f.jpg)
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+**Finished：**
+
+Words recite 30 minutes (Photo)
+
+![ed7e12bb749eed31a696f871bb662783.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/kelvinqin7/images/2025-09-23-1758641432354-ed7e12bb749eed31a696f871bb662783.jpg)
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
