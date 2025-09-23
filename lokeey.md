@@ -74,4 +74,10 @@ head、hand、arm、leg、eye、ear、mouth、back、heart、tooth
 <!-- DAILY_CHECKIN_2025-09-22_START -->
 read、music、movie、game、cook、sport、dance、sing、travel、photo
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+holiday、birthday、Christmas、gift、party、cake、music、decorate、tradition、wish
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
