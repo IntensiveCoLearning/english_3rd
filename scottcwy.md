@@ -134,4 +134,12 @@ Vince 雅思课程 两节 70min
 
 影子跟读30min
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.23
+<!-- DAILY_CHECKIN_2025-09-23_START -->
+两天八小时高强度输入输出
+
+雅思口语part 1 听力 影子跟读
+<!-- DAILY_CHECKIN_2025-09-23_END -->
 <!-- Content_END -->
