@@ -146,4 +146,10 @@ we are talking about th edifinition of DAT and disscuss the relationship between
 
 and we are solved a question together that theDATs trading model is the same as individual
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+later update
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
