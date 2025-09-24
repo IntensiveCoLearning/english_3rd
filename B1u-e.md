@@ -397,6 +397,6 @@ Carry on English Listening Practice,and listening a long Podcast about saying fl
 
 # 2025.09.24
 <!-- DAILY_CHECKIN_2025-09-24_START -->
-\[A Long Podcast About Learning With A Short Story\]（[https://www.youtube.com/watch?v=u5rIOmG3dqc](https://www.youtube.com/watch?v=u5rIOmG3dqc)）
+-   \[A Long Podcast About Learning English With A Short Story\]（[https://www.youtube.com/watch?v=u5rIOmG3dqc](https://www.youtube.com/watch?v=u5rIOmG3dqc)）
 <!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
