@@ -111,6 +111,32 @@ Don’t ever let somebody tell u, you can’t do something
   
 ever 的 e 省却发音
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+I have oome here to chew PXX to kick ass,and all of pXX  
+  
+今天基本上没听懂，那个 Pumpgun 的发音，然后 kick ass？
+
+正确拼写
+
+I have come here to chew bubblegum and kick ass, and i am all out of bubblegum!
+
+out of = outta (发音拼写)
+
+Meaning: 我一边吃着口香糖一边来这收拾他们， 可是我的口香糖吃完了。
+
+kick ass meaning fight
+
+继续复习第一天的
+
+Mother tersa, who receveied the nober piece prize for her work on behalf of poor, dies in Calcutta，she was 87 years old  
+  
+是 behalf 不是 be half
+
+behalf of = for
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
