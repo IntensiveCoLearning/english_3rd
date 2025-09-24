@@ -48,4 +48,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 完成"史上最強7000單字"的前兩個level複習。
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+完成"史上最強7000單字"的level3的前一百個單字複習。
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
