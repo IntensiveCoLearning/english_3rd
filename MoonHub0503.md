@@ -14,6 +14,127 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+# What is a Typhoon?
+
+A **typhoon** is a powerful tropical cyclone that forms over the warm waters of the **Northwest Pacific Ocean**, usually between May and November. It is the same type of storm as a **hurricane** in the Atlantic Ocean and the eastern Pacific, and a **cyclone** in the Indian Ocean.
+
+* * *
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+# What is a Typhoon?
+
+A **typhoon** is a powerful tropical cyclone that forms over the warm waters of the **Northwest Pacific Ocean**, usually between May and November. It is the same type of storm as a **hurricane** in the Atlantic Ocean and the eastern Pacific, and a **cyclone** in the Indian Ocean.
+
+* * *
+
+## 🌊 How Do Typhoons Form?
+
+1.  **Warm Ocean Water**: Sea surface temperatures above 26.5 °C (80 °F) provide the energy.
+    
+2.  **Rising Moist Air**: Warm, moist air rises, creating low pressure near the ocean surface.
+    
+3.  **Rotation**: The Earth’s rotation (Coriolis effect) makes the storm system spin.
+    
+4.  **Development**: If conditions remain favorable, the system grows into a typhoon with strong winds and heavy rainfall.
+    
+
+* * *
+
+## 💨 Structure of a Typhoon
+
+-   **Eye**: The calm center with light winds and clear skies.
+    
+-   **Eye Wall**: The most dangerous part, with the strongest winds and heaviest rain.
+    
+-   **Rain Bands**: Spiral clouds that stretch outward, bringing heavy rain and gusty winds.
+    
+
+* * *
+
+## ⚠️ Impacts of Typhoons
+
+-   **Strong Winds**: Can damage houses, power lines, and crops.
+    
+-   **Heavy Rainfall**: May cause flash floods and landslides.
+    
+-   **Storm Surge**: A rise in sea level that floods coastal areas.
+    
+
+* * *
+
+## 🛡️ Safety Tips During a Typhoon
+
+-   Stay indoors and away from windows.
+    
+-   Store food, clean water, and emergency supplies.
+    
+-   Follow weather updates and evacuation orders.
+    
+-   Avoid flooded roads and rivers.
+    
+
+* * *
+
+✅ **In short**:  
+A typhoon is a **giant, spinning storm fueled by warm ocean water**, capable of causing severe damage. Understanding its formation and impacts helps communities stay safe and prepared.
+<!-- DAILY_CHECKIN_2025-09-24_END -->
+<!-- Content_END -->
+## 🌊 How Do Typhoons Form?
+
+1.  **Warm Ocean Water**: Sea surface temperatures above 26.5 °C (80 °F) provide the energy.
+    
+2.  **Rising Moist Air**: Warm, moist air rises, creating low pressure near the ocean surface.
+    
+3.  **Rotation**: The Earth’s rotation (Coriolis effect) makes the storm system spin.
+    
+4.  **Development**: If conditions remain favorable, the system grows into a typhoon with strong winds and heavy rainfall.
+    
+
+* * *
+
+## 💨 Structure of a Typhoon
+
+-   **Eye**: The calm center with light winds and clear skies.
+    
+-   **Eye Wall**: The most dangerous part, with the strongest winds and heaviest rain.
+    
+-   **Rain Bands**: Spiral clouds that stretch outward, bringing heavy rain and gusty winds.
+    
+
+* * *
+
+## ⚠️ Impacts of Typhoons
+
+-   **Strong Winds**: Can damage houses, power lines, and crops.
+    
+-   **Heavy Rainfall**: May cause flash floods and landslides.
+    
+-   **Storm Surge**: A rise in sea level that floods coastal areas.
+    
+
+* * *
+
+## 🛡️ Safety Tips During a Typhoon
+
+-   Stay indoors and away from windows.
+    
+-   Store food, clean water, and emergency supplies.
+    
+-   Follow weather updates and evacuation orders.
+    
+-   Avoid flooded roads and rivers.
+    
+
+* * *
+
+✅ **In short**:  
+A typhoon is a **giant, spinning storm fueled by warm ocean water**, capable of causing severe damage. Understanding its formation and impacts helps communities stay safe and prepared.
+<!-- DAILY_CHECKIN_2025-09-24_END -->
+
 # 2025-09-23
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 # 2025.09.23
