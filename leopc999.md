@@ -50,4 +50,10 @@ Joined the Special Event Mock Construction Project Proposal "Acing The Interview
 <!-- DAILY_CHECKIN_2025-09-22_START -->
 Joined the Sci-Tech Lounge in the Discord channel.
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+Attended the meeting of AI agents on Ethereum: Master class series #2 - inside Butler Agent: ACP deep dive.
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
