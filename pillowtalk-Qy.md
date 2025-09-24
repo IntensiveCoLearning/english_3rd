@@ -76,4 +76,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 1.  Listen to an episode of the Crypto Altruists Podcast during breakfast.
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+1.Didn't learn anything today.
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
