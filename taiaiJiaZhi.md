@@ -56,4 +56,10 @@ review the vocabularies of the whole week
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 学习solidity全英教程
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+英语面试准备
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
