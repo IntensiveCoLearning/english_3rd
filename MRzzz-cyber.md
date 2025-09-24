@@ -98,16 +98,18 @@ There are 3 things i have learned never to discuss with people; religion, politi
 
 # 2025.09.24
 <!-- DAILY_CHECKIN_2025-09-24_START -->
-英语听力练习打卡第四天  
+英语听力练习打卡第四天
+
+Don’t let somebody tell u, you can’t do something
+
+这个一听就是让幸福来敲门的台词，太熟悉了
+
+正确发音
+
+Don’t ever let somebody tell u, you can’t do something  
   
-Don't let somebody tell u, you can't do something  
   
-这个一听就是让幸福来敲门的台词，太熟悉了  
-  
-正确发音  
-  
-  
-Don't even let somebody tell u, you can't do something
+ever 的 e 省却发音
 <!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
