@@ -57,4 +57,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 打卡200单词
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-09-24-1758729210787-image.png)
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
