@@ -50,4 +50,10 @@ check in today
 <!-- DAILY_CHECKIN_2025-09-21_START -->
 Scene practice, preposition practice
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+check in
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
