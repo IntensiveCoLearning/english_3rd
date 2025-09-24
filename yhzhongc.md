@@ -99,4 +99,10 @@ Tools: Anki, Forvo
     
 3.  pronunciation practice
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+1.  learn 20 words a day by using anki
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
