@@ -393,4 +393,10 @@ Hahahahah,you know what i mean.
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 Carry on English Listening Practice,and listening a long Podcast about saying fluent English by using simple words in our daily life.
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+\[A Long Podcast About Learning With A Short Story\]([https://www.youtube.com/watch?v=u5rIOmG3dqc](https://www.youtube.com/watch?v=u5rIOmG3dqc))
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
