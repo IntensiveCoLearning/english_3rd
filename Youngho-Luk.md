@@ -52,4 +52,12 @@ B站英语听力30min
 
 2.b站英语听力30min
 <!-- DAILY_CHECKIN_2025-09-21_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+单词50
+
+听力30min
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
