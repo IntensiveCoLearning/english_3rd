@@ -76,4 +76,10 @@ We extended the topic to trading😂
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 Tonight I'm listening to Daily English Dictation Practice Listening on bilibili.I feel that I can hear more clearly than when I talk about something with my members.
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+Tonight,our topic is about Carbon finance and GreenBtc club.And also we talk about the Chinese stock market.I‘m a leek.
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
