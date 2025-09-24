@@ -86,4 +86,10 @@ I attended the weekly meeting today and pushed myself to do some English speakin
 
 I have read an article in English today. [Link](https://medium.com/design-bootcamp/game-theory-is-the-cheat-code-to-life-285c2f00deb2)
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+I went to the city centre to meet a friend and take some noodles for lunch. It's very great and I went to Uniqlo to refund a cap. What a great and sweaty day today! LOL IT'S SO NONSENSE TO WRITE IT DOWN
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
