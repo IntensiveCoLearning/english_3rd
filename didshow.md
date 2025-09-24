@@ -90,4 +90,10 @@ also I listen to a English vedio.
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 -   watch a vedio and listen a podcast in xiaoyuzhou
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+-   listen to a podcast and communicate with my team friends in English
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
