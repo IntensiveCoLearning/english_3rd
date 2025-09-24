@@ -36,6 +36,14 @@ Checking in to rewatch _Shameless._ Carl is god.
 <!-- DAILY_CHECKIN_2025-09-22_START -->
 I found a great YouTube channel, "Young Suck Cooking"! Their newest video shows you how to make incredibly crispy fries using an air fryer.For my recent weight loss diet, potatoes have been my main food.
 <!-- DAILY_CHECKIN_2025-09-22_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+It's been a terrible day. Yesterday, I forgot to clock in and wasted a whole afternoon fixing the water heater. Today, no shops are open because of the weather, and I've been eating vegetarian all day—I'm about to become a monk!
+
+Today's Podcast: Round Table China， Xinjiang's role inEurasia connectivity
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
 ## **Daily sentence**
 
