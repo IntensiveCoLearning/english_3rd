@@ -131,6 +131,24 @@ ponder
 
 reflect deeply on a subject
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+DD116
+
+I don’t trust anyone anymore. I don’t blame you. I’m not like those **so-called** **fair-weather friends** of yours. You can believe in me.
+
+fair-weather friends
+
+酒肉朋友，表面朋友
+
+so-called
+
+所谓的
+
+两个非常地道的用法
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
 ## 写：
 
