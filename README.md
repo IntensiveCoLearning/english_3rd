@@ -228,7 +228,7 @@ Telegram：https://t.me/LXDAO/6912
 | [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | |
 | [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | |
-| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ |   | | | | | | | | | | | | |
+| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | | | | | | | | | | | | |
 | [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [0xhirugohan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhirugohan.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [yoko-pm](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yoko-pm.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | | | | | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
