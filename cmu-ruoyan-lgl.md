@@ -60,4 +60,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 跟读Easy English
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+跟读 走进美国 1h
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
