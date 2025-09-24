@@ -142,4 +142,14 @@ Vince 雅思课程 两节 70min
 
 雅思口语part 1 听力 影子跟读
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+10节 英语听力
+
+3段雅思part 1
+
+英语兔口语练习两节
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
