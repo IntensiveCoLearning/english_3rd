@@ -240,4 +240,36 @@ Easy English
 
 氛围确实没起来，个人也确实懒惰了，打卡其实也可以同步发送到群里一起讨论，虽说全英文更好，但是部分中文也有必要，去认识，还有要利用好微信本身的翻译功能辅助学习，嗯...我们还是聊的少了
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.24
+<!-- DAILY_CHECKIN_2025-09-24_START -->
+When we slow down, we create space to reflect on our thoughts and emotions, which helps us identify important areas of our lives and gives us the opportunity to make right choices.
+
+slow down 放慢速度、放慢节奏
+
+speed up 加快速度
+
+reflect on sth 考虑某事、反思某事
+
+identify important areas of our lives 发现生活中的重要领域
+
+在某个时候（when） + 某人做了某事 + 具体发挥了某个作用或带来了某个结果（which）
+
+**When I saw the expression on her face, I suddenly realized that my words had hurt her feelings unintentionally, which filled my heart with self-blame and guilt.**
+
+**当我看到她脸上的表情时，我忽然意识到我的话在不经意之间伤害了她的感情，这让我的内心充满了自责和愧疚。**
+
+**When I saw the joy on my classmates’ faces, I suddenly realized that my victory was also theirs, which filled my heart with pride and honor.**
+
+**当我看到同学们脸上的喜悦时，我忽然意识到我的胜利也属于他们，这让我的内心充满了自豪和骄傲。**
+
+**When faced with challenges, I will carefully analyze my personal advantages and drawbacks rather than giving up easily, which helps me overcome the obstacles one after another.**
+
+**当面对困难的时候，我不会轻易放弃，而是认真地分析自身的优劣势，这让我战胜了一个又一个的挑战。**
+
+**When you have a close contact with those people in need, you will find what you have done really leaves a great impact on others, which helps you further understand the meaning of being a volunteer.**
+
+**当你近距离接触那些需要帮助的人时，你就会发现你的所作所为真的会对别人产生巨大的影响，从而帮助你进一步理解志愿者这个角色的意义所在。**
+<!-- DAILY_CHECKIN_2025-09-24_END -->
 <!-- Content_END -->
