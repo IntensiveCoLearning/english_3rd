@@ -2886,4 +2886,10 @@ Are you going now?! ↘Are you kidding me?!↘
 
 7)     英语语调有多样性：单词和句子的意群往往有多种语调。
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+It's surely in the running for one of the most expensive pile-ups in highway history. These crumpled Ferraris were among8 involved in the crash. The airbags may have saved those inside from serious injury,but oh~what damage may have been done to bruise the spirits of these enthusiasts attached to their sleek sports cars. 想必这场事故有望成为高速公路史上最贵的连环车祸，在相撞中压皱的法拉利有8辆。安全气囊在严重的车祸中救了车内的人们，但事故使他们的自我价值感和他们光亮的爱车一样出现了伤痕。 (1)in the running for有望成为… (2)pile-ups连环车祸 (3)crumpled v. 压皱；变皱，起皱 (4)airbag n. 安全气囊 (5)bruise v. 擦伤；碰伤；使出现伤痕 (6)enthusiast n. 热衷于…的人 (7)sleek adj. 光亮的
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
