@@ -66,4 +66,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 跟读 走进美国 1h
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+react master 跟读 & 翻译
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
