@@ -82,4 +82,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 1.Didn't learn anything today.
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+1.Sign up for Sentient's Fudan University campus lecture.
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
