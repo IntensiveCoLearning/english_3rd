@@ -82,4 +82,10 @@ Tonight I'm listening to Daily English Dictation Practice Listening on bilibili.
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 Tonight,our topic is about Carbon finance and GreenBtc club.And also we talk about the Chinese stock market.I‘m a leek.
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+Tonight,everyone is tried.There is no Topic.I just see Daily English Dictation on BiliBili. Some linking sounds are like tongue twisters
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
