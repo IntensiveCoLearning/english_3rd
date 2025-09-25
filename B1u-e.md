@@ -14,6 +14,20 @@ Web3 新人、小韭菜、全沾开发者、码转运营 ing。
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+## Find a IELTS Podcast,i think it useful and recommend to guys.  
+\- Link:[https://www.bilibili.com/video/BV1WvWGznEyo?p=2&vd\_source=7bd10a58392fb81f60972275d32fb810](https://www.bilibili.com/video/BV1WvWGznEyo?p=2&vd_source=7bd10a58392fb81f60972275d32fb810)
+<!-- DAILY_CHECKIN_2025-09-25_END -->
+<!-- Content_END -->
+## Find a IELTS Podcast,i think it useful and recommend to guys.  
+\- Link:[https://www.bilibili.com/video/BV1WvWGznEyo?p=2&vd\_source=7bd10a58392fb81f60972275d32fb810](https://www.bilibili.com/video/BV1WvWGznEyo?p=2&vd_source=7bd10a58392fb81f60972275d32fb810)
+<!-- DAILY_CHECKIN_2025-09-25_END -->
+
 # 2025.09.15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 Today is the first day of our English-Intensive-Co-Learning, it has a little busy for me.I have finished all registrant and we successfully host the opening ceremony.  
