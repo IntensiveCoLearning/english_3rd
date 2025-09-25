@@ -56,4 +56,10 @@ Scene practice, preposition practice
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 check in
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+Daily practice and reading
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
