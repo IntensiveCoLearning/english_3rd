@@ -54,4 +54,10 @@ Player tomb Raider for two hours and learned some new words and sentences
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 memorie words for 40 minutes
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+Today,I try listen and wirte the section b about English-test,but it a little hard,I have to slow the speed and listen one by one
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
