@@ -105,4 +105,10 @@ Tools: Anki, Forvo
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 1.  learn 20 words a day by using anki
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+1.  learn 20 words a day by using anki
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
