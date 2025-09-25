@@ -44,6 +44,14 @@ It's been a terrible day. Yesterday, I forgot to clock in and wasted a whole aft
 
 Today's Podcast: Round Table China， Xinjiang's role inEurasia connectivity
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+Today I'm starting a new course: the **zkForge Zero-Knowledge Proofs Bootcamp** for beginners.
+
+link: [zkForge Bootcamp - Introduction to Zero Knowledge](https://www.youtube.com/watch?v=miIOJFkGcY4&list=PLfrTTN65DWwlwhdVjkWyvHyt23e3fgdB-&index=9)
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
 ## **Daily sentence**
 
