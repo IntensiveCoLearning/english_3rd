@@ -54,4 +54,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 完成"史上最強7000單字"的level3的前一百個單字複習。
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+I completed studying the first two modules of Alchemy's Ethereum Developer Bootcamp entirely in English
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
