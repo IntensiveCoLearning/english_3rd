@@ -158,4 +158,22 @@ in bit of a hurry
 
 contact details
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+day 9 The Weekend - Silence please!
+
+inconsiderate
+
+not such a big. deal
+
+can't hear a. thing
+
+keep it down
+
+switch off
+
+|   |   |
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
