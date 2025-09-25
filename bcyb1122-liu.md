@@ -70,4 +70,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 刚到家，背完20个单词先赶紧打个卡
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+已打卡单词40个，多邻国30分钟，
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
