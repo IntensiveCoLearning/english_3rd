@@ -63,4 +63,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-09-24-1758729210787-image.png)
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+墨墨背了250个单词
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
