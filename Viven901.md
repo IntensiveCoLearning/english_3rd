@@ -110,4 +110,14 @@ My thoughts slowly spread like the misty rain outside. I have no mind for concre
 
 Complex and intertwined, there is both calm and uncertainty. I just hope that my work situation can be settled as soon as possible.
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+A lot of things are like traveling, and when you decide to go, the hardest part is already done .
+
+But the reality is that many people like to stop and watch, so along the way, there are not many people on the journey, and even fewer people are willing to climb to the top.
+
+Every day something different will happen, rub shoulders with different people, and what you have to do is allow everything to happen, and then accept it with peace of mind, and your life will develop step by step in a better direction.
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
