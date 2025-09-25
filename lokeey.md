@@ -86,4 +86,10 @@ holiday、birthday、Christmas、gift、party、cake、music、decorate、tradit
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 December、January、February、March、April、May、June、July、August、September、October、November
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+where、here、there、left、right、front、back、near、far、map
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
