@@ -149,6 +149,18 @@ so-called
 
 两个非常地道的用法
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+DD117
+
+Ted, I just wanted to ask you, do you believe in an afterlife? Do I what? Do you believe in an afterlife? Well, Dougal, generally speaking, please priests tend to have a very strong belief in an afterlife. Boy, I wish I had your faith, Ted.
+
+priest
+
+A _priest_ is a religious figure who performs ceremonies, particularly in the Roman Catholic, Anglican, or Orthodox church.
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
 ## 写：
 
