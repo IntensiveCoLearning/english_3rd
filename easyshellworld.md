@@ -68,4 +68,12 @@ Today I learned some new words about restaurants in American culture. **Diners**
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 Today was another day without studying. I spent the whole day in meetings, and by the end, I felt dizzy and exhausted.
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+Today I didn’t study any new English words again. Instead, I spent some time reading about the U.S. dollar and its history. I recalled President Richard Nixon’s famous speech on August 15, 1971, when he announced that the United States would suspend the dollar’s convertibility into gold. He said this action was meant to “defend the dollar against the speculators” and to protect the American economy.
+
+I also reviewed Paul Volcker’s speeches in the early 1980s, when he was the Chairman of the Federal Reserve. At that time, inflation was extremely high, and Volcker emphasized that the central bank must take tough measures. He spoke about reducing the growth of the money supply, raising interest rates, and accepting short-term pain in order to restore long-term stability. His words showed a determination to fight inflation, even if it meant a deep recession.
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
