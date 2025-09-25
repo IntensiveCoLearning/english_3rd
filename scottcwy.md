@@ -152,4 +152,12 @@ Vince 雅思课程 两节 70min
 
 英语兔口语练习两节
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.25
+<!-- DAILY_CHECKIN_2025-09-25_START -->
+# **English Dictation 1-15 for 1hours and 30 mins**
+
+# IELTS part 1 pronunciation practice for 45mins
+<!-- DAILY_CHECKIN_2025-09-25_END -->
 <!-- Content_END -->
