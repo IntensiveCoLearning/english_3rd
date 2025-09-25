@@ -95,6 +95,5 @@ Today I'm starting a new course: the **zkForge Zero-Knowledge Proofs Bootcamp** 
 
 link: [zkForge Bootcamp - Introduction to Zero Knowledge](https://www.youtube.com/watch?v=miIOJFkGcY4&list=PLfrTTN65DWwlwhdVjkWyvHyt23e3fgdB-&index=9)
 <!-- DAILY_CHECKIN_2025-09-25_END -->
-
 <!-- Content_END -->
 
