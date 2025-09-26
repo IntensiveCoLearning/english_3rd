@@ -76,4 +76,10 @@ Today I didn’t study any new English words again. Instead, I spent some time r
 
 I also reviewed Paul Volcker’s speeches in the early 1980s, when he was the Chairman of the Federal Reserve. At that time, inflation was extremely high, and Volcker emphasized that the central bank must take tough measures. He spoke about reducing the growth of the money supply, raising interest rates, and accepting short-term pain in order to restore long-term stability. His words showed a determination to fight inflation, even if it meant a deep recession.
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+Today I didn’t really study hard. Instead, I spent most of the time walking outside and enjoying the autumn weather. The air was cool, and the leaves were starting to turn yellow and red. It reminded me that a new season has arrived, bringing both changes and opportunities. Even though I didn’t open my books, I felt that I should plan better for tomorrow and keep learning step by step.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
