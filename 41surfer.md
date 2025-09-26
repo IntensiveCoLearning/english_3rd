@@ -176,4 +176,30 @@ later update
 
 **800,000 consumption**
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+**what is Gamfi/how it works**
+
+Everyone has probably played League of Legends or World of Warcraft. The skins and equipment we purchase in-game only buy us the right to use them, not the ownership.
+
+However, in the Axie Infinity phenomenon, many Filipino players are earning incomes over the local average wage. This is play to earn.
+
+So what is GameFi?
+
+It's divided into three parts.
+
+The first is blockchain: Simply put, is NFT. Your assets in the games, such as skins and equipment, can be recorded on the blockchain, and ownership of these items will be recognized worldwide.
+
+The second is games. Gamefi’s tool is games, and having fun is the key to lasting.
+
+last but not least，is defi.
+
+which means that there is a central bank and stock exchange in the game. The gold coins in the game have real value, and you can also save the gold coins in the game to earn interest. This is called staking.
+
+Therefore, the operating model of GameFi is to obtain rewards by completing tasks. Players can transfer the obtained cryptocurrency or NFT outside the game and sell it on the market in exchange for real currency.
+
+**The risks (challenges) of GameFi**
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
