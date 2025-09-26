@@ -260,7 +260,26 @@ There are 3 things i have learned to never discuss to people; region,policts,and
 第三天正确的
 
 There are 3 things i have learned to never to discuss with people, religion, politics, and great pumpkin!
+
+
+
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.26
+
+先复习一下昨天的
+i havve come here to chew bubbgam and kick ass, and i am all of out bubbgam
+
+正确拼写 Bubbblegum - 口香糖
+and i am = ahm
+
+the SXX life,thet never want
+
+完全没听清
+正确拼写
+The secret of life is just to live every moment!
+
 
 
 <!-- Content_END -->
