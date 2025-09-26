@@ -69,4 +69,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 墨墨背了250个单词
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+看了两小时的无字幕纯英文电影
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
