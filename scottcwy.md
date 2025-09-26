@@ -160,4 +160,10 @@ Vince 雅思课程 两节 70min
 
 # IELTS part 1 pronunciation practice for 45mins
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+口腔溃疡，闪卡背了200个单词，做了五集英语听力
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
