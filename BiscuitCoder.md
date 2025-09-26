@@ -62,4 +62,10 @@ check in
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 Daily practice and reading
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+check in
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
