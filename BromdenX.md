@@ -88,4 +88,10 @@ learning english from reddit too
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 learning english from x
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+Try to use the English-English dictionary to learn English.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
