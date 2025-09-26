@@ -111,4 +111,12 @@ Tools: Anki, Forvo
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 1.  learn 20 words a day by using anki
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+1.  learn 20 words a day by using anki
+    
+2.  finish two dictation practice
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
