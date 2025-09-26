@@ -56,4 +56,10 @@ Joined the Sci-Tech Lounge in the Discord channel.
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 Attended the meeting of AI agents on Ethereum: Master class series #2 - inside Butler Agent: ACP deep dive.
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+Read some research articles.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
