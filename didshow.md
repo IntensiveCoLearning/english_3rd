@@ -96,4 +96,12 @@ also I listen to a English vedio.
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 -   listen to a podcast and communicate with my team friends in English
 <!-- DAILY_CHECKIN_2025-09-24_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+-   today's topic is GameFi, we'll talk about gamefi, what's gamefi, how to build a gamefi
+    
+-   listen to podcast of xiaoyuzhou
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
