@@ -88,4 +88,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 1.Sign up for Sentient's Fudan University campus lecture.
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+1.i reading and translating several articles from the Crypto Altruists Blog.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
