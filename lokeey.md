@@ -92,4 +92,10 @@ December、January、February、March、April、May、June、July、August、Sep
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 where、here、there、left、right、front、back、near、far、map
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+wake up、get up、wash、brush、dress、leave、arrive、return、cook、relax
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
