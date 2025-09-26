@@ -72,4 +72,10 @@ Today marks the official start of my English learning journey. I first tried doi
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 ![9d7ba344d8a93265e2ffc12c0617962.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-25-1758811991253-9d7ba344d8a93265e2ffc12c0617962.jpg)
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+![c860252b43ac8e0d9fefbaa1af32c23.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/EllaArgent/images/2025-09-26-1758894720642-c860252b43ac8e0d9fefbaa1af32c23.jpg)
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
