@@ -86,4 +86,10 @@ other vidoes looks good too, like [https://www.youtube.com/watch?v=KNJzhjaOVdg](
 <!-- DAILY_CHECKIN_2025-09-23_START -->
 Practice IPA, and correct 3 pronunciations! Especially for l and r. But still cannot distinguish shall and shell. The ash sound.
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+Today I listened some podcasts about EF and Tomasz. Will do dictations about them.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
