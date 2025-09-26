@@ -14,7 +14,6 @@ Everything I want wants me more.
 
 ## Notes
 <!-- Content_START -->
-
 # 2025-09-15
 <!-- DAILY_CHECKIN_2025-09-15_START -->
 I will try to record my daily study records in English
@@ -95,5 +94,13 @@ Today I'm starting a new course: the **zkForge Zero-Knowledge Proofs Bootcamp** 
 
 link: [zkForge Bootcamp - Introduction to Zero Knowledge](https://www.youtube.com/watch?v=miIOJFkGcY4&list=PLfrTTN65DWwlwhdVjkWyvHyt23e3fgdB-&index=9)
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+busy day
+
+I will put my study plan on hold today and read an article in the evening.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
 
