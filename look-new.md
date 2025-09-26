@@ -60,4 +60,10 @@ memorie words for 40 minutes
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 Today,I try listen and wirte the section b about English-test,but it a little hard,I have to slow the speed and listen one by one
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+listening
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
