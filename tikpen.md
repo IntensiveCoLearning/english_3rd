@@ -88,4 +88,16 @@ Tonight,our topic is about Carbon finance and GreenBtc club.And also we talk abo
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 Tonight,everyone is tried.There is no Topic.I just see Daily English Dictation on BiliBili. Some linking sounds are like tongue twisters
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+Tonight our topic is about GameFi
+
+1、what is Gamfi/how it works
+
+2、The risks (challenges) of GameFi
+
+We also talk about airdrop,maybe next time our topic is about airdrop
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
