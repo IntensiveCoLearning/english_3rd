@@ -309,4 +309,29 @@ Battered soaked and flooded,The Philippines is being hit/ by its second typhoon 
 A few years ago ,They were thought to be useless passed the prime ,not know.  
 A few years ago ,They were thought to be useless -- **past their prime** ,not know.
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+Dictation17
+
+battered , soaked and flooded .The Phillipind has just been hit by a second typhoon in a week .  
+Battered , soaked and flooded .The Philippines is being hit by its second typhoon in a week .
+
+18 past one's prime/in one's prime  
+A few years ago ,They were thought to be useless past their prime not now.
+
+19  
+If you're breathing , it is not too late . Get up and keep going .  
+If you're breathing , it is not too late . Get up and get going .
+
+20 **stuck : be in some place but can't leave. eg :Stuck in a meeting /stuck in traffic .ravine**  
+A sixty seven- year old grandpa has been found alive after being start of six days of the out of the wind.  
+A sixty -seven- year -old grandpa has been found alive after being stuck for six days at the bottom of a ravine.  
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/wangleah1124-web/images/2025-09-26-1758886445588-image.png)
+
+20 ferris wheel /ultralight plane  
+Saturday, An ultralight plane crashed the ferris wheel but all of festival in Australia yet somehow no one have reviewed alive nor the plane was hurt
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
