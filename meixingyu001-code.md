@@ -83,4 +83,10 @@ section 1 自然地理的单词背诵。
 单词 自然地理 done  
 听力，t7s1done
 <!-- DAILY_CHECKIN_2025-09-23_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+休息了两天，今天go on~
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
