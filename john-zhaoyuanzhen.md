@@ -98,4 +98,10 @@ I went to the city centre to meet a friend and take some noodles for lunch. It's
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 I went to Shaoxing, Zhejiang today for fun and it is quite an exhuasting day. I tasted so many yellow wine lol.
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.26
+<!-- DAILY_CHECKIN_2025-09-26_START -->
+I went home today. The traffic on the way to the centre of Shanghai is so horrible that I kinda feel like I'm forever on the coach. I took some Shaanxi food tonight, which is so great and tempting. I would definitely try more in the future.
+<!-- DAILY_CHECKIN_2025-09-26_END -->
 <!-- Content_END -->
