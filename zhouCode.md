@@ -170,6 +170,16 @@ DD118
 These young mountain bikers are spending their afternoon racing on the trails.
 
 easy
+
+DD119
+
+So rainy day today, so I think I might do something that’s been needing to be done lose submits we need we don’t for a while.
+
+这句吞音严重
+
+something that's -> sump'n nass
+
+needing to be done -> needn d' be done
 <!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
 ## 写：
