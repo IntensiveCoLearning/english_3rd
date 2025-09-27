@@ -102,5 +102,13 @@ busy day
 
 I will put my study plan on hold today and read an article in the evening.
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+Today is a sort of harvest day. After two weeks of study, I believe my English speaking and thinking skills are much better than before. This progress is a good sign. I will continue to keep up the studying.
+
+![Gr2nBRHWwAAewoF.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/Darkells/images/2025-09-27-1758984795314-Gr2nBRHWwAAewoF.jpg)
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
 
