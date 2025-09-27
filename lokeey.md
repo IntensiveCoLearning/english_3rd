@@ -98,4 +98,10 @@ where、here、there、left、right、front、back、near、far、map
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 wake up、get up、wash、brush、dress、leave、arrive、return、cook、relax
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+I wake up at seven.First,I brush my teeth.Then I eat breakfast with my family.I go to work by bus at eight.I work in an office.I return home at six.I cook dinner with my wife.We watch TV after dinner.Finally,I go to bed at eleven.
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
