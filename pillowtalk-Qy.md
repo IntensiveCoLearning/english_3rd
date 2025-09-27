@@ -94,4 +94,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 1.i reading and translating several articles from the Crypto Altruists Blog.
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+1.I attended a Sentient lecture today at the School of Management, Fudan University in Shanghai.
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
