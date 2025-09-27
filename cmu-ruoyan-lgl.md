@@ -72,4 +72,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 react master 跟读 & 翻译
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+跟读Easy English
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
