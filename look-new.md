@@ -66,4 +66,10 @@ Today,I try listen and wirte the section b about English-test,but it a little ha
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 listening
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+sick
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
