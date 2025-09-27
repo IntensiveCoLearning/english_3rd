@@ -100,4 +100,10 @@ Tonight our topic is about GameFi
 
 We also talk about airdrop,maybe next time our topic is about airdrop
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+Tonight,I watch three classes of Daily English Dictation.The Teacher is so funny and sometimes very vivid and lifelike.
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
