@@ -94,4 +94,16 @@ learning english from x
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 Try to use the English-English dictionary to learn English.
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+I recently picked up a 2020 Intel MacBook Pro (i5 / 16GB RAM / 512GB SSD). I know Apple Silicon has been out for a while now, but this deal came up locally and I decided to go for it.
+
+On the plus side, it feels solid, the keyboard is way better than the old butterfly one, and performance so far has been perfectly fine for what I do (mostly browsing, light editing, and some coding).
+
+But I can’t help wondering lol… did I make a smart move or did I mess up? With all the hype around the M1/M2/M3 chips, I’m worried I might regret not waiting or spending a little extra.
+
+For those of you who are still using Intel MacBook Pros in 2025 — how has the experience been long term? Any big downsides I should watch out for? And if you’ve switched from Intel to Apple Silicon, was the difference crazy, or just subtle?
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
