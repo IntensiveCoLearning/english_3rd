@@ -2892,4 +2892,12 @@ Are you going now?! ↘Are you kidding me?!↘
 <!-- DAILY_CHECKIN_2025-09-25_START -->
 It's surely in the running for one of the most expensive pile-ups in highway history. These crumpled Ferraris were among8 involved in the crash. The airbags may have saved those inside from serious injury,but oh~what damage may have been done to bruise the spirits of these enthusiasts attached to their sleek sports cars. 想必这场事故有望成为高速公路史上最贵的连环车祸，在相撞中压皱的法拉利有8辆。安全气囊在严重的车祸中救了车内的人们，但事故使他们的自我价值感和他们光亮的爱车一样出现了伤痕。 (1)in the running for有望成为… (2)pile-ups连环车祸 (3)crumpled v. 压皱；变皱，起皱 (4)airbag n. 安全气囊 (5)bruise v. 擦伤；碰伤；使出现伤痕 (6)enthusiast n. 热衷于…的人 (7)sleek adj. 光亮的
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+What if every single person on earth jumped at the exact same time?Could it cuase an earth quake or would we not even be able to tell? 如果地球上每一个人同时起跳会发生什么呢？它会造成地震吗？还是什么都不会发生？
+
+A search party of 7-mostly strangers-headed out.When they found Missy, she'd been marooned on the moutain for 8 days. Her paws were all torn up and bloody...She seemed [crippled.It](http://crippled.It) seemed like it was basically over. 一个由7位互不相识的人组成的搜救队出发了。当他们发现Missy的时候，她已经被困8天了。 她的爪子被山石割伤并且流了血，她似乎是瘸了，她的境况也不容乐观。
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
