@@ -104,4 +104,10 @@ I went to Shaoxing, Zhejiang today for fun and it is quite an exhuasting day. I 
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 I went home today. The traffic on the way to the centre of Shanghai is so horrible that I kinda feel like I'm forever on the coach. I took some Shaanxi food tonight, which is so great and tempting. I would definitely try more in the future.
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+I met some friends from Cambridge today, with having lunch and dinner and enjoying the movie The Shadow's Edge. The movie itself has some logical vulnerabilities, but the action and sound FX are at top notch. In general, I would recommend this movie to others, especially taking the movies on air into consideration.
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
