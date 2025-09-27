@@ -202,4 +202,10 @@ Therefore, the operating model of GameFi is to obtain rewards by completing task
 
 **The risks (challenges) of GameFi**
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+too busy to learn about new things
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
