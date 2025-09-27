@@ -110,4 +110,10 @@ I went home today. The traffic on the way to the centre of Shanghai is so horrib
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 I met some friends from Cambridge today, with having lunch and dinner and enjoying the movie The Shadow's Edge. The movie itself has some logical vulnerabilities, but the action and sound FX are at top notch. In general, I would recommend this movie to others, especially taking the movies on air into consideration.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+**PLACEHOLDER FOR NOTES TODAY ...**
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
