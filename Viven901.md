@@ -130,4 +130,16 @@ Courageously follow your heart, and even if the path seems filled with challenge
 
 At the same time, we must understand that there is no absolute right or wrong in choices. Every decision brings different experiences and lessons, and these experiences will ultimately become valuable assets in our lives. No matter which path we choose, as long as we face it bravely and persist in walking forward, we will eventually achieve our own success and
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+I gradually understood why I was not happy, because I always expected a result.
+
+Reading a book and expecting it to make me deep, eating and swimming expecting it to make me lose a jin, sending a text message expecting it to be answered, expecting it to respond to good people, writing a story about a mood expecting it to be paid attention to Consolation, attending an event looks forward to a fulfilling and enriching experience.
+
+If these preset expectations come true, breathe a sigh of relief. What if it doesn't happen? Self-pity.
+
+But it was the same me when I was a child. I spent an afternoon watching the ants move and waiting for the stones to bloom. When I was a child, I didn' t expect the result.
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
