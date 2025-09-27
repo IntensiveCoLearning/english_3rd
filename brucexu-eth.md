@@ -92,4 +92,10 @@ Practice IPA, and correct 3 pronunciations! Especially for l and r. But still ca
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 Today I listened some podcasts about EF and Tomasz. Will do dictations about them.
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+Listened to some podcasts, and words review.
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
