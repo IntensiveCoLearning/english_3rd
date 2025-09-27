@@ -192,4 +192,26 @@ will never fly
 
 promotion
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+day 11 Daily Life - New Guy in Town
+
+fill me in
+
+a bad feelin
+
+weird
+
+kick out
+
+creep me out
+
+|   |   |   |
+
+|   |   |   |
+
+|   |   |   |
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
