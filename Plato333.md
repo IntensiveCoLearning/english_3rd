@@ -54,4 +54,10 @@ Today I followed a tutorial video on YouTube
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 Today I continue to memorize words
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+Today continue to memorize words
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
