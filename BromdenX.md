@@ -106,4 +106,10 @@ But I can’t help wondering lol… did I make a smart move or did I mess up? Wi
 
 For those of you who are still using Intel MacBook Pros in 2025 — how has the experience been long term? Any big downsides I should watch out for? And if you’ve switched from Intel to Apple Silicon, was the difference crazy, or just subtle?
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+I downloaded an English-English-Chinese dictionary - Eudic to practice my English thinking
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
