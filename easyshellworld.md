@@ -88,4 +88,10 @@ Today I didn’t really study hard. Instead, I spent most of the time walking ou
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 Today I didn’t make much progress in my studies. I spent the afternoon reading some news about technology instead. One article talked about how artificial intelligence is changing the way people work, and another explained the challenges of building clean energy for the future. These topics were interesting, but I still feel guilty for not focusing on my English learning. Maybe tomorrow I can balance both—study some words and still read about the world.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+Today I didn’t study any new English words. Instead, I read a short piece about the history of money. It reminded me of the 1970s, when the Bretton Woods system collapsed and major currencies began to float freely. The shift away from fixed exchange rates created both uncertainty and opportunity in global trade. I realized that changes in monetary policy are not just technical—they can reshape entire economies and people’s daily lives.
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
