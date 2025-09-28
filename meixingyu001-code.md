@@ -89,4 +89,10 @@ section 1 自然地理的单词背诵。
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 休息了两天，今天go on~
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.27
+<!-- DAILY_CHECKIN_2025-09-27_START -->
+看了一篇英文的newsletter
+<!-- DAILY_CHECKIN_2025-09-27_END -->
 <!-- Content_END -->
