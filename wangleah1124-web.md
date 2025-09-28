@@ -351,4 +351,20 @@ Heidi won the world over with her forever cute ,but slightly confused look.
 The project put online is aspect completly by 2016.  
 The project to put them online is expected to completed by 2016.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+rural =small , ultralight plane = small light weight plane, ferris wheel =amusement ride, slightly =a little bit
+
+Dictation  
+23 SAT =Scholastic Aptitude Test, cheat scandal =event  
+At a large SAT cheating scandle has been on coverd the past students long idle high school is cart the students excuse to taking the cartle gentlist example at least 6 students.  
+Answer:  
+An alleged SAT cheating scandal has been uncovered at a Prestigious Long Island high school.This college student is accused of taking the college entrance exam for at least 6 students
+
+24  
+Sam Rois takes the worlds the is opened on a cool night .it was 49 degrees at the start of the game .  
+St Louis takes the world series opener on a cool night .it was 49 degrees at the start of the game .
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
