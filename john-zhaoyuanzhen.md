@@ -114,6 +114,6 @@ I met some friends from Cambridge today, with having lunch and dinner and enjoyi
 
 # 2025.09.28
 <!-- DAILY_CHECKIN_2025-09-28_START -->
-**PLACEHOLDER FOR NOTES TODAY ...**
+Reviewed the meeting footages and obtained some new knowledge regarding Ethereum and smart contracts today. Watched the PUBG autumn championship competitions and my supporting team won second place...
 <!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
