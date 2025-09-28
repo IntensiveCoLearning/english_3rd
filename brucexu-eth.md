@@ -98,4 +98,10 @@ Today I listened some podcasts about EF and Tomasz. Will do dictations about the
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 Listened to some podcasts, and words review.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+Finished the Phonetics and anki review
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
