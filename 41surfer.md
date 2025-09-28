@@ -208,4 +208,10 @@ Therefore, the operating model of GameFi is to obtain rewards by completing task
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 too busy to learn about new things
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+today is a busy day ,did not learn english
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
