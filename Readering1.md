@@ -350,4 +350,16 @@ English corner **gives us a precious opportunity** to **have interesting convers
 
 英语角**给我们提供了宝贵的机会**去**和其他人进行有趣的对话**并且**真正接触到不同的想法**。
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+In holidays, **some people** prefer staying at home, **while others** choose to go out for a travel. 
+
+假日里，有些人选择呆在家里，而另一些人选择出去旅游。**（两者对比）**
+
+**Some** were hanging up banners, **while others** were putting maps in order.
+
+有的人在悬挂横幅，而其他人在把地图摆放整齐。**（两方分工）**
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
