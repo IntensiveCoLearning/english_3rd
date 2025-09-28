@@ -166,4 +166,14 @@ Vince 雅思课程 两节 70min
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 口腔溃疡，闪卡背了200个单词，做了五集英语听力
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+闪卡400张单词
+
+英语听写1h
+
+（讨厌国庆调休）
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
