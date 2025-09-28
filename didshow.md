@@ -104,4 +104,14 @@ also I listen to a English vedio.
     
 -   listen to podcast of xiaoyuzhou
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+-   listen to a podcast in xiaoyuzhou
+    
+-   got a hold a topic about Tether
+    
+-   I learn more about the trading in previous communication
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
