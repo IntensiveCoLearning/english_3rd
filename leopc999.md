@@ -62,4 +62,10 @@ Attended the meeting of AI agents on Ethereum: Master class series #2 - inside B
 <!-- DAILY_CHECKIN_2025-09-26_START -->
 Read some research articles.
 <!-- DAILY_CHECKIN_2025-09-26_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+Joined Software Architecture 101: Part II of the series.
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
