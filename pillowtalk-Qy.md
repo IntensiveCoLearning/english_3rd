@@ -100,4 +100,37 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 1.I attended a Sentient lecture today at the School of Management, Fudan University in Shanghai.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+I’ve set up my workout plan for next week.
+
+**Weekly Fitness Plan**
+
+-   **Monday – Strength Training (Upper Body)**  
+    Focus: Chest, back, shoulders, arms  
+    Exercises: Push-ups, bench press, pull-ups, rows, shoulder press
+    
+-   **Tuesday – Cardio + Core**  
+    30–40 minutes of running, cycling, or swimming  
+    Core: Plank, Russian twists, leg raises
+    
+-   **Wednesday – Strength Training (Lower Body)**  
+    Focus: Legs and glutes  
+    Exercises: Squats, lunges, deadlifts, calf raises
+    
+-   **Thursday – Active Recovery / Flexibility**  
+    Light yoga, stretching, or a 30-minute walk
+    
+-   **Friday – Full Body Strength Training**  
+    Combination of compound lifts (squats, deadlifts, bench press)  
+    Plus functional training (kettlebell swings, burpees)
+    
+-   **Saturday – High-Intensity Interval Training (HIIT)**  
+    20–30 minutes of intervals (sprints, jump squats, mountain climbers)
+    
+-   **Sunday – Rest / Light Activity**  
+    Optional: Easy walk, mobility drills, or foam rolling
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
