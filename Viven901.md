@@ -142,4 +142,16 @@ If these preset expectations come true, breathe a sigh of relief. What if it doe
 
 But it was the same me when I was a child. I spent an afternoon watching the ants move and waiting for the stones to bloom. When I was a child, I didn' t expect the result.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+No matter what you are going through, good or bad, life will continueto move forward.
+
+Sometimes hurt and failure is not necessarily a bad thing, it will make you better,so is loneliness and loss. Everything will turn out to be a good thing in the end, as long as you can go to the end.
+
+Before a certain age, you can rely on overdraft body, small cleverness and God to give you the luck to live all the time. However,after a certain age, what can really make you go far is self-discipline positivity and diligence.
+
+Life is not always as people wish, there is notso much in this world just right, perhaps hard work may not berewarded, but the process ofhard work will certainly make you a better self, we are in this world, what we choose is what we save, the richness of life depends on ourselves, just as what you pay at this moment determines what kind of person you will become in the future.When you can't change the world, you can change yourself.
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
