@@ -137,6 +137,25 @@ Mother tersa, who receveied the nober piece prize for her work on behalf of poor
 
 behalf of = for
 <!-- DAILY_CHECKIN_2025-09-25_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+复习一下前 2 天的
+
+I have come here to Chew bubblegum and kick ass,and i am all out of bubblegum  
+  
+The serect of life is just to live every moment
+
+今天学习的
+
+anthor XXX trader has cost of bank Billions  
+  
+正确的  
+another rouge trader has cost of bank billions (of dollars)  
+  
+rougee trader mean young man, a vey evil man, young man talk he konw everything
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
