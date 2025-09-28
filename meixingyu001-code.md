@@ -95,4 +95,10 @@ section 1 自然地理的单词背诵。
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 看了一篇英文的newsletter
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+newsletter 二号刊
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
