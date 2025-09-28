@@ -2900,4 +2900,88 @@ What if every single person on earth jumped at the exact same time?Could it cuas
 
 A search party of 7-mostly strangers-headed out.When they found Missy, she'd been marooned on the moutain for 8 days. Her paws were all torn up and bloody...She seemed [crippled.It](http://crippled.It) seemed like it was basically over. 一个由7位互不相识的人组成的搜救队出发了。当他们发现Missy的时候，她已经被困8天了。 她的爪子被山石割伤并且流了血，她似乎是瘸了，她的境况也不容乐观。
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+**生词记录：**
+
+-   behave 表现 /ei/ behalf 代表 /æ/
+    
+-   lofty - hash reality and lofty ideals, lofty hope = high hope
+    
+-   Mississippi(MS)
+    
+-   sweep - sweep to victory
+    
+-   identical
+    
+-   muppet puppet
+    
+-   mosquito
+    
+-   tropic - the tropic of/ the tropics
+    
+-   reputedly - supposedly
+    
+-   frantic
+    
+-   scene
+    
+-   zone out
+    
+-   spin up
+    
+-   hyperactive
+    
+-   typhoon
+    
+-   hurricane
+    
+-   batter - be constantly hit
+    
+-   soak - drench in water, completely wet
+    
+-   Philippines
+    
+-   euthanasia
+    
+-   rescue
+    
+-   stray
+    
+-   past one's prime - in one's prime
+    
+-   stick stuck - be in a place and can't leave
+    
+-   ravine
+    
+-   ferris wheel/ sky wheel 摩天轮
+    
+-   ultralight plane 轻型飞机
+    
+-   rural - urban
+    
+-   alleged
+    
+-   prestigious = honorable, famous
+    
+-   prosecuter
+    
+-   Fahrenheit (℉) / Celsius(℃)
+    
+-   flood lights / incandescent lights / fluorescent light / desk lamps / table lamps / flash lights / pen lights
+    
+-   mounds / piles of sth.
+    
+-   debris
+    
+-   hanging yoga
+    
+-   dread - dislike, fear; dread of sth./doing sth.
+    
+-   think of sth. as work
+    
+-   costume
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
