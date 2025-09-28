@@ -104,4 +104,10 @@ wake up、get up、wash、brush、dress、leave、arrive、return、cook、relax
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 I wake up at seven.First,I brush my teeth.Then I eat breakfast with my family.I go to work by bus at eight.I work in an office.I return home at six.I cook dinner with my wife.We watch TV after dinner.Finally,I go to bed at eleven.
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.28
+<!-- DAILY_CHECKIN_2025-09-28_START -->
+happy、sad、tired、excited、angry、hungry、thirsty、cold、hot、fine
+<!-- DAILY_CHECKIN_2025-09-28_END -->
 <!-- Content_END -->
