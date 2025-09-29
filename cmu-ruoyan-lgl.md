@@ -84,4 +84,10 @@ react master 跟读 & 翻译
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 跟读easy english
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+跟读easyEnglish
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
