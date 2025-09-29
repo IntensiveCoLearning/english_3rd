@@ -154,4 +154,14 @@ Before a certain age, you can rely on overdraft body, small cleverness and God t
 
 Life is not always as people wish, there is notso much in this world just right, perhaps hard work may not berewarded, but the process ofhard work will certainly make you a better self, we are in this world, what we choose is what we save, the richness of life depends on ourselves, just as what you pay at this moment determines what kind of person you will become in the future.When you can't change the world, you can change yourself.
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+Many times, we are unhappy because we cannot live in the present, pretend to have too many things on our minds, either worry about the future or regret the past, and many troubles are caused by thinking too much and doing too little.
+
+There is no right choice in this world, but we have done our best to make the original choice right. The real aging of people begins with"appointment".
+
+My favorite attitude towards life is"don't be afraid in the first half of your life, don't regret it in the second half of your life".
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
