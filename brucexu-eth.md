@@ -104,4 +104,10 @@ Listened to some podcasts, and words review.
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 Finished the Phonetics and anki review
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+Started the advanced pronunciation dirlls using the IPA on The Phonetics.
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
