@@ -101,4 +101,12 @@ section 1 自然地理的单词背诵。
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 newsletter 二号刊
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+三页单词  
+惊听英语  
+done
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
