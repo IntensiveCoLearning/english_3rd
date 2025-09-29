@@ -72,4 +72,10 @@ listening
 <!-- DAILY_CHECKIN_2025-09-27_START -->
 sick
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+recite words and sentences
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
