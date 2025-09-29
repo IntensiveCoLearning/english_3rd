@@ -181,6 +181,18 @@ something that's -> sump'n nass
 
 needing to be done -> needn d' be done
 <!-- DAILY_CHECKIN_2025-09-27_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+DD120
+
+Well, I guess I should remind you, if you're breaking freaking out right now that this hasn’t happened yet.
+
+freaking out:
+
+Really worried, getting scared
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
 ## 写：
 
