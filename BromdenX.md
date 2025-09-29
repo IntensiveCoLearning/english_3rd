@@ -112,4 +112,10 @@ For those of you who are still using Intel MacBook Pros in 2025 — how has the 
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 I downloaded an English-English-Chinese dictionary - Eudic to practice my English thinking
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+I have a Tesla Model Y. I use it for daily commuting and occacsionally traveling. What bothers me now is that i see the North American version updated every day,but there is no movement in China.
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
