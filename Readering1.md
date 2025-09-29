@@ -362,4 +362,33 @@ In holidays, **some people** prefer staying at home, **while others** choose to
 
 有的人在悬挂横幅，而其他人在把地图摆放整齐。**（两方分工）**
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+**In addition to** learning how to perform various mathematical operations, **除……以外**
+
+**students discover 主句的主语和谓语**
+
+**why** these operations work, **why从句关系词断开**
+
+**how** a particular mathematical topic relates to other branches of mathematics, **how从句关系词断开**
+
+**and how** these operations can be used practically. **and how连词关系词断开**
+
+拆分完以后，这个句子的整体结构实际上就已经出现了。
+
+**In addition to ……, students discover why ……, how ……, and how ……**
+
+**除了……以外，学生发现为什么……，如何……，以及如何……**  
+  
+  
+**In addition to appreciating famous paintings, you will have a great chance to learn the development of various painting styles, understand the traditional painting techniques, and try to paint with our own hands.**
+
+**除了欣赏著名画作以外，你会有机会了解不同绘画风格的发展，了解传统的绘画技法，并且亲手尝试绘画。**
+
+**In addtion to giving us regular classes, the teacher also cares about whether we understand the basics of the knowledge, whether we meet some unexpected questions, and whether we have the confidence to continue our study.**
+
+**除了给我们常规上课以外，老师还关注我们是否理解了知识的基础，我们是否遇到意想不到的问题，以及我们是否有信心继续学习。**
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
