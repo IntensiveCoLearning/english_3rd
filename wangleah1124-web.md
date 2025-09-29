@@ -367,4 +367,23 @@ An alleged SAT cheating scandal has been uncovered at a Prestigious Long Island 
 Sam Rois takes the worlds the is opened on a cool night .it was 49 degrees at the start of the game .  
 St Louis takes the world series opener on a cool night .it was 49 degrees at the start of the game .
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+new worlds :  
+**alleged** : supposed ,no prove ,think  
+**scandal** :event situation  
+**prestigious** :very important, long history  
+**accused (指控）/prosecuter（检查官）**
+
+**24 farenheit/celcius**  
+Sam louis takes a world but is opened **on a cool night .It was 49 degrees to start of the game.**  
+**Answer:**  
+St Louis takes the world Series opener on a cool night .It was 49 degrees at the start of the game.
+
+25 **catastrophe generator -powered**  
+In search of miss throsfer night under geenorable power of their lives has been remenber waiting by the some in tears .  
+The answer :They searched for the missing throughout the night under generator- powered flood lights as family members waited by the mounds of debris - some in tears .
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
