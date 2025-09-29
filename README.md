@@ -195,7 +195,7 @@ Telegram：https://t.me/LXDAO/6912
 | [nanakodesuu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/nanakodesuu.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/english_3rd/blob/main/pillowtalk-Qy.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | |
 | [BiscuitCoder](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BiscuitCoder.md) | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ❌ | | | | | | | | |
-| [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ |   | | | | | | | |
+| [EchoZheng2333](https://github.com/IntensiveCoLearning/english_3rd/blob/main/EchoZheng2333.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | | | | | | | |
 | [Arden-D](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Arden-D.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [huaigu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/huaigu.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/english_3rd/blob/main/meixingyu001-code.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | | | | | | | |
@@ -283,6 +283,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ❌ | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
