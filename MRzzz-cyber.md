@@ -156,6 +156,14 @@ another rouge trader has cost of bank billions (of dollars)
   
 rougee trader mean young man, a vey evil man, young man talk he konw everything
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+到现在开始学习，有点感冒，先复习下昨天的
+
+another rouge trader had cost a bank billons
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
