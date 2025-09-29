@@ -114,4 +114,12 @@ also I listen to a English vedio.
     
 -   I learn more about the trading in previous communication
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+-   listen to podcast in xiaoyuzhou
+    
+-   read articles about Aster and Hyperliquid and explain what are them, why whales like Hyperliquid to transacte
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
