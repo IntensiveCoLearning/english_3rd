@@ -14,6 +14,252 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
+# 2025-09-29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+## What are Aster and Hyperliquid?
+
+### Hyperliquid
+
+-   Hyperliquid is a **decentralized perpetual futures DEX** built to handle high-throughput trading with on-chain order books. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+-   It operates its own high-performance blockchain (HyperEVM) and leverages a proprietary consensus (HyperBFT) to enable fast execution, low latency, and high transaction capacity. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+-   It supports features like **leverage trading (up to 40× or more)**, multiple order types (market, limit, stop, etc.), vaults for liquidity provisioning, and yield opportunities for liquidity providers. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+-   It emphasizes on-chain transparency and permissionless trading (no favoritism of market makers). [OKX+1](https://www.okx.com/en-us/learn/white-whale-hyperliquid-strategic-trading?utm_source=chatgpt.com)
+    
+
+* * *
+
+### Aster
+
+-   Aster is another **decentralized perpetual & derivatives DEX**, offering both spot and perpetual trading of crypto + stock derivatives, with **up to 1001× leverage** in certain modes. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+-   It supports **multi-chain trading** (BNB Chain, Solana, Ethereum, Arbitrum) so users can trade across different blockchains seamlessly. [CoinGecko+2Astherus+2](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+-   One of Aster’s unique features is **“Hidden Orders”**: limit orders whose size and direction are hidden from the public order book, which helps protect large traders from front-running and MEV attacks. [Astherus+2CoinGecko+2](https://www.asterdex.com/?utm_source=chatgpt.com)
+    
+-   They also use a dual interface / trading modes (“Simple” / “Pro”) to appeal both to retail and professional users. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+
+* * *
+
+## What can they do?
+
+Both platforms aim to enable:
+
+-   **Perpetual derivatives trading** in a decentralized, non-custodial manner
+    
+-   **High leverage** trading (Aster up to 1001×, Hyperliquid up to ~40× or more)
+    
+-   **Order book style trading** (rather than just AMM-based perpetuals) with advanced order types
+    
+-   **Liquidity provision / vault systems** so users can supply capital and earn yield
+    
+-   **Cross-chain trading (in Aster’s case)** to reduce friction of moving assets
+    
+-   **Defensive features** like hidden orders (in Aster) or transparent execution that is argued to help liquidity in Hyperliquid’s case [Medium+2BloFin+2](https://hyperfnd.medium.com/why-transparent-trading-improves-execution-for-whales-270a077daa33?utm_source=chatgpt.com)
+    
+
+* * *
+
+## Why do whales favor Hyperliquid?
+
+Several reasons are frequently cited:
+
+1.  **High leverage & large order capacity**  
+    Whales like to trade with scale and leverage. Hyperliquid offers leverage up to 40× or even more, making it attractive for big bets. [BeInCrypto+2BloFin+2](https://beincrypto.com/whales-boost-hyperliquid-perps-market/?utm_source=chatgpt.com)
+    
+2.  **Ultra-fast execution & low latency**  
+    Their underlying chain and consensus design (HyperBFT) yield fast block times and reduced latency, which is crucial for large trades. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+3.  **Low transaction fees**  
+    Because cost drag is more impactful at large volumes, lower fees help reduce slippage and cost overhead. [BeInCrypto+1](https://beincrypto.com/whales-boost-hyperliquid-perps-market/?utm_source=chatgpt.com)
+    
+4.  **Transparent public order book + execution**  
+    Some argue that by trading transparently on Hyperliquid, whales allow market makers to see their order flow and provide liquidity proactively, yielding better execution than trying to hide. [Medium](https://hyperfnd.medium.com/why-transparent-trading-improves-execution-for-whales-270a077daa33?utm_source=chatgpt.com)
+    
+    -   In a Medium post, it is argued that transparent execution gives market makers opportunity to align with large flows, improving execution for whales. [Medium](https://hyperfnd.medium.com/why-transparent-trading-improves-execution-for-whales-270a077daa33?utm_source=chatgpt.com)
+        
+5.  **Deep liquidity / market share dominance**  
+    Hyperliquid commands a large share of the perpetuals DEX volume (some argue up to ~60% of perps market) which helps reduce slippage and make large trades more viable. [BeInCrypto+1](https://beincrypto.com/whales-boost-hyperliquid-perps-market/?utm_source=chatgpt.com)
+    
+
+* * *
+
+## Why has Aster’s value (or activity) surged? What are Aster’s advantages?
+
+Aster has seen rapid adoption and price appreciation. Some reported metrics:
+
+-   It has climbed to the top spot among perpetual DEXs in terms of daily fees and volume. [TradingView+1](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+-   It reportedly logged daily volumes in the tens of billions, surpassing Hyperliquid in certain days. [TradingView+1](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+-   ASTER’s token surged over 1,500% after launch, per CoinGecko’s guide. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+-   It reportedly out-earned and outperformed some major players, even surpassing Tether in daily revenue in some reports. [Crypto Economy](https://crypto-economy.com/aster-surpasses-tether-in-daily-revenue-stuns-crypto-market/?utm_source=chatgpt.com)
+    
+
+### Advantages / Differentiators of Aster
+
+1.  **Hidden Orders / MEV resistance**  
+    The ability to place orders that are invisible to the public order book helps large traders avoid being front-run or exploited by MEV bots.
+    
+2.  **High leverage & aggressive product design**  
+    Their support for extremely high leverage in some modes attracts speculative capital.
+    
+3.  **Multichain support**  
+    Users can trade across chains without needing to bridge or switch networks, reducing friction.
+    
+4.  **“Trade & Earn” model / yield on collateral**  
+    Aster allows yield-bearing collateral, meaning your collateral can earn passive yield while being used for trading. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+5.  **Strong backing / ecosystem support**  
+    It has backing from YZi Labs (Binance-linked) and public endorsements (e.g. from Binance founder CZ), which lends trust and attracts attention. [Crypto Economy+3TradingView+3CoinGecko+3](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+6.  **Aggressive fee generation / revenue**  
+    It is generating high fees relative to competitors, signaling real economic activity and not just speculative hype. [TradingView](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+
+* * *
+
+## Risks / Considerations
+
+-   High leverage = high risk of liquidation cascades
+    
+-   Low-cap pairs might see manipulation and volatility
+    
+-   Transparency vs privacy trade-offs
+    
+-   Underlying decentralization / validator setup risks
+    
+-   Regulatory uncertainty
+<!-- DAILY_CHECKIN_2025-09-29_END -->
+<!-- Content_END -->
+## What are Aster and Hyperliquid?
+
+### Hyperliquid
+
+-   Hyperliquid is a **decentralized perpetual futures DEX** built to handle high-throughput trading with on-chain order books. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+-   It operates its own high-performance blockchain (HyperEVM) and leverages a proprietary consensus (HyperBFT) to enable fast execution, low latency, and high transaction capacity. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+-   It supports features like **leverage trading (up to 40× or more)**, multiple order types (market, limit, stop, etc.), vaults for liquidity provisioning, and yield opportunities for liquidity providers. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+-   It emphasizes on-chain transparency and permissionless trading (no favoritism of market makers). [OKX+1](https://www.okx.com/en-us/learn/white-whale-hyperliquid-strategic-trading?utm_source=chatgpt.com)
+    
+
+* * *
+
+### Aster
+
+-   Aster is another **decentralized perpetual & derivatives DEX**, offering both spot and perpetual trading of crypto + stock derivatives, with **up to 1001× leverage** in certain modes. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+-   It supports **multi-chain trading** (BNB Chain, Solana, Ethereum, Arbitrum) so users can trade across different blockchains seamlessly. [CoinGecko+2Astherus+2](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+-   One of Aster’s unique features is **“Hidden Orders”**: limit orders whose size and direction are hidden from the public order book, which helps protect large traders from front-running and MEV attacks. [Astherus+2CoinGecko+2](https://www.asterdex.com/?utm_source=chatgpt.com)
+    
+-   They also use a dual interface / trading modes (“Simple” / “Pro”) to appeal both to retail and professional users. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+
+* * *
+
+## What can they do?
+
+Both platforms aim to enable:
+
+-   **Perpetual derivatives trading** in a decentralized, non-custodial manner
+    
+-   **High leverage** trading (Aster up to 1001×, Hyperliquid up to ~40× or more)
+    
+-   **Order book style trading** (rather than just AMM-based perpetuals) with advanced order types
+    
+-   **Liquidity provision / vault systems** so users can supply capital and earn yield
+    
+-   **Cross-chain trading (in Aster’s case)** to reduce friction of moving assets
+    
+-   **Defensive features** like hidden orders (in Aster) or transparent execution that is argued to help liquidity in Hyperliquid’s case [Medium+2BloFin+2](https://hyperfnd.medium.com/why-transparent-trading-improves-execution-for-whales-270a077daa33?utm_source=chatgpt.com)
+    
+
+* * *
+
+## Why do whales favor Hyperliquid?
+
+Several reasons are frequently cited:
+
+1.  **High leverage & large order capacity**  
+    Whales like to trade with scale and leverage. Hyperliquid offers leverage up to 40× or even more, making it attractive for big bets. [BeInCrypto+2BloFin+2](https://beincrypto.com/whales-boost-hyperliquid-perps-market/?utm_source=chatgpt.com)
+    
+2.  **Ultra-fast execution & low latency**  
+    Their underlying chain and consensus design (HyperBFT) yield fast block times and reduced latency, which is crucial for large trades. [BloFin](https://blofin.com/academy/blofin-courses/what-is-hyperliquid-benefits-and-risks?utm_source=chatgpt.com)
+    
+3.  **Low transaction fees**  
+    Because cost drag is more impactful at large volumes, lower fees help reduce slippage and cost overhead. [BeInCrypto+1](https://beincrypto.com/whales-boost-hyperliquid-perps-market/?utm_source=chatgpt.com)
+    
+4.  **Transparent public order book + execution**  
+    Some argue that by trading transparently on Hyperliquid, whales allow market makers to see their order flow and provide liquidity proactively, yielding better execution than trying to hide. [Medium](https://hyperfnd.medium.com/why-transparent-trading-improves-execution-for-whales-270a077daa33?utm_source=chatgpt.com)
+    
+    -   In a Medium post, it is argued that transparent execution gives market makers opportunity to align with large flows, improving execution for whales. [Medium](https://hyperfnd.medium.com/why-transparent-trading-improves-execution-for-whales-270a077daa33?utm_source=chatgpt.com)
+        
+5.  **Deep liquidity / market share dominance**  
+    Hyperliquid commands a large share of the perpetuals DEX volume (some argue up to ~60% of perps market) which helps reduce slippage and make large trades more viable. [BeInCrypto+1](https://beincrypto.com/whales-boost-hyperliquid-perps-market/?utm_source=chatgpt.com)
+    
+
+* * *
+
+## Why has Aster’s value (or activity) surged? What are Aster’s advantages?
+
+Aster has seen rapid adoption and price appreciation. Some reported metrics:
+
+-   It has climbed to the top spot among perpetual DEXs in terms of daily fees and volume. [TradingView+1](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+-   It reportedly logged daily volumes in the tens of billions, surpassing Hyperliquid in certain days. [TradingView+1](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+-   ASTER’s token surged over 1,500% after launch, per CoinGecko’s guide. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+-   It reportedly out-earned and outperformed some major players, even surpassing Tether in daily revenue in some reports. [Crypto Economy](https://crypto-economy.com/aster-surpasses-tether-in-daily-revenue-stuns-crypto-market/?utm_source=chatgpt.com)
+    
+
+### Advantages / Differentiators of Aster
+
+1.  **Hidden Orders / MEV resistance**  
+    The ability to place orders that are invisible to the public order book helps large traders avoid being front-run or exploited by MEV bots.
+    
+2.  **High leverage & aggressive product design**  
+    Their support for extremely high leverage in some modes attracts speculative capital.
+    
+3.  **Multichain support**  
+    Users can trade across chains without needing to bridge or switch networks, reducing friction.
+    
+4.  **“Trade & Earn” model / yield on collateral**  
+    Aster allows yield-bearing collateral, meaning your collateral can earn passive yield while being used for trading. [CoinGecko](https://www.coingecko.com/learn/what-is-aster-crypto-decentralized-perpetuals-exchange?utm_source=chatgpt.com)
+    
+5.  **Strong backing / ecosystem support**  
+    It has backing from YZi Labs (Binance-linked) and public endorsements (e.g. from Binance founder CZ), which lends trust and attracts attention. [Crypto Economy+3TradingView+3CoinGecko+3](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+6.  **Aggressive fee generation / revenue**  
+    It is generating high fees relative to competitors, signaling real economic activity and not just speculative hype. [TradingView](https://www.tradingview.com/news/the_block%3A551781bdd094b%3A0-aster-climbs-to-first-spot-for-daily-fees-among-perpetual-dexs/?utm_source=chatgpt.com)
+    
+
+* * *
+
+## Risks / Considerations
+
+-   High leverage = high risk of liquidation cascades
+    
+-   Low-cap pairs might see manipulation and volatility
+    
+-   Transparency vs privacy trade-offs
+    
+-   Underlying decentralization / validator setup risks
+    
+-   Regulatory uncertainty
+<!-- DAILY_CHECKIN_2025-09-29_END -->
+
 # 2025-09-24
 <!-- DAILY_CHECKIN_2025-09-24_START -->
 # What is a Typhoon?
