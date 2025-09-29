@@ -120,6 +120,6 @@ Reviewed the meeting footages and obtained some new knowledge regarding Ethereum
 
 # 2025.09.29
 <!-- DAILY_CHECKIN_2025-09-29_START -->
-**Placeholder for today ...**
+Nothing related to English today... I checked the meeting minutes and took some rest for tomorrow's tour.
 <!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
