@@ -176,4 +176,14 @@ Vince 雅思课程 两节 70min
 
 （讨厌国庆调休）
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+闪卡400张
+
+雅思part1 9集
+
+听力3集
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
