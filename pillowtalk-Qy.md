@@ -133,4 +133,10 @@ I’ve set up my workout plan for next week.
 -   **Sunday – Rest / Light Activity**  
     Optional: Easy walk, mobility drills, or foam rolling
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+1.I listened to a lot of blogs about web3 on Xiaoyuzhou today, which made me more determined to devote myself to web3.
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
