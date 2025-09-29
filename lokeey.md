@@ -110,4 +110,10 @@ I wake up at seven.First,I brush my teeth.Then I eat breakfast with my family.I 
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 happy、sad、tired、excited、angry、hungry、thirsty、cold、hot、fine
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+tall、short、thin、strong、beautiful、handsome、kind、friendly、smart、funny
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
