@@ -114,4 +114,12 @@ Tonight,I watch three classes of Daily English Dictation.
 
 the linking of "is the" in the recording sounds like "she the",but the teacher reads sounds right.
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.29
+<!-- DAILY_CHECKIN_2025-09-29_START -->
+Tonight,the setence of Daily English Dictation is difficult for me.I've listened to it many times
+
+**A satelite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to Earth,but nobody knows where the debris will hit.**
+<!-- DAILY_CHECKIN_2025-09-29_END -->
 <!-- Content_END -->
