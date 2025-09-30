@@ -162,7 +162,7 @@ Telegram：https://t.me/LXDAO/6912
 <!-- START_COMMIT_TABLE -->
 | Name | 9.15 | 9.16 | 9.17 | 9.18 | 9.19 | 9.20 | 9.21 | 9.22 | 9.23 | 9.24 | 9.25 | 9.26 | 9.27 | 9.28 | 9.29 | 9.30 | 10.01 | 10.02 | 10.03 | 10.04 | 10.05 | 10.06 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [B1u-e](https://github.com/IntensiveCoLearning/english_3rd/blob/main/B1u-e.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |   | | | | | | |
+| [B1u-e](https://github.com/IntensiveCoLearning/english_3rd/blob/main/B1u-e.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | | | | | | |
 | [brucexu-eth](https://github.com/IntensiveCoLearning/english_3rd/blob/main/brucexu-eth.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | |
 | [slucifersz](https://github.com/IntensiveCoLearning/english_3rd/blob/main/slucifersz.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [tikpen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/tikpen.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | |
@@ -283,6 +283,7 @@ Telegram：https://t.me/LXDAO/6912
 | [Aoyama-07](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Aoyama-07.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ❌ | | | | | | | | |
 | [Karrie-luo](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Karrie-luo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
