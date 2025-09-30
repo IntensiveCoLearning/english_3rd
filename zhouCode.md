@@ -193,6 +193,16 @@ freaking out:
 
 Really worried, getting scared
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+DD121
+
+Hey! **How come** you’re wearing a hat? I come to you where the hat. I got a haircut. Oh yeah? Can I see it? There’s nothing to see. Come on, let me see it. Forget it! Come on! Alright.
+
+How come = What are you .... for? = Why are you ...
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
 ## 写：
 
