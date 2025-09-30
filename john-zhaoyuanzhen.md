@@ -122,4 +122,10 @@ Reviewed the meeting footages and obtained some new knowledge regarding Ethereum
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 Nothing related to English today... I checked the meeting minutes and took some rest for tomorrow's tour.
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Walked for about 25,000 steps today in Yangzhou.
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
