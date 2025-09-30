@@ -386,4 +386,29 @@ St Louis takes the world Series opener on a cool night .It was 49 degrees at the
 In search of miss throsfer night under geenorable power of their lives has been remenber waiting by the some in tears .  
 The answer :They searched for the missing throughout the night under generator- powered flood lights as family members waited by the mounds of debris - some in tears .
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Dictation
+
+**26 exercise regimes lift weight exercise dread means you don’t look forward to .**  
+It is the kind of thing you look forward to instead of ,your know some workouts you dread and you think of it as work and this is just fun.
+
+**27 Halloween tick or treat**
+
+super heros cartoons as usual as big this year espersurely from the some movies like soul world and the green lanturm.  
+Superhero costumes as usual ,are big this year especially from recent movies like Thor and the Green Lantern.
+
+**28 snow storm connecticut power lines electricity**
+
+**i**t is a pain cause my fridge is identy today then foods gone .  
+**i**t is a pain cause my fridge is I dumped it today and the food's gone .
+
+**29\. pilot Poland jet hero modest landing gear** fellow=work together in the same company .
+
+It as simply is going by the book , who comes to landing without a wheei,and these double pilots train for this type of incidens .
+
+He says he was simply going by the book , when it comes to landing without a gear ,and that he and his fellow pilots train for these type of incidents .
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
