@@ -118,4 +118,16 @@ I downloaded an English-English-Chinese dictionary - Eudic to practice my Englis
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 I have a Tesla Model Y. I use it for daily commuting and occacsionally traveling. What bothers me now is that i see the North American version updated every day,but there is no movement in China.
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+**I tried using medium and found that it still has a lot of stories.Its positioning is very clear.**
+
+Medium is a home for human stories and ideas. Here, anyone can share knowledge and wisdom with the world—without having to build a mailing list or a following first.
+
+**The value is particularly clear**
+
+The internet is noisy and chaotic; Medium is quiet yet full of insight. It’s simple, beautiful, collaborative, and helps you find the right readers for whatever you have to say.
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
