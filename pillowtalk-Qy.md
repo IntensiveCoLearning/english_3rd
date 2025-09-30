@@ -139,4 +139,10 @@ I’ve set up my workout plan for next week.
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 1.I listened to a lot of blogs about web3 on Xiaoyuzhou today, which made me more determined to devote myself to web3.
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+1.Did nothing today, took a day off.
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
