@@ -109,4 +109,10 @@ newsletter 二号刊
 惊听英语  
 done
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+新的英语单词done
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
