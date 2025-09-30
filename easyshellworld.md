@@ -94,4 +94,10 @@ Today I didn’t make much progress in my studies. I spent the afternoon reading
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 Today I didn’t study any new English words. Instead, I read a short piece about the history of money. It reminded me of the 1970s, when the Bretton Woods system collapsed and major currencies began to float freely. The shift away from fixed exchange rates created both uncertainty and opportunity in global trade. I realized that changes in monetary policy are not just technical—they can reshape entire economies and people’s daily lives.
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Today I didn’t spend time on vocabulary practice. Instead, I read about the Plaza Accord of 1985. At that time, the United States, Japan, Germany, France, and the United Kingdom agreed to coordinate their policies to weaken the U.S. dollar. The goal was to reduce trade imbalances, but the decision also led to rapid currency shifts and major effects on global markets. It showed me how international cooperation in monetary policy can change the direction of economies.
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
