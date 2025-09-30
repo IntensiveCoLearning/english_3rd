@@ -90,4 +90,10 @@ react master 跟读 & 翻译
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 跟读easyEnglish
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+看小王子英语书
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
