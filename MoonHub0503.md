@@ -20,6 +20,101 @@ timezone: UTC+8
 
 # 2025.09.29
 <!-- DAILY_CHECKIN_2025-09-29_START -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Here is a comprehensive introduction to Aster (ASTER), a decentralized perpetual exchange that has gained significant attention in the Web3 space since its launch in 2025.
+
+### **⚡ What is Aster (ASTER)?**
+
+Aster is a **decentralized perpetual exchange (Perp DEX)** where you can trade spot and derivative contracts, like perpetual futures, with high leverage of up to **1001x** .
+
+It was formed in late 2024 through a strategic merger between **Astherus**, a yield-focused protocol, and **APX Finance**, a perpetual trading protocol . The goal was to combine yield-generating products with a powerful trading infrastructure to create a unified, on-chain trading experience . The platform is multi-chain, supporting **BNB Chain, Ethereum, Solana, and Arbitrum** .
+
+### **🔥 Why Aster is Gaining Attention**
+
+Aster has quickly become one of the most talked-about DeFi projects of 2025 for several key reasons:
+
+-   **Explosive Token Performance**: Its native token, **$ASTER**, launched on September 17, 2025, in a "Token Generation Event (TGE)" . The price surged over 2,700% in its first week, drawing massive attention from the crypto community .
+    
+-   **High-Profile Backing**: The project is backed by **YZi Labs** and received a public endorsement from **CZ (Changpeng Zhao)**, the founder of Binance, shortly after its launch, which fueled its initial growth .
+    
+-   **Competitive Position**: Aster is positioned as a strong competitor to established Perp DEXs like **Hyperliquid** . It has occasionally surpassed Hyperliquid in daily revenue, signaling its rapid adoption .
+    
+
+### **💡 Core Features and How It Works**
+
+Aster differentiates itself with a suite of innovative trading features and modes designed for different types of traders.
+
+-   **Dual Trading Modes**:
+    
+    -   **Pro Mode**: Offers a full order book interface for advanced traders, supporting features like grid trading and hidden orders . It has a maker fee of 0.01% and a taker fee of 0.035% .
+        
+    -   **Simplified Mode (1001x Mode)**: A one-click, MEV-resistant trading interface designed for ease of use and high leverage .
+        
+-   **Innovative Financial Products**:
+    
+    -   **Yield-Generating Collateral**: A standout feature allows you to use yield-bearing assets like **asBNB** (a liquid staking derivative) and **USDF** (Aster's own yield-bearing stablecoin) as trading collateral. This means your collateral isn't idle but continues to earn yield while backing your positions .
+        
+    -   **Stock Perpetuals**: The platform offers perpetual contracts for major stocks (like AAPL and TSLA), allowing for 24/7 trading of traditional equity derivatives .
+        
+-   **Privacy and Protection**:
+    
+    -   **Hidden Orders**: This feature allows large orders to be placed without being visible on the public order book, protecting traders from front-running and minimizing market impact .
+        
+    -   **MEV-Resistance**: The platform incorporates MEV-aware routing to protect users from predatory trading practices .
+        
+
+### **🪙 The ASTER Token: Utility and Economics**
+
+The $ASTER token is the central element of the Aster ecosystem.
+
+-   **Total Supply**: The maximum supply is capped at **8 billion ASTER** tokens .
+    
+-   **Token Utility**:
+    
+    -   **Governance**: Holders can participate in protocol decisions .
+        
+    -   **Fee Discounts**: Using ASTER for trading fees can provide discounts .
+        
+    -   **Staking Rewards**: Users can stake ASTER to earn a share of the protocol's revenue and other rewards .
+        
+    -   **Loyalty Bonuses**: The ecosystem rewards active traders and loyal community members .
+        
+-   **Token Distribution** :
+    
+    -   **Airdrop**: 53.5% (Community rewards)
+        
+    -   **Ecosystem & Community**: 30%
+        
+    -   **Treasury**: 7%
+        
+    -   **Team**: 5% (with a 1-year cliff and 40-month vesting)
+        
+    -   **Liquidity & Listings**: 4.5%
+        
+
+### **🗺️ Future Roadmap and Vision**
+
+Aster's development plan includes ambitious upgrades to solidify its position in the DeFi landscape. A key initiative is the development of its own **Layer 1 blockchain, called "Aster Chain"** . This dedicated chain is expected to be optimized for derivatives trading, with a strong emphasis on performance and integrating **Zero-Knowledge Proofs (ZKPs)** to enhance trade privacy .
+
+### **⚠️ Potential Risks to Consider**
+
+While innovative, engaging with Aster involves certain risks common to the DeFi space:
+
+-   **High Leverage Risk**: Trading with up to 1001x leverage can lead to the rapid liquidation of your positions, even with small price movements .
+    
+-   **Market Volatility**: As a new token, $ASTER is subject to high price volatility, which can be influenced by market sentiment and upcoming token unlocks .
+    
+-   **Smart Contract Risk**: Like any DeFi protocol, Aster is potentially vulnerable to smart contract bugs or exploits .
+    
+-   **Regulatory Uncertainty**: The regulatory landscape for decentralized derivatives and high-leverage trading is still evolving and could impact the platform .
+    
+
+In summary, Aster is a multifaceted Perp DEX that combines high-leverage trading, yield generation, and privacy features. Its strong backing and rapid growth make it a significant project in the 2025 Web3 ecosystem, though it's essential to be aware of the associated risks.
+<!-- DAILY_CHECKIN_2025-09-30_END -->
+<!-- Content_END -->
 ## What are Aster and Hyperliquid?
 
 ### Hyperliquid
