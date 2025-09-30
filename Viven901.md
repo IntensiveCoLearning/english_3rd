@@ -164,4 +164,16 @@ There is no right choice in this world, but we have done our best to make the or
 
 My favorite attitude towards life is"don't be afraid in the first half of your life, don't regret it in the second half of your life".
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Although the road is far, the line will come.
+
+Although things are difficult, do can be a small step or even thousands of miles, not a small stream into a long river, there will be a turn.
+
+Bitter aftertaste, there will be back to the world events, will be done in the fine.
+
+The world is difficult, will become easy not through a cold to the bone, how to get the fragrance of plum blossom.
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
