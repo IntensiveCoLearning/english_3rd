@@ -426,4 +426,12 @@ No English was learned today, no speaking was practiced.
 
 I am learning the basics of Sui and Move development, and have written three tutorial documents.
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+I like watching this kind of video very much recently,especially when I am eating. hhhhh
+
+Link:[https://youtu.be/52t241OQ7Ec?si=g9nnVbbiN3eluCgc](https://youtu.be/52t241OQ7Ec?si=g9nnVbbiN3eluCgc)
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
