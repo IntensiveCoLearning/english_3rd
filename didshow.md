@@ -122,4 +122,12 @@ also I listen to a English vedio.
     
 -   read articles about Aster and Hyperliquid and explain what are them, why whales like Hyperliquid to transacte
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+-   hold a aster and hyperliquid topic meeting
+    
+-   listen to podcast in xiaoyuzhou
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
