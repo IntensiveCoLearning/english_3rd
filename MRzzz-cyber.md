@@ -164,6 +164,23 @@ rougee trader mean young man, a vey evil man, young man talk he konw everything
 
 another rouge trader had cost a bank billons
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+今天学习新的听力
+
+piercings  
+  
+拼写  
+jery rolf XXX most of pircings,she has got 453
+
+正确的
+
+German, Rolf buchholz, is the man with the most piercings, he's got 453  
+  
+piercings - 穿孔
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
