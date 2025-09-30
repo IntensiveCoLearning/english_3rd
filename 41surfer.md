@@ -214,4 +214,16 @@ too busy to learn about new things
 <!-- DAILY_CHECKIN_2025-09-28_START -->
 today is a busy day ,did not learn english
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Tonight we talk about the Perpetual Dex of Aster and Hyperliquid,What are they?
+
+What can they do?
+
+Why so many whales choose hyperliquid to do their transaction?
+
+Why aster has risen so many? what's advantages of Aster?
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
