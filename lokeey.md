@@ -116,4 +116,12 @@ happy、sad、tired、excited、angry、hungry、thirsty、cold、hot、fine
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 tall、short、thin、strong、beautiful、handsome、kind、friendly、smart、funny
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+house、apartment、room、kitchen、bedroom、living room、table、chair、bed、bathroom
+
+/
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
