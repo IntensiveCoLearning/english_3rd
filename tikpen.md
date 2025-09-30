@@ -122,4 +122,18 @@ Tonight,the setence of Daily English Dictation is difficult for me.I've listened
 
 **A satelite that was carried to space aboard the shuttle discovery 20 years ago is about to fall to Earth,but nobody knows where the debris will hit.**
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.09.30
+<!-- DAILY_CHECKIN_2025-09-30_START -->
+Tonight we talk about the Perpetual Dex of Aster and Hyperliquid,
+
+What are they?
+
+What can they do?
+
+Why so many whales choose hyperliquid to do their transaction?
+
+Why aster has risen so many? what's advantages of Aster?
+<!-- DAILY_CHECKIN_2025-09-30_END -->
 <!-- Content_END -->
