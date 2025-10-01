@@ -2984,4 +2984,86 @@ A search party of 7-mostly strangers-headed out.When they found Missy, she'd bee
     
 -   costume
 <!-- DAILY_CHECKIN_2025-09-28_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+-   behave 表现 /ei/ behalf 代表 /æ/
+    
+-   lofty - hash reality and lofty ideals, lofty hope = high hope
+    
+-   Mississippi(MS)
+    
+-   sweep - sweep to victory
+    
+-   identical
+    
+-   muppet puppet
+    
+-   mosquito
+    
+-   tropic - the tropic of/ the tropics
+    
+-   reputedly - supposedly
+    
+-   frantic
+    
+-   scene
+    
+-   zone out
+    
+-   spin up
+    
+-   hyperactive
+    
+-   typhoon
+    
+-   hurricane
+    
+-   batter - be constantly hit
+    
+-   soak - drench in water, completely wet
+    
+-   Philippines
+    
+-   euthanasia
+    
+-   rescue
+    
+-   stray
+    
+-   past one's prime - in one's prime
+    
+-   stick stuck - be in a place and can't leave
+    
+-   ravine
+    
+-   ferris wheel/ sky wheel 摩天轮
+    
+-   ultralight plane 轻型飞机
+    
+-   rural - urban
+    
+-   alleged
+    
+-   prestigious = honorable, famous
+    
+-   prosecuter
+    
+-   Fahrenheit (℉) / Celsius(℃)
+    
+-   flood lights / incandescent lights / fluorescent light / desk lamps / table lamps / flash lights / pen lights
+    
+-   mounds / piles of sth.
+    
+-   debris
+    
+-   hanging yoga
+    
+-   dread - dislike, fear; dread of sth./doing sth.
+    
+-   think of sth. as work
+    
+-   costume
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
