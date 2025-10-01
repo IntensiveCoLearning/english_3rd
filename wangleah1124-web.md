@@ -411,4 +411,21 @@ It as simply is going by the book , who comes to landing without a wheei,and the
 
 He says he was simply going by the book , when it comes to landing without a gear ,and that he and his fellow pilots train for these type of incidents .
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+30  
+He says he was simply going by the book ,when it comes to landing without the gear, and that he and his fellow pilots train for these types of this incidents .
+
+31 broccoli  
+It is the vegetables some love and hate ,but now I new belive a broccoli super broccoli the developed great may tap against hard deasise even some kinds of cancer .  
+Answer :It is the vegetables some love to hate ! But now I new breed of a broccoli super broccoli , developed in Britain may protect against heard disease --even some kinds of cancer .
+
+  
+32 ows: Occupy Wall Street Oakland ,California ,citing :state the reason of  
+Mayor thought of the camp should be shut down Saturday, sighting on healthy conditions and the attractional adrop the else sciease
+
+Mayor Sam Adams ordered that the camp should be shut down Saturday, citing unhealthy conditions and the attraction of drug dealers and thieves .
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
