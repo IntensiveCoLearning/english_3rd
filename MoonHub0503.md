@@ -14,6 +14,443 @@ timezone: UTC+8
 
 ## Notes
 <!-- Content_START -->
+# 2025-10-01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+# What is Aster?
+
+**Aster** is a decentralized derivatives exchange focused on **perpetual futures** (perps). It runs a non-custodial trading stack with an **order-book style** interface (vs pure AMM perps) and aims for **low latency, deep liquidity, and pro-grade tooling**. Its positioning is “CEX-like experience, DEX trust model.”
+
+* * *
+
+# Core Value Proposition
+
+-   **Trade perp futures permissionlessly** with self-custody.
+    
+-   **Professional tooling** (advanced order types, risk controls) in a Web3 wallet flow.
+    
+-   **Execution privacy options** to reduce MEV/front-running on large clips.
+    
+-   **Capital efficiency** via cross-margin/portfolio margin and yield-bearing collateral (where supported).
+    
+
+* * *
+
+# Architecture at a Glance
+
+-   **Frontend & Wallets:** Web app + common EVM wallets (and selected non-EVM via connectors/bridges).
+    
+-   **Matching/Execution:** On-chain or hybrid order-book settlement with oracle pricing; supports **limit / market / stop / reduce-only / post-only** and often **GTC/IOC** time-in-force.
+    
+-   **Risk Engine:** Cross-/isolated-margin, tiered maintenance margin; auto-deleverage & insurance fund for tail events.
+    
+-   **Oracles:** Multiple data feeds (crypto majors; some platforms also list stock/FX synthetic perps via oracle indexes).
+    
+-   **Settlement:** USDC/USDT or platform-designated stablecoin as quote collateral; PnL realized on funding and close.
+    
+-   **Chains:** Multichain access (e.g., BNB Chain, Arbitrum, Ethereum, Solana bridges, etc.). Exact support can change—check the app before funding.
+    
+
+* * *
+
+# Signature Features
+
+1.  **Hidden / Iceberg Orders**  
+    Submit orders where **size and direction are not publicly visible**, reducing information leakage and **MEV/sandwich** risk on big tickets.
+    
+2.  **High Leverage Modes**  
+    Per-pair leverage caps vary; **aggressive “Pro” modes** exist for experienced users. (High leverage = high liquidation risk—use sparingly.)
+    
+3.  **Trade-and-Earn / Yield Collateral**  
+    Some collateral types can **earn yield while posted as margin**, improving capital efficiency for active traders.
+    
+4.  **Dual UI (Simple / Pro)**
+    
+    -   _Simple:_ streamlined swaps or one-click perp entries.
+        
+    -   _Pro:_ full ladder, depth, advanced order types, bracket orders, hotkeys.
+        
+5.  **Multichain Routing**  
+    Bridges/routers simplify **funding from multiple chains** so you don’t have to constantly hop networks to trade.
+    
+
+* * *
+
+# Markets & Instruments
+
+-   **Perpetual Futures** on major crypto assets (BTC, ETH, top alts) and selected long-tail pairs, with variable fee tiers and leverage limits.
+    
+-   Some deployments include **synthetic perps** (e.g., stock/FX indices) via oracle baskets—always verify the instrument spec and index methodology.
+    
+
+* * *
+
+# Fees & Funding
+
+-   **Maker/Taker Fees:** tiered by volume and/or staked/LP tiers.
+    
+-   **Funding Rate:** periodic payments between longs/shorts to keep perp price near index. (Interval and calc method can differ by venue.)
+    
+-   **Withdraw/Bridge Fees:** network-dependent.
+    
+
+* * *
+
+# Liquidity & Market Structure
+
+-   Uses **liquidity vaults / market-maker programs** and transparent incentives to deepen books.
+    
+-   **Hidden orders** and **reduced MEV surface** can make **large order execution** more predictable vs plain AMM perps.
+    
+-   Liquidity depth varies by pair/time—always check order book and impact before sizing up.
+    
+
+* * *
+
+# Token, Incentives & Governance (typical design)
+
+-   **Platform Token (ASTER):**
+    
+    -   _Utility:_ fee discounts, staking boosts, liquidity incentives, possible vote-escrow (ve) mechanics.
+        
+    -   _Incentives:_ trading rewards, LP emissions, referral tiers.
+        
+    -   _Governance:_ proposals on listings, risk params, incentive weights, treasury spend (implementation details evolve).
+        
+
+_(Confirm live tokenomics and emissions schedule on the official docs before committing capital.)_
+
+* * *
+
+# Risk Management
+
+-   **Portfolio & Isolated Margin:** choose risk segmentation per position.
+    
+-   **Auto-Deleverage (ADL) & Insurance Fund:** limit socialized loss in extreme moves.
+    
+-   **Oracle/Index Protections:** circuit breakers, mark-price banding, constrained funding spikes.
+    
+-   **Compliance & Geo-Access:** front-end geofencing may apply; contracts remain permissionless.
+    
+
+* * *
+
+# Security Posture
+
+-   **Audits / Bug Bounties:** review latest audit reports and bounty programs.
+    
+-   **Key Management:** sign with your wallet; never share seed phrases.
+    
+-   **MEV Mitigations:** hidden orders, private relays, batch auctions (where available).
+    
+
+* * *
+
+# Why Traders (incl. “whales”) Care
+
+-   **Execution quality:** privacy options + deeper books can **reduce slippage/MEV** on size.
+    
+-   **Latency & reliability:** “CEX-like” feel for frequent entries/exits.
+    
+-   **Capital efficiency:** cross-margin + yield collateral lowers cost of carry for active strategies.
+    
+-   **Transparent, on-chain rails:** verifiable fills and funding—no opaque internalization.
+    
+
+* * *
+
+# Where Aster Fits vs Other Perp DEXs
+
+-   **vs AMM Perps (GMX-style):** Better for active order-book strategies, iceberg/hidden flow; less reliant on GLP-like vaults for most pairs.
+    
+-   **vs Order-Book Perps:** Competes on **hidden-order privacy, leverage, multichain UX, and fee/incentive design**.
+    
+
+* * *
+
+# Typical User Journeys
+
+1.  **Active Trader:** fund with stablecoin → set cross-margin → ladder entries with reduce-only stops → farm trading rewards.
+    
+2.  **Size-Sensitive / Desk:** use hidden orders or child-orders to work a block; pre-check impact/funding; split routes across chains.
+    
+3.  **Yield-Aware LP:** deposit to liquidity/vaults (DYOR) → earn fees/incentives while managing inventory risk.
+    
+
+* * *
+
+# Key Caveats (Read This!)
+
+-   **Leverage Risk:** liquidation cascades can be brutal—use hard stops and sensible size.
+    
+-   **Oracle/Index Risk:** thin markets or stale feeds can distort PnL and funding.
+    
+-   **Smart-Contract Risk:** only trade amounts you can afford to lock in contracts; verify audits.
+    
+-   **Regulatory/Geo:** access and KYC requirements can change; stay updated.
+    
+
+* * *
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+# What is Aster?
+
+**Aster** is a decentralized derivatives exchange focused on **perpetual futures** (perps). It runs a non-custodial trading stack with an **order-book style** interface (vs pure AMM perps) and aims for **low latency, deep liquidity, and pro-grade tooling**. Its positioning is “CEX-like experience, DEX trust model.”
+
+* * *
+
+# Core Value Proposition
+
+-   **Trade perp futures permissionlessly** with self-custody.
+    
+-   **Professional tooling** (advanced order types, risk controls) in a Web3 wallet flow.
+    
+-   **Execution privacy options** to reduce MEV/front-running on large clips.
+    
+-   **Capital efficiency** via cross-margin/portfolio margin and yield-bearing collateral (where supported).
+    
+
+* * *
+
+# Architecture at a Glance
+
+-   **Frontend & Wallets:** Web app + common EVM wallets (and selected non-EVM via connectors/bridges).
+    
+-   **Matching/Execution:** On-chain or hybrid order-book settlement with oracle pricing; supports **limit / market / stop / reduce-only / post-only** and often **GTC/IOC** time-in-force.
+    
+-   **Risk Engine:** Cross-/isolated-margin, tiered maintenance margin; auto-deleverage & insurance fund for tail events.
+    
+-   **Oracles:** Multiple data feeds (crypto majors; some platforms also list stock/FX synthetic perps via oracle indexes).
+    
+-   **Settlement:** USDC/USDT or platform-designated stablecoin as quote collateral; PnL realized on funding and close.
+    
+-   **Chains:** Multichain access (e.g., BNB Chain, Arbitrum, Ethereum, Solana bridges, etc.). Exact support can change—check the app before funding.
+    
+
+* * *
+
+# Signature Features
+
+1.  **Hidden / Iceberg Orders**  
+    Submit orders where **size and direction are not publicly visible**, reducing information leakage and **MEV/sandwich** risk on big tickets.
+    
+2.  **High Leverage Modes**  
+    Per-pair leverage caps vary; **aggressive “Pro” modes** exist for experienced users. (High leverage = high liquidation risk—use sparingly.)
+    
+3.  **Trade-and-Earn / Yield Collateral**  
+    Some collateral types can **earn yield while posted as margin**, improving capital efficiency for active traders.
+    
+4.  **Dual UI (Simple / Pro)**
+    
+    -   _Simple:_ streamlined swaps or one-click perp entries.
+        
+    -   _Pro:_ full ladder, depth, advanced order types, bracket orders, hotkeys.
+        
+5.  **Multichain Routing**  
+    Bridges/routers simplify **funding from multiple chains** so you don’t have to constantly hop networks to trade.
+    
+
+* * *
+
+# Markets & Instruments
+
+-   **Perpetual Futures** on major crypto assets (BTC, ETH, top alts) and selected long-tail pairs, with variable fee tiers and leverage limits.
+    
+-   Some deployments include **synthetic perps** (e.g., stock/FX indices) via oracle baskets—always verify the instrument spec and index methodology.
+    
+
+* * *
+
+# Fees & Funding
+
+-   **Maker/Taker Fees:** tiered by volume and/or staked/LP tiers.
+    
+-   **Funding Rate:** periodic payments between longs/shorts to keep perp price near index. (Interval and calc method can differ by venue.)
+    
+-   **Withdraw/Bridge Fees:** network-dependent.
+    
+
+* * *
+
+# Liquidity & Market Structure
+
+-   Uses **liquidity vaults / market-maker programs** and transparent incentives to deepen books.
+    
+-   **Hidden orders** and **reduced MEV surface** can make **large order execution** more predictable vs plain AMM perps.
+    
+-   Liquidity depth varies by pair/time—always check order book and impact before sizing up.
+    
+
+* * *
+
+# Token, Incentives & Governance (typical design)
+
+-   **Platform Token (ASTER):**
+    
+    -   _Utility:_ fee discounts, staking boosts, liquidity incentives, possible vote-escrow (ve) mechanics.
+        
+    -   _Incentives:_ trading rewards, LP emissions, referral tiers.
+        
+    -   _Governance:_ proposals on listings, risk params, incentive weights, treasury spend (implementation details evolve).
+        
+
+_(Confirm live tokenomics and emissions schedule on the official docs before committing capital.)_
+
+* * *
+
+# Risk Management
+
+-   **Portfolio & Isolated Margin:** choose risk segmentation per position.
+    
+-   **Auto-Deleverage (ADL) & Insurance Fund:** limit socialized loss in extreme moves.
+    
+-   **Oracle/Index Protections:** circuit breakers, mark-price banding, constrained funding spikes.
+    
+-   **Compliance & Geo-Access:** front-end geofencing may apply; contracts remain permissionless.
+    
+
+* * *
+
+# Security Posture
+
+-   **Audits / Bug Bounties:** review latest audit reports and bounty programs.
+    
+-   **Key Management:** sign with your wallet; never share seed phrases.
+    
+-   **MEV Mitigations:** hidden orders, private relays, batch auctions (where available).
+    
+
+* * *
+
+# Why Traders (incl. “whales”) Care
+
+-   **Execution quality:** privacy options + deeper books can **reduce slippage/MEV** on size.
+    
+-   **Latency & reliability:** “CEX-like” feel for frequent entries/exits.
+    
+-   **Capital efficiency:** cross-margin + yield collateral lowers cost of carry for active strategies.
+    
+-   **Transparent, on-chain rails:** verifiable fills and funding—no opaque internalization.
+    
+
+* * *
+
+# Where Aster Fits vs Other Perp DEXs
+
+-   **vs AMM Perps (GMX-style):** Better for active order-book strategies, iceberg/hidden flow; less reliant on GLP-like vaults for most pairs.
+    
+-   **vs Order-Book Perps:** Competes on **hidden-order privacy, leverage, multichain UX, and fee/incentive design**.
+    
+
+* * *
+
+# Typical User Journeys
+
+1.  **Active Trader:** fund with stablecoin → set cross-margin → ladder entries with reduce-only stops → farm trading rewards.
+    
+2.  **Size-Sensitive / Desk:** use hidden orders or child-orders to work a block; pre-check impact/funding; split routes across chains.
+    
+3.  **Yield-Aware LP:** deposit to liquidity/vaults (DYOR) → earn fees/incentives while managing inventory risk.
+    
+
+* * *
+
+# Key Caveats (Read This!)
+
+-   **Leverage Risk:** liquidation cascades can be brutal—use hard stops and sensible size.
+    
+-   **Oracle/Index Risk:** thin markets or stale feeds can distort PnL and funding.
+    
+-   **Smart-Contract Risk:** only trade amounts you can afford to lock in contracts; verify audits.
+    
+-   **Regulatory/Geo:** access and KYC requirements can change; stay updated.
+    
+
+* * *
+
+## Quick Checklist Before You Trade
+
+-   Verify **official URL** and bookmark it.
+    
+-   Test a **small deposit & withdrawal** first.
+    
+-   Read **fee schedule & funding mechanics** for the pair you trade.
+    
+-   Check **order book depth** and **impact** for your typical size.
+    
+-   Set **reducing stops** (reduce-only, trigger types) and test them.
+    
+-   Monitor **funding & insurance fund health** during volatile periods.
+    
+
+### **What is zkVerify?**
+
+zkVerify is a **modular verification layer** for zero-knowledge proofs (ZKPs). Its core mission is to solve a major bottleneck in the Web3 world: the high cost and computational overhead of verifying ZKPs directly on general-purpose blockchains like Ethereum or Solana.
+
+Instead of having every application handle this complex and expensive process on its own, zkVerify acts as a dedicated, high-performance layer that specializes solely in **proof verification**. Think of it as a specialized service that offloads this heavy lifting from the main chains.
+
+### **⚙️ What Does It Do?**
+
+The project's main activities can be summarized as follows:
+
+-   **Lowers Cost and Boosts Speed**: By using a specialized, optimized layer, zkVerify aims to drastically reduce verification costs (claims suggest by up to 90%) and achieve verification times in milliseconds. This makes ZK-powered applications much more practical.
+    
+-   **Provides a Universal Verification Service**: zkVerify is designed to be compatible with various blockchains (Ethereum, Solana, etc.) and different ZKP systems (such as Groth16, STARKs, and Plonky2). This means developers can use a single verification service for their applications across different ecosystems.
+    
+-   **Simplifies Development**: It offers developers a unified interface to verify proofs without needing to deploy and maintain their own verifier contracts for each different blockchain or proof system. This significantly lowers the barrier to integrating ZK technology.
+    
+-   **Enables New Use Cases**: By making verification cheap and fast, zkVerify paves the way for broader adoption of ZKPs. This is crucial for applications requiring privacy (e.g., private transactions), scalability (e.g., ZK-rollups), and verifiable computation in areas like DeFi and AI.
+    
+
+### **💡 The Bigger Picture**
+
+In the Web3 infrastructure landscape, zkVerify represents a move towards **modularity**—where the tasks of a blockchain (like execution, settlement, and verification) are separated into specialized layers. It doesn't generate proofs itself but works alongside proof-generation services to create a complete, end-to-end ZK infrastructure.
+
+The project, developed by Horizen Labs, launched its mainnet and native token **$VFY** around the end of September 2025. The $VFY token is used for paying verification fees, staking to secure the network, and governance.
+<!-- DAILY_CHECKIN_2025-10-01_END -->
+<!-- Content_END -->
+## Quick Checklist Before You Trade
+
+-   Verify **official URL** and bookmark it.
+    
+-   Test a **small deposit & withdrawal** first.
+    
+-   Read **fee schedule & funding mechanics** for the pair you trade.
+    
+-   Check **order book depth** and **impact** for your typical size.
+    
+-   Set **reducing stops** (reduce-only, trigger types) and test them.
+    
+-   Monitor **funding & insurance fund health** during volatile periods.
+    
+
+### **What is zkVerify?**
+
+zkVerify is a **modular verification layer** for zero-knowledge proofs (ZKPs). Its core mission is to solve a major bottleneck in the Web3 world: the high cost and computational overhead of verifying ZKPs directly on general-purpose blockchains like Ethereum or Solana.
+
+Instead of having every application handle this complex and expensive process on its own, zkVerify acts as a dedicated, high-performance layer that specializes solely in **proof verification**. Think of it as a specialized service that offloads this heavy lifting from the main chains.
+
+### **⚙️ What Does It Do?**
+
+The project's main activities can be summarized as follows:
+
+-   **Lowers Cost and Boosts Speed**: By using a specialized, optimized layer, zkVerify aims to drastically reduce verification costs (claims suggest by up to 90%) and achieve verification times in milliseconds. This makes ZK-powered applications much more practical.
+    
+-   **Provides a Universal Verification Service**: zkVerify is designed to be compatible with various blockchains (Ethereum, Solana, etc.) and different ZKP systems (such as Groth16, STARKs, and Plonky2). This means developers can use a single verification service for their applications across different ecosystems.
+    
+-   **Simplifies Development**: It offers developers a unified interface to verify proofs without needing to deploy and maintain their own verifier contracts for each different blockchain or proof system. This significantly lowers the barrier to integrating ZK technology.
+    
+-   **Enables New Use Cases**: By making verification cheap and fast, zkVerify paves the way for broader adoption of ZKPs. This is crucial for applications requiring privacy (e.g., private transactions), scalability (e.g., ZK-rollups), and verifiable computation in areas like DeFi and AI.
+    
+
+### **💡 The Bigger Picture**
+
+In the Web3 infrastructure landscape, zkVerify represents a move towards **modularity**—where the tasks of a blockchain (like execution, settlement, and verification) are separated into specialized layers. It doesn't generate proofs itself but works alongside proof-generation services to create a complete, end-to-end ZK infrastructure.
+
+The project, developed by Horizen Labs, launched its mainnet and native token **$VFY** around the end of September 2025. The $VFY token is used for paying verification fees, staking to secure the network, and governance.
+<!-- DAILY_CHECKIN_2025-10-01_END -->
+
 # 2025-09-29
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 
