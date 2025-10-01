@@ -100,4 +100,10 @@ Today I didn’t study any new English words. Instead, I read a short piece abou
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 Today I didn’t spend time on vocabulary practice. Instead, I read about the Plaza Accord of 1985. At that time, the United States, Japan, Germany, France, and the United Kingdom agreed to coordinate their policies to weaken the U.S. dollar. The goal was to reduce trade imbalances, but the decision also led to rapid currency shifts and major effects on global markets. It showed me how international cooperation in monetary policy can change the direction of economies.
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+Today I didn’t review any vocabulary. Instead, I read about the Asian financial crisis of 1997. It began in Thailand, when the baht collapsed after being forced to float. Soon, the crisis spread to Indonesia, South Korea, and other countries, causing sharp currency depreciations and deep recessions. The event showed how fragile financial systems can be when capital flows suddenly reverse, and how international institutions like the IMF step in during emergencies.
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
