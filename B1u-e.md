@@ -434,4 +434,12 @@ I like watching this kind of video very much recently,especially when I am eatin
 
 Link:[https://youtu.be/52t241OQ7Ec?si=g9nnVbbiN3eluCgc](https://youtu.be/52t241OQ7Ec?si=g9nnVbbiN3eluCgc)
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+Happy National Day.
+
+today i just watched some Vlog on YouTube，mainly about daily English.
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
