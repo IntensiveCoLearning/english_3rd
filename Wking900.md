@@ -108,4 +108,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 新背单词35个，复习单词86个；跟两位友人聊天
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+新背单词35个，复习单词126个
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
