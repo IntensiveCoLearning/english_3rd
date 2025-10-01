@@ -176,4 +176,16 @@ Bitter aftertaste, there will be back to the world events, will be done in the f
 
 The world is difficult, will become easy not through a cold to the bone, how to get the fragrance of plum blossom.
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+You need to know that all counterattacks are prepared; all lights need time to be seen; all luck is the foreshadowing of efforts.
+
+You always say your dreams are out of reach, but you never get up early. Thinking too much is all questions, working to hard is all answers, you envy other people's lives, but you haven't survived other people's hardships, halfway up the mountain is too crowded, don't you want to go to the top of the mountain?
+
+Who does not have a process of hard work, life ups and downs, inevitably some setbacks, but that is not the reason for our fall. When our parents carry the burden for us, we are not qualified to take a step back. Your intermittent efforts and the days you muddle through are the zero of your previous efforts.
+
+No matter how hard it is, don't give up! Come on!
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
