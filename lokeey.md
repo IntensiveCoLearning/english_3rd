@@ -124,4 +124,10 @@ house、apartment、room、kitchen、bedroom、living room、table、chair、bed
 
 /
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+park、school、hospital、bank、supermarket、restaurant、library、post office、pharmacy、cinema
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
