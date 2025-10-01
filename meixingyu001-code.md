@@ -115,4 +115,10 @@ done
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 新的英语单词done
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+单词2单元done，把之前的单词复习了一遍，然后听力听了一个。
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
