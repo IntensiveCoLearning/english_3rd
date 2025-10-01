@@ -391,4 +391,16 @@ In holidays, **some people** prefer staying at home, **while others** choose to
 
 **除了给我们常规上课以外，老师还关注我们是否理解了知识的基础，我们是否遇到意想不到的问题，以及我们是否有信心继续学习。**
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+The participants **will start from** learning the history **and** development of Chinese characters, **and gradually move on to** the difference between ancient **and** modern Chinese, **and** the influence of Chinese to other languages in the world, **so as to** get a chance for everyone to appreciate the charm of our mother tongue.
+
+**参与者将从了解汉字的历史和发展开始，然后逐步进行到古汉语和现代汉语的区别，以及汉语对世界其它语言的影响，这样可以让大家有机会去欣赏我们母语的魅力。**
+
+The participants **will start from** learning the history **and** development of Chinese characters, **and gradually move on to** the difference between ancient **and** modern Chinese, **so as to** get a chance for everyone to appreciate the charm of our mother tongue.
+
+**参与者将从了解汉字的历史和发展开始，然后逐步进行到古汉语和现代汉语的区别，这样可以让大家有机会去欣赏我们母语的魅力。**
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
