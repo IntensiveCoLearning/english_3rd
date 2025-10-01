@@ -116,4 +116,10 @@ Started the advanced pronunciation dirlls using the IPA on The Phonetics.
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 Practiced advanced IPA drills and reviewed my Anki deck.
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+Advanced IPA dirlls + anki review
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
