@@ -93,4 +93,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 打卡100单词
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-10-01-1759314323130-image.png)
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
