@@ -203,6 +203,16 @@ Hey! **How come** you’re wearing a hat? I come to you where the hat. I got a h
 
 How come = What are you .... for? = Why are you ...
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+DD122
+
+The Amazon forest, which blankets 40% of Brazil’s territory, is the home to more than 1800 species of birds and several hundred species of mammals. And more than 1500 species of aquatic creatures inhabit its countless miles of waterways.
+
+有部分拼写错误，直接改，就不标出来了
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
 ## 写：
 
