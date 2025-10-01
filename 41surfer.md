@@ -226,4 +226,16 @@ Why so many whales choose hyperliquid to do their transaction?
 
 Why aster has risen so many? what's advantages of Aster?
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+Tonight,Our topic is about the security issues of Web3 regarding the theft of Binance's official account today.
+
+I will list some security incidents.
+
+How can we prevent?
+
+When the official website publishes articles, how can one identify whether they have been misused?
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
