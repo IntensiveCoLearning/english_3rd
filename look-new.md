@@ -84,4 +84,10 @@ recite words and sentences
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 SAME AS YESTERDAY
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+simple talk with foreign people
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
