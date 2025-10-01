@@ -145,4 +145,10 @@ I’ve set up my workout plan for next week.
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 1.Did nothing today, took a day off.
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.01
+<!-- DAILY_CHECKIN_2025-10-01_START -->
+1.NO
+<!-- DAILY_CHECKIN_2025-10-01_END -->
 <!-- Content_END -->
