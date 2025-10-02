@@ -187,18 +187,17 @@ piercings - 穿孔
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 复习下前天的
 
-German, rolf bu, is the man with the mostpiercings, he’s got 453  
-  
-  
-今天听力,太难了  
-  
+German, rolf bu, is the man with the mostpiercings, he’s got 453
+
+今天听力,太难了
+
 Sa 20 years ago,But noboady
 
 正确
 
-A satellite that was carried to space aboard the shuttle discover 20 years ago
+A satellite that was carried to space aboard the shuttle discover 20 years ago is about to fall to earth, but nobody knows where the debris will hit
 
-二十年前搭乘发现号航天飞机进入太空的一颗卫星
+二十年前搭乘发现号航天飞机进入太空的一颗卫星即将坠落地球，但无人知晓其残骸将坠落何处。
 <!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
