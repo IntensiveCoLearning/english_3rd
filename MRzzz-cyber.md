@@ -181,6 +181,25 @@ German, Rolf buchholz, is the man with the most piercings, he's got 453
   
 piercings - 穿孔
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+复习下前天的
+
+German, rolf bu, is the man with the mostpiercings, he’s got 453  
+  
+  
+今天听力,太难了  
+  
+Sa 20 years ago,But noboady
+
+正确
+
+A satellite that was carried to space aboard the shuttle discover 20 years ago
+
+二十年前搭乘发现号航天飞机进入太空的一颗卫星
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
 ## 今天学习了一下这个  
 [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)  
