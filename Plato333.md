@@ -66,4 +66,10 @@ Today continue to memorize words
 <!-- DAILY_CHECKIN_2025-09-29_START -->
 I continue to memorize words
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+Read English article
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
