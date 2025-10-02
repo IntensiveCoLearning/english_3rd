@@ -428,4 +428,21 @@ Mayor thought of the camp should be shut down Saturday, sighting on healthy cond
 
 Mayor Sam Adams ordered that the camp should be shut down Saturday, citing unhealthy conditions and the attraction of drug dealers and thieves .
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+**32 preliminary :beginning report ,decommission:to shut it down ,decade :10 years**  
+A primary govement report practise us the take 30 years or more to safely the conditional  
+for Saturday and it could be decade before new barroes decreas aforst to free and return of the area .  
+Answer:A preliminary government report predicts it 'll take 30 years or more to safely decommission the facility and it could be decades before nearby residents who were forced to flee can return the area .
+
+33 uh don't want to get into :don't want to talk about  
+I was lifting you know chairs out of all way broken glass uh other thing to tell you wanna going to but uh it was uh terrific to see it at least .  
+answer :I was lifting you know chairs **out of** the way broken glass uh other sanitary items I don't want to get into ,but uh it was uh horrific to say the at least .
+
+[34.TOYOTA](http://34.TOYOTA)  
+TOYOTa is a car like more than half million vil costs for problem like make them difficult to stear .  
+Answer :TOYOTA is recalling more than half million vehicles for problems that could make them difficult to steer .
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
