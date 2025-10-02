@@ -130,4 +130,10 @@ Medium is a home for human stories and ideas. Here, anyone can share knowledge a
 
 The internet is noisy and chaotic; Medium is quiet yet full of insight. It’s simple, beautiful, collaborative, and helps you find the right readers for whatever you have to say.
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+Continue to learn English for Reddit
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
