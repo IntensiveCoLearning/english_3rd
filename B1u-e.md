@@ -442,4 +442,10 @@ Happy National Day.
 
 today i just watched some Vlog on YouTube，mainly about daily English.
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+Half an hour english listening practice and watch some vlog on youtube.
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
