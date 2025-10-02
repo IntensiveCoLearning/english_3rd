@@ -99,4 +99,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-10-01_START -->
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-10-01-1759314323130-image.png)
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+看了2小时的纯英文电影
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
