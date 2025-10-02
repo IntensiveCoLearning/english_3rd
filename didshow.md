@@ -130,4 +130,10 @@ also I listen to a English vedio.
     
 -   listen to podcast in xiaoyuzhou
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+listen to podcast in xiaoyuzhou
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
