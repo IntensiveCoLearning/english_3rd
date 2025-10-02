@@ -106,4 +106,10 @@ Today I didn’t spend time on vocabulary practice. Instead, I read about the Pl
 <!-- DAILY_CHECKIN_2025-10-01_START -->
 Today I didn’t review any vocabulary. Instead, I read about the Asian financial crisis of 1997. It began in Thailand, when the baht collapsed after being forced to float. Soon, the crisis spread to Indonesia, South Korea, and other countries, causing sharp currency depreciations and deep recessions. The event showed how fragile financial systems can be when capital flows suddenly reverse, and how international institutions like the IMF step in during emergencies.
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+Today I practiced a few new words: _inflation, recession, currency, crisis,_ and _policy._ Then I read a short note about the 2008 financial crisis. When major U.S. banks faced collapse, the Federal Reserve introduced emergency policies to stabilize the currency and financial system. Inflation risks were debated, but the priority was to prevent a deep recession. This moment reminded me how closely connected words like these are to real events in economic history.
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
