@@ -186,4 +186,12 @@ Vince 雅思课程 两节 70min
 
 听力3集
 <!-- DAILY_CHECKIN_2025-09-29_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+影子跟读1h
+
+旅途路上400张单词闪卡
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
