@@ -148,4 +148,18 @@ How can we prevent?
 
 When the official website publishes articles, how can one identify whether they have been misused?
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+Tonight,study Daily English Dictation
+
+**New York swept the Tampa Bay Rays by identical 4-2 scores in a day-night doubleheader Wendesday.**
+
+**sweep—扫除**
+
+**identical—相同的**
+
+**doubleheader—连赛两场**
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
