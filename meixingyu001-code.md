@@ -121,4 +121,10 @@ done
 <!-- DAILY_CHECKIN_2025-10-01_START -->
 单词2单元done，把之前的单词复习了一遍，然后听力听了一个。
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+背了下动物的单词，真难背。
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
