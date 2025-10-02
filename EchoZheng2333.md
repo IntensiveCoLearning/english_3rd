@@ -96,4 +96,10 @@ ETHPanda builder
 <!-- DAILY_CHECKIN_2025-09-30_START -->
 学习《绝望主妇》第一季第二集台词本
 <!-- DAILY_CHECKIN_2025-09-30_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+练习口语20分钟，背单词20分钟
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
