@@ -188,4 +188,18 @@ Who does not have a process of hard work, life ups and downs, inevitably some se
 
 No matter how hard it is, don't give up! Come on!
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.02
+<!-- DAILY_CHECKIN_2025-10-02_START -->
+Like a word called no break, no stand, some things must be destroyed in order to usher in a new life.
+
+Whether it's the people who consume youthe things that make you afraid and anxious, or the lazy and fragile you in the past, you must let them "die" so that you can break the cycle and be reborn.
+
+Everyone is afraid of change and fear of the unknown but change means new opportunities and light.
+
+Examine the past review and summarize, learn from the bitter experience, destroy and reshape, Nirvana rebirth!
+
+This is the awakening, although the process is painful, but it is also the only way for you to change Big waves wash the sand, eliminating the false and retaining the true. Brave people can usher in a better life.
+<!-- DAILY_CHECKIN_2025-10-02_END -->
 <!-- Content_END -->
