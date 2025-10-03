@@ -112,4 +112,10 @@ Today I didn’t review any vocabulary. Instead, I read about the Asian financia
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 Today I practiced a few new words: _inflation, recession, currency, crisis,_ and _policy._ Then I read a short note about the 2008 financial crisis. When major U.S. banks faced collapse, the Federal Reserve introduced emergency policies to stabilize the currency and financial system. Inflation risks were debated, but the priority was to prevent a deep recession. This moment reminded me how closely connected words like these are to real events in economic history.
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+Today I practiced a few words: _gold standard, debt, interest rate, default,_ and _stability._ Later, I read a short story about the Latin American debt crisis of the 1980s. Many countries borrowed heavily in U.S. dollars, but when interest rates rose sharply, they could not repay. Several nations faced the risk of default, and international lenders had to step in with rescue plans. This history showed me how debt and monetary policy are deeply linked to global stability.
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
