@@ -136,4 +136,10 @@ The internet is noisy and chaotic; Medium is quiet yet full of insight. It’s s
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 Continue to learn English for Reddit
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+Watch the original English version of Friends, but Chinese subtitles are required.
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
