@@ -445,4 +445,20 @@ answer :I was lifting you know chairs **out of** the way broken glass uh other s
 TOYOTa is a car like more than half million vil costs for problem like make them difficult to stear .  
 Answer :TOYOTA is recalling more than half million vehicles for problems that could make them difficult to steer .
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+35: nerver-wracking =nervous /worried  
+It‘'s great ,it has some been a ruvel new the thing were here a long process to get here  
+It‘'s great ,it has um been a little bit nerve-wracking ,um and it's been a long process to get here .
+
+36: intercepted:something happened in the middle ,the plan isn't continue.  
+When the family left Yuenan by boat ,Mon for Thailand But the boat was accept by the pilot ,After years of trying the father located his son in Thailand  
+  
+When the family left Vietnam by boat ,bound for Thailand ,But the boat was intercepted by the pirates ...,After years of trying, the father located his son in Thailand .
+
+37, icky  
+A going mess narrow traffic is going along the busy tense brike the tracks were drive ways across to 40 miles streach from east side
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
