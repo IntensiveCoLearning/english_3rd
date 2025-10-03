@@ -134,4 +134,10 @@ Walked for about 25,000 steps today in Yangzhou.
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 Placeholder for today...
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+Went to wildlife zoo in Nantong today
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
