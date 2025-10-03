@@ -202,4 +202,18 @@ Examine the past review and summarize, learn from the bitter experience, destroy
 
 This is the awakening, although the process is painful, but it is also the only way for you to change Big waves wash the sand, eliminating the false and retaining the true. Brave people can usher in a better life.
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+No matter what you are going through, good or bad, life will continueto move forward.
+
+Sometimes hurt and failure is not necessarily a bad thing, it will make you better,so is loneliness and loss. Everything will turn out to be a good thing in the end, as long as you can go to the end.
+
+Before a certain age, you can rely on overdraft body, small cleverness and God to give you the luck to live all the time.
+
+However,after a certain age, what can really make you go far is self-discipline positivity and diligence. Life is not always as people wish, there is not so much in this world just right, perhaps hard work may not berewarded, but the process ofhard work will certainly make you a better self, we are in this world, what we choose is what we save, the richness of life depends on ourselves, just as what you pay at this moment determines what kind of person you will become in the future.
+
+When you can't change the world, you can change yourself.
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
