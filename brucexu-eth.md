@@ -122,4 +122,10 @@ Practiced advanced IPA drills and reviewed my Anki deck.
 <!-- DAILY_CHECKIN_2025-10-01_START -->
 Advanced IPA dirlls + anki review
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+IPA drills and Anki cards review
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
