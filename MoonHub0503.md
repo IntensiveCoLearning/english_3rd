@@ -369,6 +369,58 @@ _(Confirm live tokenomics and emissions schedule on the official docs before com
 
 * * *
 
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+# **加沙援助船队拦截事件引发国际风波**
+
+以下是2025年10月3日的一则重要国际新闻，涉及以色列拦截前往加沙的援助船队及全球反应。
+
+**中文新闻**
+
+**以色列拦截加沙援助船队引发全球谴责**
+
+截至2025年10月3日，以色列海军已完成对前往加沙地带的"全球苏穆德"援助船队的拦截行动。该船队由约50艘船只组成，载有来自超过40个国家的500多名志愿者，旨在挑战以色列的海上封锁并向加沙运送食品和医疗援助。
+
+以色列外交部发表声明称，除一艘"仍保持距离"的船只外，所有援助船均已被阻止进入地中海，并表示没有任何船只成功进入活跃战区或突破以色列的"合法"海上封锁。
+
+此次拦截行动引发了广泛的国际反应：
+
+-   **欧洲响应**：希腊、意大利、德国、荷兰、英国、葡萄牙、法国和西班牙等国均对事件表示谴责，并呼吁确保其公民安全。
+    
+-   **全球抗议**：意大利工会宣布全国大罢工，罗马、米兰、巴塞罗那、柏林和巴黎等城市爆发抗议活动。
+    
+-   **多国谴责**：土耳其外交部谴责此举"严重违反国际法"，约旦称之为"对航行自由的公然侵犯"。
+    
+-   **拉丁美洲行动**：哥伦比亚总统下令驱逐以色列全部外交代表团。
+    
+
+据组织者称，船队志愿者将被转移至以色列并面临驱逐。近两年来，加沙冲突已导致超过65,000人丧生。
+
+* * *
+
+**English News**
+
+**Global Condemnation After Israel Intercepts Gaza Aid Flotilla**
+
+As of October 3, 2025, the Israeli navy has completed its takeover of the Gaza-bound Global Sumud Flotilla (GSF). The flotilla, comprising some 50 vessels with over 500 volunteers from more than 40 countries, aimed to challenge Israel's naval blockade and deliver food and medical aid to Palestinians.
+
+The Israeli Foreign Ministry stated in a statement that all aid vessels have been stopped in the Mediterranean Sea, except for one that "remains at a distance" from Gaza. It added that none of the vessels has succeeded in entering an active combat zone or breaching Israel's "lawful" naval blockade.
+
+The interception triggered widespread international reactions:
+
+-   **European Response**: Countries including Greece, Italy, Germany, the Netherlands, Britain, Portugal, France, and Spain condemned the interception and called for the safety of their citizens.
+    
+-   **Global Protests**: Italy's unions declared a nationwide general strike, with protests erupting in Rome, Milan, Barcelona, Berlin, Paris, and other cities.
+    
+-   **International Condemnation**: Turkey's Foreign Ministry called the move "an act of terrorism that gravely violates international law," while Jordan condemned it as a "flagrant violation of international law".
+    
+-   **Latin American Action**: Colombian President Gustavo Petro ordered the expulsion of Israel's entire diplomatic delegation.
+    
+
+According to organizers, flotilla participants are being transferred to Israel for deportation. The latest round of the Israeli-Palestinian conflict has claimed more than 65,000 lives in Gaza over nearly two years.
+<!-- DAILY_CHECKIN_2025-10-03_END -->
+<!-- Content_END -->
 ## Quick Checklist Before You Trade
 
 -   Verify **official URL** and bookmark it.
