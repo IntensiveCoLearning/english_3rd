@@ -453,7 +453,9 @@ Half an hour english listening practice and watch some vlog on youtube.
 # 2025.10.03
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 I really, really want to simply jot down today's events. Yes, I have ten wonderful friends. We met in high school and have been together for eight years now. Today, it's rare that all of us are gathered together to celebrate the move-in of our good friends' new home. Everyone is very happy. After all, the last time we all gathered together was in 2021, and four years have passed already.
+
 After graduation, we each went our separate ways on the paths of life and work. The chances to gather together became fewer and fewer. Most of the time, we would be short of one or two people. Even though we don't see each other as often as in school days and our communication is not as frequent as before, our relationship has never become estranged. Every time we meet, it's still a familiar atmosphere, and there are endless topics to talk about, allowing us to express ourselves freely. 
+
 Our activities are always very simple: having meals, drinking milk tea, playing mahjong... But precisely these ordinary and trivial moments make everyone truly happy. Being with them, I also feel extremely happy and relaxed. Truly, I'm very fortunate to have met this group of friends, and I also cherish this friendship very much.
 <!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
