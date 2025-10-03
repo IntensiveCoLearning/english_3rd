@@ -105,4 +105,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 看了2小时的纯英文电影
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+打卡100单词
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
