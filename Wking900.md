@@ -120,4 +120,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 新背单词35个，复习单词54个；复习《走遍美国》前八期
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+新背单词35个，复习单词74个。跟两位外国友人聊天
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
