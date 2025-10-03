@@ -151,4 +151,10 @@ I’ve set up my workout plan for next week.
 <!-- DAILY_CHECKIN_2025-10-01_START -->
 1.NO
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+1.Today, I continued following up on the ETH Shanghai project and drafted the preliminary execution plan.
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
