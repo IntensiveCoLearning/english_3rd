@@ -102,4 +102,18 @@ ETHPanda builder
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 练习口语20分钟，背单词20分钟
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+口语练习
+
+1.  to 读成 特，nice to meet you
+    
+2.  and 读成 恩，cats and dogs
+    
+3.  then 读成 em，don't take them away
+    
+4.  for 读成 fer，It's for you
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
