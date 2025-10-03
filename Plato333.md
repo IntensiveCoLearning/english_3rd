@@ -72,4 +72,10 @@ I continue to memorize words
 <!-- DAILY_CHECKIN_2025-10-02_START -->
 Read English article
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+Read English article
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
