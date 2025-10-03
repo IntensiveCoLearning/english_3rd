@@ -130,4 +130,10 @@ house、apartment、room、kitchen、bedroom、living room、table、chair、bed
 <!-- DAILY_CHECKIN_2025-10-01_START -->
 park、school、hospital、bank、supermarket、restaurant、library、post office、pharmacy、cinema
 <!-- DAILY_CHECKIN_2025-10-01_END -->
+
+
+# 2025.10.03
+<!-- DAILY_CHECKIN_2025-10-03_START -->
+menu、order、waiter、waitress、bill、tip、cup、glass、fork、spoon
+<!-- DAILY_CHECKIN_2025-10-03_END -->
 <!-- Content_END -->
