@@ -144,6 +144,6 @@ Went to wildlife zoo in Nantong today
 
 # 2025.10.04
 <!-- DAILY_CHECKIN_2025-10-04_START -->
-placeholder......
+Back to home in Shanghai from Nantong today...went to Langshan this morning, which is a quite small hill lol
 <!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
