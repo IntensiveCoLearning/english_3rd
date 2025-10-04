@@ -118,4 +118,10 @@ Today I practiced a few new words: _inflation, recession, currency, crisis,_ and
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 Today I practiced a few words: _gold standard, debt, interest rate, default,_ and _stability._ Later, I read a short story about the Latin American debt crisis of the 1980s. Many countries borrowed heavily in U.S. dollars, but when interest rates rose sharply, they could not repay. Several nations faced the risk of default, and international lenders had to step in with rescue plans. This history showed me how debt and monetary policy are deeply linked to global stability.
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+Today I learned a few words: _union, integration, exchange rate, sovereignty,_ and _agreement._ Then I read a short story about the creation of the euro. In the 1990s, European countries agreed to give up their national currencies and build a single monetary union. The goal was to strengthen economic integration and reduce exchange rate risks. However, it also meant each country had to give up some sovereignty over its own monetary policy. This story showed me how cooperation can reshape the financial world.
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
