@@ -78,4 +78,10 @@ Read English article
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 Read English article
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+Read English article
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
