@@ -126,4 +126,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 新背单词35个，复习单词74个。跟两位外国友人聊天
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+新背单词35个，复习单词46个
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
