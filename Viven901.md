@@ -216,4 +216,14 @@ However,after a certain age, what can really make you go far is self-discipline 
 
 When you can't change the world, you can change yourself.
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+Don't worry too much about things that haven't happened yet.
+
+Your cranky thoughts and worries will only make you feel powerless and sad by constantly competing with yourself.
+
+What you should do is to calm down,start with small things like having a good meal, and do every little thing around you well, like catching fireflies one after another from the forest, and finally the light that blooms in the bottle is your own medal of honor.
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
