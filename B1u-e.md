@@ -458,4 +458,10 @@ After graduation, we each went our separate ways on the paths of life and work. 
 
 Our activities are always very simple: having meals, drinking milk tea, playing mahjong... But precisely these ordinary and trivial moments make everyone truly happy. Being with them, I also feel extremely happy and relaxed. Truly, I'm very fortunate to have met this group of friends, and I also cherish this friendship very much.
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+Today just watched some YouTube vlogs and some practical English videos for daily use.
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
