@@ -157,4 +157,10 @@ I’ve set up my workout plan for next week.
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 1.Today, I continued following up on the ETH Shanghai project and drafted the preliminary execution plan.
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+1.  Today, my tire blew out. It was almost a serious accident.
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
