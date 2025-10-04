@@ -162,4 +162,18 @@ Tonight,study Daily English Dictation
 
 **doubleheader—连赛两场**
 <!-- DAILY_CHECKIN_2025-10-02_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+There are too many things to do during the National Day holiday,so I didn't check in yestoday.
+
+Tonight,I study in Daily English Ditaction:
+
+**Jim Henson,creator of the muppets-from Kermit the Frog to Sesame Street is born in Greenville Mississippi.**
+
+**muppet:布偶**
+
+**Sesame:芝麻**
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
