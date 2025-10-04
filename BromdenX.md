@@ -142,4 +142,12 @@ Continue to learn English for Reddit
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 Watch the original English version of Friends, but Chinese subtitles are required.
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+I drink water
+
+i read books quietly in zhe classroom every day
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
