@@ -136,4 +136,10 @@ park、school、hospital、bank、supermarket、restaurant、library、post offi
 <!-- DAILY_CHECKIN_2025-10-03_START -->
 menu、order、waiter、waitress、bill、tip、cup、glass、fork、spoon
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+passport、ticket、hotel、suitcase、beach、map、camera、tourist、reservation、sightseeing
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
