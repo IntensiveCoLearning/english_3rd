@@ -461,4 +461,24 @@ When the family left Vietnam by boat ,bound for Thailand ,But the boat was inter
 37, icky  
 A going mess narrow traffic is going along the busy tense brike the tracks were drive ways across to 40 miles streach from east side
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.04
+<!-- DAILY_CHECKIN_2025-10-04_START -->
+35 It is great ,it has um, been a little bit **nerve-wracking** and um it's been a long process to get here .
+
+36 When the family left Vietnam by boat ,bound for Thailand ,But the boat was intercepted by pirates, After years trying ,the father located his son in Thailand .
+
+37 gooey mess: it is a liquid ,it is sticky, mess  
+snarl :twist  
+A leaking valve：没有拧紧的阀门  
+driveway sealant :车道密封剂
+
+Are going mess narrow traffic around a busy tons of then you change your bike , a leaking well when the turks were drive away see the across for a 40 miles streach of each bond side .  
+Answer :A **gooey** mess **snarls** traffic along the busy **Pennsylvania Turnpike** .A **leaking** valve on a tanker spread **driveway sealant** across a 40-miles stretch of the eastbound side .
+
+38 concert  
+A music is being played at church in Germany. And well it really resupts of main science it started their happen just 11 call changers ,and the last one is in the schedual until July 2012  
+Answer:A music is being played at a church in Germany. And well it really lives up to its name since it started there have been just 11 chord changers ,and the next one isn't the scheduled until July 2012
+<!-- DAILY_CHECKIN_2025-10-04_END -->
 <!-- Content_END -->
