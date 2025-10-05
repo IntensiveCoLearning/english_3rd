@@ -278,4 +278,20 @@ reception
 
 groom
 <!-- DAILY_CHECKIN_2025-10-03_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+day 18Upper - Intermediate - Protest!
+
+protest
+
+break out
+
+bailout
+
+injustice
+
+outrage
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
