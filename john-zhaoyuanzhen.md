@@ -146,4 +146,10 @@ Went to wildlife zoo in Nantong today
 <!-- DAILY_CHECKIN_2025-10-04_START -->
 Back to home in Shanghai from Nantong today...went to Langshan this morning, which is a quite small hill lol
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+Suffering from cold/flu today. It's so awful. Dizziness is about to take over me now....
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
