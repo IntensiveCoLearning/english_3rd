@@ -142,4 +142,10 @@ menu、order、waiter、waitress、bill、tip、cup、glass、fork、spoon
 <!-- DAILY_CHECKIN_2025-10-04_START -->
 passport、ticket、hotel、suitcase、beach、map、camera、tourist、reservation、sightseeing
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+headache、fever、medicine、doctor、hospital、pain、appointment、pharmacy、better、rest
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
