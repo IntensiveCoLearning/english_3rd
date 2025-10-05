@@ -481,4 +481,22 @@ Answer :A **gooey** mess **snarls** traffic along the busy **Pennsylvania Turnpi
 A music is being played at church in Germany. And well it really resupts of main science it started their happen just 11 call changers ,and the last one is in the schedual until July 2012  
 Answer:A music is being played at a church in Germany. And well it really lives up to its name since it started there have been just 11 chord changers ,and the next one isn't the scheduled until July 2012
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+37， gooey =sticky mess ,messy room , snarl(V.) traffic=twist traffic t,urnpike= high way , leaking valve: didn't shut it completely, driveway sealant ,stretch :narrow but long  
+Pennsylvania
+
+38, lives up to its name :名符其实  
+A music is being play at a church in Germany ,and well it really leaves up to its name ,since it started there happen just 11core changers ,and the next one isn't in schedul until July 22nd.  
+**Answer:** The music is being played at a church in Germany ,and well it really **lives up to its name** ,since it started， there have been just 11 chord changes ,and the next one isn't in scheduled until July 2012.
+
+  
+39， Clorado ,Good Samaritans I am in the dump /I am down on the dumps :depressed / dumps (n.) garbages paddies 稻田  
+  
+Dozens of white rabbits were Penny ride the long side of the road on Sunday night ,more than sixty bunny were scared on the shoulder
+
+Answer: Dozens of white rabbits were apparently dumped along the side of the road Sunday night ,more than sixty bunnies were scattered on the shoulder .
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
