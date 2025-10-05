@@ -464,4 +464,12 @@ Our activities are always very simple: having meals, drinking milk tea, playing 
 <!-- DAILY_CHECKIN_2025-10-04_START -->
 Today just watched some YouTube vlogs and some practical English videos for daily use.
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+Today I flashed to Guangxi and came to my grandmother's house. It's been almost a year since I last visited, and it's really beautiful here in October. Every time I come here at this time, as soon as I open the door, I see a green field, which is super comfortable.
+
+This year's National Day coincided with the Mid-Autumn Festival holiday, and my grandmother also celebrated her 88th birthday. I hope her old man can be in good health and happy everyday.
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
