@@ -132,4 +132,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-10-04_START -->
 新背单词35个，复习单词46个
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+新背单词35个，复习单词71个
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
