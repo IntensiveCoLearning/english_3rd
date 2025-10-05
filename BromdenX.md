@@ -150,4 +150,12 @@ I drink water
 
 i read books quietly in zhe classroom every day
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+Solana ETF approval coming next week
+
+i read books quietly in the classroom every day
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
