@@ -226,4 +226,12 @@ Your cranky thoughts and worries will only make you feel powerless and sad by co
 
 What you should do is to calm down,start with small things like having a good meal, and do every little thing around you well, like catching fireflies one after another from the forest, and finally the light that blooms in the bottle is your own medal of honor.
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+Nothing that is truly valuable can be accomplished easily and comfortably. The silence in the morning, the sleepless starlight, the sober restraint, the persistence of fighting alone, and the promises made secretly are the moments when I love myself.
+
+Life is about upgrading and fighting monsters step by step, keep at it, and your persistent efforts wil definitely pay off.
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
