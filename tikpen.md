@@ -176,4 +176,10 @@ Tonight,I study in Daily English Ditaction:
 
 **Sesame:芝麻**
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.05
+<!-- DAILY_CHECKIN_2025-10-05_START -->
+My cousin got married today. I got up at six in the morning to pick up the bride. Although everyone got up very early,but they were all very happy. My cousin has entered the next stage of his life, and I hope my career can also move on to the next stage.
+<!-- DAILY_CHECKIN_2025-10-05_END -->
 <!-- Content_END -->
