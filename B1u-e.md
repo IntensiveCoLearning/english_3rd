@@ -472,4 +472,14 @@ Today I flashed to Guangxi and came to my grandmother's house. It's been almost 
 
 This year's National Day coincided with the Mid-Autumn Festival holiday, and my grandmother also celebrated her 88th birthday. I hope her old man can be in good health and happy everyday.
 <!-- DAILY_CHECKIN_2025-10-05_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+How time flies. Today is the last day to check in.  
+Today is my grandma's birthday. I just check in and don't study. Hahahaha, i'm going back to Guandong tonight and so afraid of traffic jams. good lucky foe me.
+
+Thank you to every friend who signed up for this English Intensive Co-learning activity. Whether you practice by checking in everyday,study quietly,or actively share in the group, your efforts make this journey more wonderful.  
+See you in the next episode.
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
