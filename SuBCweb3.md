@@ -117,4 +117,10 @@ SuBC
 <!-- DAILY_CHECKIN_2025-10-04_START -->
 打卡250单词
 <!-- DAILY_CHECKIN_2025-10-04_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_3rd/main/assets/SuBCweb3/images/2025-10-06-1759731197353-image.png)
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
