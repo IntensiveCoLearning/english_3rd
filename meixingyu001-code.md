@@ -133,4 +133,13 @@ done
 <!-- DAILY_CHECKIN_2025-10-05_START -->
 又无所事事了一个英语hh
 <!-- DAILY_CHECKIN_2025-10-05_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+听力+1  
+单词+1  
+  
+动物界的单词好难
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
