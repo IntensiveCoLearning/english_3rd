@@ -138,4 +138,10 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2025-10-05_START -->
 新背单词35个，复习单词71个
 <!-- DAILY_CHECKIN_2025-10-05_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+新背单词35个，复习单词57个；跟读《走遍美国》第8期；和两个外国友人聊天
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
