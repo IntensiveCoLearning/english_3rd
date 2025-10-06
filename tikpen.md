@@ -182,4 +182,10 @@ Tonight,I study in Daily English Ditaction:
 <!-- DAILY_CHECKIN_2025-10-05_START -->
 My cousin got married today. I got up at six in the morning to pick up the bride. Although everyone got up very early,but they were all very happy. My cousin has entered the next stage of his life, and I hope my career can also move on to the next stage.
 <!-- DAILY_CHECKIN_2025-10-05_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+Today is the last day. As this activity provides some learning approaches, it enables me to study more effectively and improve my English proficiency. I'm very grateful for this activity. It has been of great help to me.
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
