@@ -163,4 +163,10 @@ I’ve set up my workout plan for next week.
 <!-- DAILY_CHECKIN_2025-10-05_START -->
 1.  Today, my tire blew out. It was almost a serious accident.
 <!-- DAILY_CHECKIN_2025-10-05_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+1.It’s the Mid-Autumn Festival today, so I’m taking the day off to chill!
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
