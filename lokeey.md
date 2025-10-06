@@ -148,4 +148,10 @@ passport、ticket、hotel、suitcase、beach、map、camera、tourist、reservat
 <!-- DAILY_CHECKIN_2025-10-05_START -->
 headache、fever、medicine、doctor、hospital、pain、appointment、pharmacy、better、rest
 <!-- DAILY_CHECKIN_2025-10-05_END -->
+
+
+# 2025.10.06
+<!-- DAILY_CHECKIN_2025-10-06_START -->
+hobby、photography、gardening、hiking、painting、yoga、blogging、knitting、fishing、diy
+<!-- DAILY_CHECKIN_2025-10-06_END -->
 <!-- Content_END -->
