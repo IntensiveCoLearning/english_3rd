@@ -228,7 +228,7 @@ Telegram：https://t.me/LXDAO/6912
 | [xiaoxiang0000](https://github.com/IntensiveCoLearning/english_3rd/blob/main/xiaoxiang0000.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [didshow](https://github.com/IntensiveCoLearning/english_3rd/blob/main/didshow.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ❌ | | |
 | [cmu-ruoyan-lgl](https://github.com/IntensiveCoLearning/english_3rd/blob/main/cmu-ruoyan-lgl.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | |
-| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |
+| [john-zhaoyuanzhen](https://github.com/IntensiveCoLearning/english_3rd/blob/main/john-zhaoyuanzhen.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [kiwifruits686](https://github.com/IntensiveCoLearning/english_3rd/blob/main/kiwifruits686.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [0xhirugohan](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhirugohan.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [yoko-pm](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yoko-pm.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
@@ -241,8 +241,8 @@ Telegram：https://t.me/LXDAO/6912
 | [wakyde](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wakyde.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [Nancy0209](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Nancy0209.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [Ssssy-Sara](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Ssssy-Sara.md) | ✅ | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
-| [zhouCode](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhouCode.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   |
-| [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   |
+| [zhouCode](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zhouCode.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |
+| [wangleah1124-web](https://github.com/IntensiveCoLearning/english_3rd/blob/main/wangleah1124-web.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [LarixNi](https://github.com/IntensiveCoLearning/english_3rd/blob/main/LarixNi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [Wind558](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wind558.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [liuyuhuai3](https://github.com/IntensiveCoLearning/english_3rd/blob/main/liuyuhuai3.md) | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -273,9 +273,9 @@ Telegram：https://t.me/LXDAO/6912
 | [Wjmwjm614](https://github.com/IntensiveCoLearning/english_3rd/blob/main/Wjmwjm614.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [M9nonper](https://github.com/IntensiveCoLearning/english_3rd/blob/main/M9nonper.md) | ⭕️ | ⭕️ | ✅ | ✅ | ✅ | ❌ | | | | | | | | | | | | | | | | |
 | [RaeQiu](https://github.com/IntensiveCoLearning/english_3rd/blob/main/RaeQiu.md) | ⭕️ | ⭕️ | ✅ | ✅ | ❌ | | | | | | | | | | | | | | | | | |
-| [yrd241](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yrd241.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ |   |
+| [yrd241](https://github.com/IntensiveCoLearning/english_3rd/blob/main/yrd241.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ⭕️ |
 | [0xhha0](https://github.com/IntensiveCoLearning/english_3rd/blob/main/0xhha0.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ❌ | | | | | | | | | | | | | | | |
-| [BromdenX](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BromdenX.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ |   |
+| [BromdenX](https://github.com/IntensiveCoLearning/english_3rd/blob/main/BromdenX.md) | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ⭕️ |
 | [llllIIIIllllIIII](https://github.com/IntensiveCoLearning/english_3rd/blob/main/llllIIIIllllIIII.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
 | [zlp528](https://github.com/IntensiveCoLearning/english_3rd/blob/main/zlp528.md) | ⭕️ | ✅ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [edwardqin-creator](https://github.com/IntensiveCoLearning/english_3rd/blob/main/edwardqin-creator.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | | |
@@ -683,15 +683,16 @@ Telegram：https://t.me/LXDAO/6912
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
-- 总参与人数: 1
-- 完成人数: 1
-- 完成用户: 
-- 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
+- 总参与人数: 120
+- 完成人数: 15
+- 完成用户: B1u-e, tikpen, SuBCweb3, lokeey, abel-king, pillowtalk-Qy, meixingyu001-code, Viven901, john-zhaoyuanzhen, Wking900, zhouCode, wangleah1124-web, easyshellworld, yrd241, BromdenX
+- 全勤用户: Wking900
+- 淘汰人数: 105
+- 淘汰率: 87.50%
 <!-- STATISTICALDATA_END -->
 
 ## 请假规则
